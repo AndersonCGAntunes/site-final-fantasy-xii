@@ -5,7 +5,7 @@
 .App-header {
   background-color: #282c34;
   min-height: 5vh;
-  width: 100vh;
+  width: 600px;
   display: flex;
   flex-direction: row;
   align-items: top;
@@ -15,19 +15,43 @@
   margin: 0 auto;
 }
 
-.Tipo-equipamento {
-  display: flex;
-  justify-content: space-around;
-  flex-wrap: wrap;
+.Container-equipamento {
+  width: 600px;
+  margin: 0 auto;
 }
 
-.Equipamento {
-  border: 1px solid black;
-  flex-grow: 1;
-  align-self: flex-start;
+section {
+  display: table;
+  width: 100%;
 }
 
-.Descricao {
-  border: 1px solid black;
-  flex-grow: 3;
+section > * {
+  display: table-row;
+}
+
+section .col {
+  display: table-cell;
+  background-color: bisque;
+  text-align: left;
+  padding: 10px;
+  border: 1px solid brown;
+}
+
+.cabecalho {
+  font-weight: bolder;
+}
+
+.corpo {
+  text-align: left;
+  background-color: aquamarine;
+  border-top: 1px solid brown;
+}
+
+.destaque {
+  color: brown;
+  font-weight: bolder;
+}
+
+.nomeador {
+  color: cornflowerblue;
 }
