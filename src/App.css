@@ -15,11 +15,6 @@
   margin: 0 auto;
 }
 
-.Container-equipamento {
-  width: 600px;
-  margin: 0 auto;
-}
-
 section {
   display: table;
   width: 100%;
@@ -31,10 +26,9 @@ section > * {
 
 section .col {
   display: table-cell;
-  background-color: bisque;
   text-align: left;
   padding: 10px;
-  border: 1px solid brown;
+  border-bottom: 1px solid brown;
 }
 
 .cabecalho {
@@ -44,7 +38,6 @@ section .col {
 .corpo {
   text-align: left;
   background-color: aquamarine;
-  border-top: 1px solid brown;
 }
 
 .destaque {
@@ -54,4 +47,40 @@ section .col {
 
 .nomeador {
   color: cornflowerblue;
+}
+
+.botaoSwitch {
+  margin: 5px;
+}
+
+.containerForm {
+  background-color: antiquewhite;
+  width: 600px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.menu {
+  width: 600px;
+  height: 600px;
+  background-color: cadetblue;
+  margin: 0 auto;
+}
+
+.interruptor {
+  background-color: cornflowerblue;
+  border: 1px solid blue;
+  color: white;
+  margin: 10px 590px 10px 10px;
+}
+
+.container, .Container-equipamento {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.titulo {
+  font-family: cursive;
+  font-style: italic;
+  color: gray;
 }
