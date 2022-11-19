@@ -1,9 +1,10 @@
+import { useId } from 'react';
 import './App.css';
 import { axes, bows, crossbows, daggers, greatswords, guns, hammers, handBombs, katanas, maces, measures, ninjaSwords, poles, rods, spears, staves, swords } from './Database';
 import ShowHide from './ShowHide';
 
 function Principal() {
-
+    
     return <>
         <div className='container'>
             <ShowHide />
@@ -29,9 +30,10 @@ function Principal() {
 }
 
 function Reusa(conjunto, tipo) {
+    let idTipoArma = useId();
     return(
         <div className="Container-equipamento">
-        <h1 className='titulo'>{tipo}</h1>
+        <h1 id={'arma' + idTipoArma} className='titulo'>{tipo}</h1>
         <section>
             <header className='cabecalho'>
                 <div className='col'>Equipamento</div>
@@ -40,13 +42,13 @@ function Reusa(conjunto, tipo) {
             {conjunto.map((element, index1, index2, index3) => {
                 return(
                     <div key={index1} className='row'>
-                        <div key={index2} className='col'>
+                        <div key={index2} className='col esquerda'>
                             <span className='destaque nomeador'>{element.Nome}</span>
                         </div>
                         <div key={index3} className='col'>
-                            {Object.keys(element).map((espada, index) => {
-                                return element[espada] !== "" ? 
-                                index !== 0 ? <div key={index}><span className='destaque'>{espada}:</span> {element[espada]}</div> : "" : "";
+                            {Object.keys(element).map((arma, index) => {
+                                return element[arma] !== "" ? 
+                                index !== 0 ? <div key={index}><span className='destaque'>{arma}:</span> {element[arma]}</div> : "" : "";
                             })}
                         </div>
                     </div>

@@ -28,16 +28,15 @@ section .col {
   display: table-cell;
   text-align: left;
   padding: 10px;
-  border-bottom: 1px solid brown;
+  border-bottom: 1px solid gray;
+}
+
+.esquerda {
+  width: 150px;
 }
 
 .cabecalho {
   font-weight: bolder;
-}
-
-.corpo {
-  text-align: left;
-  background-color: aquamarine;
 }
 
 .destaque {
@@ -62,9 +61,13 @@ section .col {
 
 .menu {
   width: 600px;
-  height: 600px;
-  background-color: cadetblue;
+  height: 450px;
   margin: 0 auto;
+  display: flex;
+  text-align: left;
+  border-radius: 10px;
+  border: solid 1px gray;
+  flex-wrap: wrap;
 }
 
 .interruptor {
@@ -72,6 +75,8 @@ section .col {
   border: 1px solid blue;
   color: white;
   margin: 10px 590px 10px 10px;
+  border-radius: 5px;
+  border: none;
 }
 
 .container, .Container-equipamento {
@@ -82,5 +87,20 @@ section .col {
 .titulo {
   font-family: cursive;
   font-style: italic;
+  color: gray;
+}
+
+.lista ul li {
+  list-style: none;
+}
+
+.lista ul li a {
+  text-decoration: none;
+  color: cornflowerblue;
+}
+
+.lista h3 {
+  margin-left: 40px;
+  font-family: cursive;
   color: gray;
 }
