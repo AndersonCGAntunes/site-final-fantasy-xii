@@ -1,35 +1,7 @@
 import { useId } from 'react';
 import './App.css';
-import { axes, bows, crossbows, daggers, greatswords, guns, hammers, handBombs, katanas, maces, measures, ninjaSwords, poles, rods, spears, staves, swords } from './Database';
-import ShowHide from './ShowHide';
 
-function Principal() {
-    
-    return <>
-        <div className='container'>
-            <ShowHide />
-        </div>
-        {Reusa(swords, "Swords")}
-        {Reusa(daggers, "Daggers")}
-        {Reusa(axes, "Axes")}
-        {Reusa(hammers, "Hammers")}
-        {Reusa(maces, "Maces")}
-        {Reusa(measures, "Measures")}
-        {Reusa(greatswords, "Greatswords")}
-        {Reusa(katanas, "Katanas")}
-        {Reusa(ninjaSwords, "Ninja Swords")}
-        {Reusa(spears, "Spears")}
-        {Reusa(poles, "Poles")}
-        {Reusa(rods, "Rods")}
-        {Reusa(staves, "Staves")}
-        {Reusa(bows, "Bows")}
-        {Reusa(crossbows, "Crossbows")}
-        {Reusa(guns, "Guns")}
-        {Reusa(handBombs, "Hand Bombs")}
-    </>
-}
-
-function Reusa(conjunto, tipo) {
+function MetodoUniversal(conjunto, tipo) {
     let idTipoArma = useId();
     return(
         <div className="Container-equipamento">
@@ -59,4 +31,4 @@ function Reusa(conjunto, tipo) {
     );
 }
 
-export default Principal;
+export default MetodoUniversal;

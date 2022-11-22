@@ -4,18 +4,20 @@ import React, {useState} from 'react';
 function ShowHide() {
     const [show, setShow]=useState(true);
     const nomeLinks = ["Swords", "Daggers", "Axes", "Hammers", "Maces", "Measures", "Greatswords", "Katanas", "Ninja Swords", "Spears", "Poles", "Rods", "Staves", "Bows", "Crossbows", "Guns", "HandBombs"];
-    const identificadores = ['h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', '10', '11'];
+    const idWeapons = ['4p', '4q', '4r', '4s', '4t', '4u', '4v', '50', '51', '52', '53', '54', '55', '56', '57', '58', '59'];
 
     return(
         <>
-            <button className='interruptor' onClick={() => setShow(!show)}>Menu</button>
+            <div className='botoes'>
+                <button className='interruptor' onClick={() => setShow(!show)}>Menu</button>
+            </div>
             {
                 show ? null : <div className='menu'>{
                     <div className="lista">
                         <h3>Weapons</h3>
                         <ul>
                             {
-                                identificadores.map((elem, i) => {
+                                idWeapons.map((elem, i) => {
                                     return <li key={i}>
                                         <a href={'#arma:r'+elem+':'}>{nomeLinks[i]}</a>
                                     </li>
