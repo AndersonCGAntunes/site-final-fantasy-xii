@@ -1,14 +1,10 @@
 import './App.css';
 import { axes, bows, crossbows, daggers, greatswords, guns, hammers, handBombs, katanas, maces, measures, ninjaSwords, poles, rods, spears, staves, swords } from './Database';
 import MetodoUniversal from './MetodoUniversal';
-import ShowHide from './ShowHide';
 
 function Weapon() {
     
     return <>
-        <div className='container'>
-            <ShowHide />
-        </div>
         {MetodoUniversal(swords, "Swords")}
         {MetodoUniversal(daggers, "Daggers")}
         {MetodoUniversal(axes, "Axes")}

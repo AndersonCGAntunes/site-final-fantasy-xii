@@ -1,22 +1,28 @@
 import { Outlet, Link } from "react-router-dom";
+import './App.css'
 
 const Layout = () => {
   return (
     <>
       <nav>
-        <ul>
-          <li>
+        <div className="containerMenu">
+          <div className="listaMenu">
             <Link to="/">Home</Link>
-          </li>
-          <li>
+          </div>
+          <div className="listaMenu">
             <Link to="/Weapon">Weapons</Link>
-          </li>
-          <li>
+          </div>
+          <div className="listaMenu">
             <Link to="/Armor">Armors</Link>
-          </li>
-        </ul>
+          </div>
+          <div className="listaMenu">
+            <Link to="/Accessories">Accessories</Link>
+          </div>
+          <div className="listaMenu">
+            <Link to="/Bazaar">Bazaar</Link>
+          </div>
+        </div>
       </nav>
-
       <Outlet />
     </>
   )
