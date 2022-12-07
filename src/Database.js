@@ -24,71 +24,317 @@ export const bazaar=[
     {
         Item: "Memories of Yore",
         Contents: "Pebble x99",
-        Ingredients: [
-            "Quality Stone [5]: ", "Babil, Brainpan, Deidar (Drop); Deidar, Demon Wall (Steal); Barmuu, Brainpan, Deidar (Poach)", "Linha2 [2]: ", "Final"
-        ]
+        Ingredients: [{
+            Ingrediente: "Quality Stone [5]: ",
+            Drop: "Babil, Brainpan, Deidar (Drop); Deidar, Demon Wall (Steal); Barmuu, Brainpan, Deidar (Poach)",
+            Monograph: "",
+            Steal: "",
+            Poach: "",
+            Reward: ""
+        }]
     },
     {
         Item: "Sipping Wine",
         Contents: "Bacchus's Wine x3",
-        Ingredients: [
-            "Tyrant Hide [2]: ", "Diresaur, Tyranorox (Drop); Diresaur, Earth Tyrant, Pylraster (Steal); Diresaur, Tyranorox (Poach)"
-        ]
+        Ingredients: [{
+            Ingrediente: "Tyrant Hide [2]: ",
+            Drop: "Diresaur, Tyranorox",
+            Monograph: "",
+            Steal: "Diresaur, Earth Tyrant, Pylraster",
+            Poach: "Diresaur, Tyranorox",
+            Reward: ""
+        }]
     },
     {
         Item: "Chronos Tear Pack*",
         Contents: "Chronos Tear x10",
-        Ingredients: [
-            "Eye of the Hawk [1]: ", "Vulture (Monograph Drop); Phoenix (Steal); Vulture (Poach)"
-        ]
+        Ingredients: [{
+            Ingrediente: "Eye of the Hawk [1]: ",
+            Drop: "",
+            Monograph: "Vulture",
+            Steal: "Phoenix",
+            Poach: "Vulture",
+            Reward: ""
+        }]
     },
     {
         Item: "Antidote Set",
         Contents: "Antidote x3",
-        Ingredients: [
-            "Drab Wool [2]: ", "Crypt Bunny, Giza Rabbit, Spee (Drop); Giza Rabbit, Vorpal Bunny (Steal); Giza Rabbit (Poach)"
-        ]
+        Ingredients: [{
+            Ingrediente: "Drab Wool [2]: ",
+            Drop: "Crypt Bunny, Giza Rabbit, Spee",
+            Monograph: "",
+            Steal: "Giza Rabbit, Vorpal Bunny",
+            Poach: "Giza Rabbit",
+            Reward: ""
+        }]
     },
     {
         Item: "Eye Drop Set",
         Contents: "Eye Drops x3",
-        Ingredients: [
-            "Demon Eyeball [2]: ", "Elvoret, Garchimacera, Gargoyle, Larva Eater (Drop); Elvoret, Garchimacera, Gargoyle (Steal); Elvoret, Garchimacera, Gargoyle (Poach)"
-        ]
+        Ingredients: [{
+            Ingrediente: "Demon Eyeball [2]: ",
+            Drop: "Elvoret, Garchimacera, Gargoyle, Larva Eater",
+            Monograph: "",
+            Steal: "Elvoret, Garchimacera, Gargoyle",
+            Poach: "Elvoret, Garchimacera, Gargoyle",
+            Reward: ""
+        }]
     },
     {
         Item: "Survival Set",
         Contents: "Antidote x12, Eye Drops x12, Echo Herbs x12",
-        Ingredients: [
-            "Malboro Fruit [4]: ", "Malboro (Lhusu Mines), Malboro King, Malboro Overking (Drop); Malboro King, Malboro Overking (Steal); Malboro (Lhusu Mines), Malboro King, Malboro Overking (Monograph Drop)"
-        ]
+        Ingredients: [{
+            Ingrediente: "Malboro Fruit [4]: ",
+            Drop: "Malboro (Lhusu Mines), Malboro King, Malboro Overking",
+            Monograph: "Malboro (Lhusu Mines), Malboro King, Malboro Overking",
+            Steal: "Malboro King, Malboro Overking",
+            Poach: "",
+            Reward: ""
+        }]
     },
     {
         Item: "Potion Pack",
         Contents: "Potion x2",
-        Ingredients: [
-            "Cactus Fruit [2]: ", "Cactite, Cactoid (Drop); Cactite, Cactoid, Flowering Cactoid (Steal); Cactite, Cactoid (Poach)"
-        ]
+        Ingredients: [{
+            Ingrediente: "Cactus Fruit [2]: ",
+            Drop: "Cactite, Cactoid",
+            Monograph: "",
+            Steal: "Cactite, Cactoid, Flowering Cactoid",
+            Poach: "Cactite, Cactoid",
+            Reward: ""
+        }]
     },
     {
         Item: "Tinctures & Tonics",
         Contents: "Potion x5, Handkerchief x3, Gold Needle x3",
-        Ingredients: [
-            "Succulent Fruit [4]: ", "Alraune, Deadly Nightshade, Mandragora, Pumpkin Head, Wild Onion (Drop); Alraune, Deadly Nightshade, Elder Wyrm, Mandragora, Wild Onion (Steal); Alraune, Deadly Nightshade, Mandragora, Pumpkin Head, Wild Onion (Poach)"
-        ]
+        Ingredients: [{
+            Ingrediente: "Succulent Fruit [4]: ",
+            Drop: "Alraune, Deadly Nightshade, Mandragora, Pumpkin Head, Wild Onion",
+            Monograph: "",
+            Steal: "Alraune, Deadly Nightshade, Elder Wyrm, Mandragora, Wild Onion",
+            Poach: "Alraune, Deadly Nightshade, Mandragora, Pumpkin Head, Wild Onion",
+            Reward: ""
+        }]
     },
     {
         Item: "Hi-Potion Pack*",
         Contents: "Hi-Potion x10",
-        Ingredients: [
-            "Rainbow Egg [1]: ", "Axebeak (Monograph Drop); Nekhbet (Steal); Axebeak (Poach); Cluckatrice Hunt (Reward)"
-        ]
+        Ingredients: [{
+            Ingrediente: "Rainbow Egg [1]: ",
+            Drop: "",
+            Monograph: "Axebeak",
+            Steal: "Nekhbet",
+            Poach: "Axebeak",
+            Reward: "Cluckatrice Hunt"
+        }]
     },
     {
         Item: "Smelling Salts, & C.",
         Contents: "Hi-Potion x4, Nu Khai Sand x2",
+        Ingredients: [{
+            Ingrediente: "Malboro Vine [4]: ",
+            Drop: "Great Malboro, Malboro (Golmore Jungle)",
+            Monograph: "",
+            Steal: "Great Malboro, Malboro (Golmore Jungle)",
+            Poach: "Great Malboro, Malboro (Golmore Jungle)",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "X-Potion Pack",
+        Contents: "X-Potion x10",
+        Ingredients: [{
+            Ingrediente: "Behemoth Steak [1]: ",
+            Drop: "",
+            Monograph: "Behemoth",
+            Steal: "Alteci, Behemoth King, Fenrir, Humbaba Mistant",
+            Poach: "Behemoth",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Potion Crate",
+        Contents: "Potion x30, Hi-Potion x20, X-Potion x10",
+        Ingredients: [{
+            Ingrediente: "Screamroot [3]: ",
+            Drop: "Alraune King (Feywood), Mandragora Prince (Feywood), Onion Queen (Feywood), Pumpkin Star (Feywood), Topstalk (Feywood)",
+            Monograph: "",
+            Steal: "Alraune King (Feywood), Deadly Nightshade, Onion Queen (Feywood), Pumpkin Head, Pumpkin Star (Feywood), Rafflesia, Ripe Rampager, Topstalk (Feywood)",
+            Poach: "Alraune King (Feywood), Mandragora Prince (Feywood), Onion Queen (Feywood), Pumpkin Star (Feywood), Topstalk (Feywood)",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Flask of Oily Liquid",
+        Contents: "Ether x1",
         Ingredients: [
-            "Malboro Vine [4]: ", "Great Malboro, Malboro (Golmore Jungle) (Drop); Great Malboro, Malboro (Golmore Jungle) (Steal); Great Malboro, Malboro (Golmore Jungle) (Poach)"
+        {
+            Ingrediente: "Unpurified Ether [2]: ",
+            Drop: "",
+            Monograph: "Hecteyes",
+            Steal: "",
+            Poach: "Etherian, Hecteyes",
+            Reward: "Orthros Hunt, Lv.100 Balfonheim footrace"
+        },
+        {
+            Ingrediente: "Caramel [3]: ",
+            Drop: "",
+            Monograph: "",
+            Steal: "Flan, Orthros",
+            Poach: "",
+            Reward: "Lv.80 Balfonheim footrace"
+        }
         ]
+    },
+    {
+        Item: "Flask of Viscous Liquid",
+        Contents: "Hi-Ether x1",
+        Ingredients: [
+            {
+            Ingrediente: "Unpurified Ether [2]: ",
+            Drop: "",
+            Monograph: "Hecteyes",
+            Steal: "",
+            Poach: "Etherian, Hecteyes",
+            Reward: "Orthros Hunt, Lv.100 Balfonheim footrace"
+            },
+            {
+            Ingrediente: "Foul Liquid [2]: ",
+            Drop: "",
+            Monograph: "Great Malboro",
+            Steal: "Carrot",
+            Poach: "Great Malboro, Wild Malboro",
+            Reward: ""
+            },
+            {
+            Ingrediente: "Slime Oil [1]: ",
+            Drop: "",
+            Monograph: "",
+            Steal: "Hecteyes, Orthros",
+            Poach: "Oiling",
+            Reward: "Lv.90 Balfonheim footrace"
+            }
+        ]
+    },
+    {
+        Item: "Tail of the Phoenix",
+        Contents: "Phoenix Down x2",
+        Ingredients: [{
+            Ingrediente: "Small Feather [3]: ",
+            Drop: "Axebeak, Cockatrice, Lesser Chimera, Nekhbet",
+            Monograph: "",
+            Steal: "Chickatrice, Cockatrice, Cluckatrice, Nekhbet",
+            Poach: "Axebeak, Cockatrice, Lesser Chimera",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "First-aid Kit",
+        Contents: "Phoenix Down x2, Potion x2",
+        Ingredients: [{
+            Ingrediente: "Large Feather [3]: ",
+            Drop: "Bagoly, Garuda-Egi, Imdugud, Urstrix, Wu, Zu",
+            Monograph: "",
+            Steal: "Bagoly, Chickatrice, Dive Talon, Urstrix, Wu, Zu",
+            Poach: "Bagoly, Dive Talon, Garuda-Egi, Urstrix, Wu, Zu",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Eye Openers",
+        Contents: "Phoenix Down x5, Prince's Kiss x5",
+        Ingredients: [{
+            Ingrediente: "Chocobo Feather [4]: ",
+            Drop: "Black Chocobo, Brown Chocobo, Green Chocobo, Red Chocobo, White Chocobo",
+            Monograph: "",
+            Steal: "Black Chocobo, Brown Chocobo (Salikawood), Trickster, White Chocobo",
+            Poach: "Black Chocobo, Brown Chocobo, Green Chocobo, Red Chocobo, White Chocobo",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Fire-bird's Whisper",
+        Contents: "Phoenix Down x10",
+        Ingredients: [{
+            Ingrediente: "Jack-o'-Lantern [1]: ",
+            Drop: "",
+            Monograph: "Pumpkin Star",
+            Steal: "Pumpkin Star (Sochen Cave Palace)",
+            Poach: "Pumpkin Star (Feywood)",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Triage Kit",
+        Contents: "Phoenix Down x12, Hi-Potion x3",
+        Ingredients: [{
+            Ingrediente: "Giant Feather [3]: ",
+            Drop: "Dive Talon, Vulture",
+            Monograph: "",
+            Steal: "Garuda",
+            Poach: "Dive Talon, Vulture, Zu",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Soul of the Fire-bird",
+        Contents: "Phoenix Down x25",
+        Ingredients: [{
+            Ingrediente: "Bundle of Feathers [3]: ",
+            Drop: "Bagoly, Gorgimera, Pyrolisk, Sprinter, Vulture",
+            Monograph: "",
+            Steal: "Bagoly, Pyrolisk, Sprinter, Vulture",
+            Poach: "Bagoly, Dive Talon, Gorgimera, Pyrolisk, Sprinter, Vulture",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Phoenix Flight",
+        Contents: "Phoenix Down x50",
+        Ingredients: [{
+            Ingrediente: "Windslicer Pinion [5]: ",
+            Drop: "Charybterix, Chimera Brain, Imdugud, Mirrorknight",
+            Monograph: "",
+            Steal: "Charybterix, Phoenix",
+            Poach: "Charybterix, Chimera Brain, Mirrorknight",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Serum Pack",
+        Contents: "Serum x10",
+        Ingredients: [{
+            Ingrediente: "Demon's Sigh [1]: ",
+            Drop: "",
+            Monograph: "Buer",
+            Steal: "Diabolos",
+            Poach: "Buer",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Phials & Philtres",
+        Contents: "Serum x8, Nu Khai Sand x16",
+        Ingredients: [{
+            Ingrediente: "Malboro Flower [3]: ",
+            Drop: "Cassie, Vivian",
+            Monograph: "",
+            Steal: "Cassie, Malboro Overking, Wild Malboro",
+            Poach: "Cassie, Malboro (Lhusu Mines), Vivian",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "",
+        Contents: "",
+        Ingredients: [{
+            Ingrediente: "",
+            Drop: "",
+            Monograph: "",
+            Steal: "",
+            Poach: "",
+            Reward: ""
+        }]
     }
 ];
