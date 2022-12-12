@@ -25,7 +25,7 @@ export const bazaar=[
         Item: "Memories of Yore",
         Contents: "Pebble x99",
         Ingredients: [{
-            Ingrediente: "Quality Stone [5]: ",
+            Ingrediente: "Quality Stone [5]",
             Drop: "Babil, Brainpan, Deidar (Drop); Deidar, Demon Wall (Steal); Barmuu, Brainpan, Deidar (Poach)",
             Monograph: "",
             Steal: "",
@@ -37,7 +37,7 @@ export const bazaar=[
         Item: "Sipping Wine",
         Contents: "Bacchus's Wine x3",
         Ingredients: [{
-            Ingrediente: "Tyrant Hide [2]: ",
+            Ingrediente: "Tyrant Hide [2]",
             Drop: "Diresaur, Tyranorox",
             Monograph: "",
             Steal: "Diresaur, Earth Tyrant, Pylraster",
@@ -49,7 +49,7 @@ export const bazaar=[
         Item: "Chronos Tear Pack*",
         Contents: "Chronos Tear x10",
         Ingredients: [{
-            Ingrediente: "Eye of the Hawk [1]: ",
+            Ingrediente: "Eye of the Hawk [1]",
             Drop: "",
             Monograph: "Vulture",
             Steal: "Phoenix",
@@ -61,7 +61,7 @@ export const bazaar=[
         Item: "Antidote Set",
         Contents: "Antidote x3",
         Ingredients: [{
-            Ingrediente: "Drab Wool [2]: ",
+            Ingrediente: "Drab Wool [2]",
             Drop: "Crypt Bunny, Giza Rabbit, Spee",
             Monograph: "",
             Steal: "Giza Rabbit, Vorpal Bunny",
@@ -73,7 +73,7 @@ export const bazaar=[
         Item: "Eye Drop Set",
         Contents: "Eye Drops x3",
         Ingredients: [{
-            Ingrediente: "Demon Eyeball [2]: ",
+            Ingrediente: "Demon Eyeball [2]",
             Drop: "Elvoret, Garchimacera, Gargoyle, Larva Eater",
             Monograph: "",
             Steal: "Elvoret, Garchimacera, Gargoyle",
@@ -85,11 +85,11 @@ export const bazaar=[
         Item: "Survival Set",
         Contents: "Antidote x12, Eye Drops x12, Echo Herbs x12",
         Ingredients: [{
-            Ingrediente: "Malboro Fruit [4]: ",
+            Ingrediente: "Malboro Fruit [4]",
             Drop: "Malboro (Lhusu Mines), Malboro King, Malboro Overking",
-            Monograph: "Malboro (Lhusu Mines), Malboro King, Malboro Overking",
+            Monograph: "",
             Steal: "Malboro King, Malboro Overking",
-            Poach: "",
+            Poach: "Malboro (Lhusu Mines), Malboro King, Malboro Overking",
             Reward: ""
         }]
     },
@@ -97,7 +97,7 @@ export const bazaar=[
         Item: "Potion Pack",
         Contents: "Potion x2",
         Ingredients: [{
-            Ingrediente: "Cactus Fruit [2]: ",
+            Ingrediente: "Cactus Fruit [2]",
             Drop: "Cactite, Cactoid",
             Monograph: "",
             Steal: "Cactite, Cactoid, Flowering Cactoid",
@@ -109,7 +109,7 @@ export const bazaar=[
         Item: "Tinctures & Tonics",
         Contents: "Potion x5, Handkerchief x3, Gold Needle x3",
         Ingredients: [{
-            Ingrediente: "Succulent Fruit [4]: ",
+            Ingrediente: "Succulent Fruit [4]",
             Drop: "Alraune, Deadly Nightshade, Mandragora, Pumpkin Head, Wild Onion",
             Monograph: "",
             Steal: "Alraune, Deadly Nightshade, Elder Wyrm, Mandragora, Wild Onion",
@@ -121,7 +121,7 @@ export const bazaar=[
         Item: "Hi-Potion Pack*",
         Contents: "Hi-Potion x10",
         Ingredients: [{
-            Ingrediente: "Rainbow Egg [1]: ",
+            Ingrediente: "Rainbow Egg [1]",
             Drop: "",
             Monograph: "Axebeak",
             Steal: "Nekhbet",
@@ -133,7 +133,7 @@ export const bazaar=[
         Item: "Smelling Salts, & C.",
         Contents: "Hi-Potion x4, Nu Khai Sand x2",
         Ingredients: [{
-            Ingrediente: "Malboro Vine [4]: ",
+            Ingrediente: "Malboro Vine [4]",
             Drop: "Great Malboro, Malboro (Golmore Jungle)",
             Monograph: "",
             Steal: "Great Malboro, Malboro (Golmore Jungle)",
@@ -145,7 +145,7 @@ export const bazaar=[
         Item: "X-Potion Pack",
         Contents: "X-Potion x10",
         Ingredients: [{
-            Ingrediente: "Behemoth Steak [1]: ",
+            Ingrediente: "Behemoth Steak [1]",
             Drop: "",
             Monograph: "Behemoth",
             Steal: "Alteci, Behemoth King, Fenrir, Humbaba Mistant",
@@ -157,7 +157,7 @@ export const bazaar=[
         Item: "Potion Crate",
         Contents: "Potion x30, Hi-Potion x20, X-Potion x10",
         Ingredients: [{
-            Ingrediente: "Screamroot [3]: ",
+            Ingrediente: "Screamroot [3]",
             Drop: "Alraune King (Feywood), Mandragora Prince (Feywood), Onion Queen (Feywood), Pumpkin Star (Feywood), Topstalk (Feywood)",
             Monograph: "",
             Steal: "Alraune King (Feywood), Deadly Nightshade, Onion Queen (Feywood), Pumpkin Head, Pumpkin Star (Feywood), Rafflesia, Ripe Rampager, Topstalk (Feywood)",
@@ -170,7 +170,7 @@ export const bazaar=[
         Contents: "Ether x1",
         Ingredients: [
         {
-            Ingrediente: "Unpurified Ether [2]: ",
+            Ingrediente: "Unpurified Ether [2]",
             Drop: "",
             Monograph: "Hecteyes",
             Steal: "",
@@ -178,7 +178,7 @@ export const bazaar=[
             Reward: "Orthros Hunt, Lv.100 Balfonheim footrace"
         },
         {
-            Ingrediente: "Caramel [3]: ",
+            Ingrediente: "Caramel [3]",
             Drop: "",
             Monograph: "",
             Steal: "Flan, Orthros",
@@ -192,7 +192,7 @@ export const bazaar=[
         Contents: "Hi-Ether x1",
         Ingredients: [
             {
-            Ingrediente: "Unpurified Ether [2]: ",
+            Ingrediente: "Unpurified Ether [2]",
             Drop: "",
             Monograph: "Hecteyes",
             Steal: "",
@@ -200,7 +200,7 @@ export const bazaar=[
             Reward: "Orthros Hunt, Lv.100 Balfonheim footrace"
             },
             {
-            Ingrediente: "Foul Liquid [2]: ",
+            Ingrediente: "Foul Liquid [2]",
             Drop: "",
             Monograph: "Great Malboro",
             Steal: "Carrot",
@@ -208,7 +208,7 @@ export const bazaar=[
             Reward: ""
             },
             {
-            Ingrediente: "Slime Oil [1]: ",
+            Ingrediente: "Slime Oil [1]",
             Drop: "",
             Monograph: "",
             Steal: "Hecteyes, Orthros",
@@ -221,7 +221,7 @@ export const bazaar=[
         Item: "Tail of the Phoenix",
         Contents: "Phoenix Down x2",
         Ingredients: [{
-            Ingrediente: "Small Feather [3]: ",
+            Ingrediente: "Small Feather [3]",
             Drop: "Axebeak, Cockatrice, Lesser Chimera, Nekhbet",
             Monograph: "",
             Steal: "Chickatrice, Cockatrice, Cluckatrice, Nekhbet",
@@ -233,7 +233,7 @@ export const bazaar=[
         Item: "First-aid Kit",
         Contents: "Phoenix Down x2, Potion x2",
         Ingredients: [{
-            Ingrediente: "Large Feather [3]: ",
+            Ingrediente: "Large Feather [3]",
             Drop: "Bagoly, Garuda-Egi, Imdugud, Urstrix, Wu, Zu",
             Monograph: "",
             Steal: "Bagoly, Chickatrice, Dive Talon, Urstrix, Wu, Zu",
@@ -245,7 +245,7 @@ export const bazaar=[
         Item: "Eye Openers",
         Contents: "Phoenix Down x5, Prince's Kiss x5",
         Ingredients: [{
-            Ingrediente: "Chocobo Feather [4]: ",
+            Ingrediente: "Chocobo Feather [4]",
             Drop: "Black Chocobo, Brown Chocobo, Green Chocobo, Red Chocobo, White Chocobo",
             Monograph: "",
             Steal: "Black Chocobo, Brown Chocobo (Salikawood), Trickster, White Chocobo",
@@ -257,7 +257,7 @@ export const bazaar=[
         Item: "Fire-bird's Whisper",
         Contents: "Phoenix Down x10",
         Ingredients: [{
-            Ingrediente: "Jack-o'-Lantern [1]: ",
+            Ingrediente: "Jack-o'-Lantern [1]",
             Drop: "",
             Monograph: "Pumpkin Star",
             Steal: "Pumpkin Star (Sochen Cave Palace)",
@@ -269,7 +269,7 @@ export const bazaar=[
         Item: "Triage Kit",
         Contents: "Phoenix Down x12, Hi-Potion x3",
         Ingredients: [{
-            Ingrediente: "Giant Feather [3]: ",
+            Ingrediente: "Giant Feather [3]",
             Drop: "Dive Talon, Vulture",
             Monograph: "",
             Steal: "Garuda",
@@ -281,7 +281,7 @@ export const bazaar=[
         Item: "Soul of the Fire-bird",
         Contents: "Phoenix Down x25",
         Ingredients: [{
-            Ingrediente: "Bundle of Feathers [3]: ",
+            Ingrediente: "Bundle of Feathers [3]",
             Drop: "Bagoly, Gorgimera, Pyrolisk, Sprinter, Vulture",
             Monograph: "",
             Steal: "Bagoly, Pyrolisk, Sprinter, Vulture",
@@ -293,7 +293,7 @@ export const bazaar=[
         Item: "Phoenix Flight",
         Contents: "Phoenix Down x50",
         Ingredients: [{
-            Ingrediente: "Windslicer Pinion [5]: ",
+            Ingrediente: "Windslicer Pinion [5]",
             Drop: "Charybterix, Chimera Brain, Imdugud, Mirrorknight",
             Monograph: "",
             Steal: "Charybterix, Phoenix",
@@ -305,7 +305,7 @@ export const bazaar=[
         Item: "Serum Pack",
         Contents: "Serum x10",
         Ingredients: [{
-            Ingrediente: "Demon's Sigh [1]: ",
+            Ingrediente: "Demon's Sigh [1]",
             Drop: "",
             Monograph: "Buer",
             Steal: "Diabolos",
@@ -317,7 +317,7 @@ export const bazaar=[
         Item: "Phials & Philtres",
         Contents: "Serum x8, Nu Khai Sand x16",
         Ingredients: [{
-            Ingrediente: "Malboro Flower [3]: ",
+            Ingrediente: "Malboro Flower [3]",
             Drop: "Cassie, Vivian",
             Monograph: "",
             Steal: "Cassie, Malboro Overking, Wild Malboro",
@@ -326,15 +326,2766 @@ export const bazaar=[
         }]
     },
     {
-        Item: "",
-        Contents: "",
+        Item: "Life Crystal",
+        Contents: "High Arcana",
         Ingredients: [{
-            Ingrediente: "",
+            Ingrediente: "Arcana [10]",
+            Drop: "Monograph drop for many Rare Game. Most enemies drop it after obtaining the Canopic Jar.",
+            Monograph: "",
+            Steal: "",
+            Poach: "",
+            Reward: "2x from Montblanc after defeating first Esper."
+        },
+        {
+            Ingrediente: "Feystone [1]",
+            Drop: "Air Chaosjet, Air Elemental, Bangaa Thief, Dark Elemental, Diakon Entite, Earth Chaosjet, Earth Elemental, Fire Chaosjet, Fire Elemental, Gnoma Entite, Holy Elemental, Ice Elemental, Leamonde Entite, Leshach Entite, Mardu Entite, Salamand Entite, Storm Elemental, Sylphi Entite, Undin Entite, Water Chaosjet, Water Elemental",
+            Monograph: "",
+            Steal: "Air Chaosjet, Air Elemental, Crystalbug (red), Crystalbug (green), Crystalbug (blue), Dark Elemental, Diakon Entite, Earth Chaosjet, Earth Elemental, Elder Wyrm, Fire Chaosjet, Fire Elemental, Gnoma Entite, Holy Elemental, Ice Azer, Ice Element, Leamonde Entite, Leshach Entite, Mardu Entite, Salamand Entite, Storm Elemental, Sylphi Entite, Undin Entite, Water Chaosjet, Water Elemental",
+            Poach: "",
+            Reward: ""
+        },
+        {
+            Ingrediente: "Soul of Thamasa [1]",
             Drop: "",
+            Monograph: "Oversoul",
+            Steal: "Ishteen",
+            Poach: "",
+            Reward: "Deathscythe Hunt"
+        }]
+    },
+    {
+        Item: "Saint's Draught",
+        Contents: "Elixir x1",
+        Ingredients: [{
+            Ingrediente: "High Arcana [1]",
+            Drop: "Dustia, Ripe Rampager, Helvinek, Lv.99 Red Chocobo",
+            Monograph: "",
+            Steal: "Adrammelech, Belias, Chaos, Cúchulainn, Exodus, Famfrit, Hashmal, Mateus, Shemhazai, Ultima, Zalera, Zeromus, Zodiark",
+            Poach: "",
+            Reward: "Montblanc after obtaining four Espers, and again after obtaining 'Paragon of Justice' rank."
+        },
+        {
+            Ingrediente: "Ambrosia [3]",
+            Drop: "",
+            Monograph: "Necrophobe",
+            Steal: "Glaring Eye",
+            Poach: "Necrophobe",
+            Reward: ""
+        },
+        {
+            Ingrediente: "Demon Drink [3]",
+            Drop: "",
+            Monograph: "Elvoret",
+            Steal: "",
+            Poach: "Elvoret",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Esoteric Draught",
+        Contents: "Megalixir x1",
+        Ingredients: [{
+            Ingrediente: "High Arcana [2]",
+            Drop: "Dustia, Ripe Rampager, Helvinek, Lv.99 Red Chocobo",
+            Monograph: "",
+            Steal: "Adrammelech, Belias, Chaos, Cúchulainn, Exodus, Famfrit, Hashmal, Mateus, Shemhazai, Ultima[note 1], Zalera, Zeromus, Zodiark[note 1]",
+            Poach: "",
+            Reward: "Montblanc after obtaining four Espers, and again after obtaining 'Paragon of Justice' rank."
+        },
+        {
+            Ingrediente: "Onion [3]",
+            Drop: "",
+            Monograph: "Onion Queen",
+            Steal: "Onion Queen (Sochen Cave Palace)",
+            Poach: "Onion Queen (Feywood)",
+            Reward: ""
+        },
+        {
+            Ingrediente: "Rat Tail [3]",
+            Drop: "Lab Rat",
+            Monograph: "",
+            Steal: "",
+            Poach: "Dire Rat, Lab Rat",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Jewel of the Serpent",
+        Contents: "Serpentarius",
+        Ingredients: [{
+            Ingrediente: "High Arcana [1]",
+            Drop: "Dustia, Ripe Rampager, Helvinek, Lv.99 Red Chocobo",
+            Monograph: "",
+            Steal: "Adrammelech, Belias, Chaos, Cúchulainn, Exodus, Famfrit, Hashmal, Mateus, Shemhazai, Ultima[note 1], Zalera, Zeromus, Zodiark[note 1]",
+            Poach: "",
+            Reward: "Montblanc after obtaining four Espers, and again after obtaining 'Paragon of Justice' rank."
+        },
+        {
+            Ingrediente: "Snake Skin [4]",
+            Drop: "Grey Molter, Midgardsormr, Wildsnake",
+            Monograph: "",
+            Steal: "Wildsnake",
+            Poach: "Wildsnake",
+            Reward: ""
+        },
+        {
+            Ingrediente: "Serpent Eye [2]",
+            Drop: "Basilisk",
+            Monograph: "Basilisk",
+            Steal: "",
+            Poach: "Basilisk, Grey Molter",
+            Reward: "Marilith Hunt"
+        }]
+    },
+    {
+        Item: "Jewel of Creation",
+        Contents: "Empyreal Soul",
+        Ingredients: [{
+            Ingrediente: "High Arcana [1]",
+            Drop: "Dustia, Ripe Rampager, Helvinek, Lv.99 Red Chocobo",
+            Monograph: "",
+            Steal: "Adrammelech, Belias, Chaos, Cúchulainn, Exodus, Famfrit, Hashmal, Mateus, Shemhazai, Ultima[note 1], Zalera, Zeromus, Zodiark[note 1]",
+            Poach: "",
+            Reward: "Montblanc after obtaining four Espers, and again after obtaining 'Paragon of Justice' rank."
+        },
+        {
+            Ingrediente: "Soul Powder [1]",
+            Drop: "",
+            Monograph: "Etém",
+            Steal: "Etém, Vorres",
+            Poach: "",
+            Reward: "Ixtab hunt"
+        },
+        {
+            Ingrediente: "Wargod's Band [2]",
+            Drop: "",
+            Monograph: "Leynir",
+            Steal: "Victanir",
+            Poach: "Leynir",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Matchless Metal",
+        Contents: "Gemsteel",
+        Ingredients: [{
+            Ingrediente: "Scarletite [1]",
+            Drop: "",
+            Monograph: "Emeralditan",
+            Steal: "Aspidochelon, Pandaemonium",
+            Poach: "Emeralditan",
+            Reward: "Fishing reward in the Den of the River Lord area."
+        },
+        {
+            Ingrediente: "Damascus Steel [2]",
+            Drop: "",
+            Monograph: "Bune",
+            Steal: "Anchag, Bluesang, Daedalus, Vinuskar",
+            Poach: "Bune",
+            Reward: ""
+        },
+        {
+            Ingrediente: "Hell-Gate's Flame [2]",
+            Drop: "",
+            Monograph: "Cerberus",
+            Steal: "Enkidu (Second Encounter)",
+            Poach: "Cerberus, Wary Wolf",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "The Sunflower",
+        Contents: "Tournesol",
+        Ingredients: [{
+            Ingrediente: "Serpentarius [3]",
+            Drop: "",
+            Monograph: "",
+            Steal: "Zodiark",
+            Poach: "",
+            Reward: "Reward from Montblanc for controlling all 13 Espers."
+        },
+        {
+            Ingrediente: "Empyreal Soul [3]",
+            Drop: "",
+            Monograph: "",
+            Steal: "Lv.99 Red Chocobo",
+            Poach: "",
+            Reward: "Clan Reward from Montblanc for achieving High Guardian rank"
+        },
+        {
+            Ingrediente: "Gemsteel [3]",
+            Drop: "",
+            Monograph: "Lv.99 Red Chocobo",
+            Steal: "",
+            Poach: "",
+            Reward: "Clan Reward from Montblanc for acquiring eight Espers"
+        }]
+    },
+    {
+        Item: "Burning Fangs",
+        Contents: "Soleil Fang x5",
+        Ingredients: [{
+            Ingrediente: "Pointed Horn [2]",
+            Drop: "Iguion, Lizard, Suriander",
+            Monograph: "",
+            Steal: "Croakadile, Lizard (Garamsythe/Tchita), Suriander",
+            Poach: "Iguion, Lizard, Suriander",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Magick Shards",
+        Contents: "Aquara Mote x4",
+        Ingredients: [{
+            Ingrediente: "Festering Flesh [4]",
+            Drop: "Anchag, Banshee, Blood Gigas, Ghast, Ghoul, Headless, Zombie Warrior",
+            Monograph: "",
+            Steal: "Banshee, Cerberus, Ghast, Hyena (The Rains)",
+            Poach: "Blood Gigas, Dullahan, Ghast, Ghoul, Headless, Hyena, Zombie (Male), Zombie (Female), Zombie Warrior",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Magick Shard",
+        Contents: "Holy Mote x1",
+        Ingredients: [{
+            Ingrediente: "Glass Jewel [8]",
+            Drop: "Cultsworn Lich, Evil Spirit, Ghost, Glaring Eye, Lich, Specter, Wraith",
+            Monograph: "",
+            Steal: "Ghost, Lich, Specter",
+            Poach: "Ghost, Lich, Specter",
+            Reward: ""
+        },
+        {
+            Ingrediente: "Sky Jewel [8]",
+            Drop: "Bogey, Cultsworn Lich, Ghost, Necrofiend, Necrophobe, Specter",
+            Monograph: "",
+            Steal: "Ahriman, Necrofiend, Necrophobe, Specter",
+            Poach: "Bogey, Ghost, Necrophobe, Specter",
+            Reward: ""
+        },
+        {
+            Ingrediente: "Diakon Halcyon [1]",
+            Drop: "Diakon Entite",
+            Monograph: "",
+            Steal: "Diakon Entite",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Magick Shard",
+        Contents: "Scathe Mote x1",
+        Ingredients: [{
+            Ingrediente: "Book of Orgain [8]",
+            Drop: "Dustia, Gespenst, Negalmuur",
+            Monograph: "",
+            Steal: "Deathscythe",
+            Poach: "",
+            Reward: ""
+        },
+        {
+            Ingrediente: "Book of Orgain-Cent [8]",
+            Drop: "Reaper",
+            Monograph: "",
+            Steal: "Reaper",
+            Poach: "",
+            Reward: ""
+        },
+        {
+            Ingrediente: "Book of Orgain-Mille [8]",
+            Drop: "Etém, Nightwalker",
+            Monograph: "",
+            Steal: "Deathscythe, Dustia, Etém, Gazer, Ixtab, Nightwalker",
+            Poach: "Negalmuur",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Mysterious Substance",
+        Contents: "Dark Energy x1",
+        Ingredients: [{
+            Ingrediente: "Bat Wing [1]",
+            Drop: "",
+            Monograph: "",
+            Steal: "Aerieel",
+            Poach: "Seeker",
+            Reward: ""
+        },
+        {
+            Ingrediente: "Grimoire Aidhed [3]",
+            Drop: "Mallicant, Mistmare",
+            Monograph: "",
+            Steal: "Braegh, Ixion, Mallicant, Mistmare",
+            Poach: "Darkmare, Mallicant, Mistmare",
+            Reward: ""
+        },
+        {
+            Ingrediente: "Grimoire Togail [3]",
+            Drop: "Darkmare, Helvinek, Nightmare, Oversoul, Pallicant",
+            Monograph: "",
+            Steal: "Darkmare, Firemane, Nightmare, Oversoul",
+            Poach: "Darkmare, Nightmare",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Water-drop Munitions",
+        Contents: "Water Bombs",
+        Ingredients: [{
+            Ingrediente: "Book of Orgain [3]",
+            Drop: "Dustia, Gespenst, Negalmuur",
+            Monograph: "",
+            Steal: "Deathscythe",
+            Poach: "",
+            Reward: ""
+        },
+        {
+            Ingrediente: "Putrid Liquid [3]",
+            Drop: "",
+            Monograph: "Malboro Overking",
+            Steal: "Carrot, Kris, Rafflesia",
+            Poach: "Malboro Overking",
+            Reward: ""
+        },
+        {
+            Ingrediente: "Water Crystal [10]",
+            Drop: "Mandragora Prince (Feywood), Mistmare, Silicon Tortoise, Undin Entite, Water Chaosjet, Water Elemental, Seeq Explorer",
+            Monograph: "",
+            Steal: "Mandragora Prince (Feywood), Mistmare, Razorfin, Undin Entite, Water Chaosjet, Water Elemental",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Befuddling Incendiaries",
+        Contents: "Caldera, Chaos Bombs",
+        Ingredients: [{
+            Ingrediente: "Bomb Shell [4]",
+            Drop: "Bomb (Lv. 38–40), Grenade, Mom Bomb, Purobolos, Matriarch Bomb, Megabomb",
+            Monograph: "",
+            Steal: "King Bomb, Mom Bomb, Purobolos, Pineapple",
+            Poach: "Grenade, Mom Bomb, Purobolos",
+            Reward: ""
+        },
+        {
+            Ingrediente: "Book of Orgain-Cent [3]",
+            Drop: "Reaper",
+            Monograph: "",
+            Steal: "Reaper",
+            Poach: "",
+            Reward: ""
+        },
+        {
+            Ingrediente: "Fire Crystal [7]",
+            Drop: "Bangaa Thief, Bellwyvern (Tchita Uplands), Bune, Cerberus, Deadly Nightshade, Dullahan, Fire Chaosjet, Fire Elemental, Garchimacera, Grenade, Lizard (Garamsythe/Tchita), Mom Bomb, Mu, Mythril Golem, Salamand Entite, Scythe Mantis, Topstalk (Feywood)",
+            Monograph: "",
+            Steal: "Cerberus, Deadly Nightshade, Diabolos, Dullahan, Fire Chaosjet, Fire Elemental, Grenade, King Bomb, Marilith, Mythril Golem, Overlord, Roblon, Salamand Entite, Scythe Mantis",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Noisome Incendiaries",
+        Contents: "Fumarole, Poison Bombs",
+        Ingredients: [{
+            Ingrediente: "Bomb Shell [1]",
+            Drop: "Bomb (Lv. 38–40), Grenade, Mom Bomb, Purobolos, Matriarch Bomb, Megabomb",
+            Monograph: "",
+            Steal: "King Bomb, Mom Bomb, Purobolos, Pineapple",
+            Poach: "Grenade, Mom Bomb, Purobolos",
+            Reward: ""
+        },
+        {
+            Ingrediente: "Fire Crystal [3]",
+            Drop: "Bangaa Thief, Bellwyvern (Tchita Uplands), Bune, Cerberus, Deadly Nightshade, Dullahan, Fire Chaosjet, Fire Elemental, Garchimacera, Grenade, Lizard (Garamsythe/Tchita), Mom Bomb, Mu, Mythril Golem, Salamand Entite, Scythe Mantis, Topstalk (Feywood)",
+            Monograph: "",
+            Steal: "Cerberus, Deadly Nightshade, Diabolos, Dullahan, Fire Chaosjet, Fire Elemental, Grenade, King Bomb, Marilith, Mythril Golem, Overlord, Roblon, Salamand Entite, Scythe Mantis",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Oil-Soaked Incendiaries",
+        Contents: "Tumulus, Oil Bombs",
+        Ingredients: [{
+            Ingrediente: "Bomb Ashes [3]",
+            Drop: "Balloon, Bomb, Bombshell, Matriarch Bomb, Megabomb, Pineapple",
+            Monograph: "",
+            Steal: "Bomb",
+            Poach: "",
+            Reward: ""
+        },
+        {
+            Ingrediente: "Book of Orgain [2]",
+            Drop: "Dustia, Gespenst, Negalmuur",
+            Monograph: "",
+            Steal: "Deathscythe",
+            Poach: "",
+            Reward: ""
+        },
+        {
+            Ingrediente: "Fire Crystal [3]",
+            Drop: "Bangaa Thief, Bellwyvern (Tchita Uplands), Bune, Cerberus, Deadly Nightshade, Dullahan, Fire Chaosjet, Fire Elemental, Garchimacera, Grenade, Lizard (Garamsythe/Tchita), Mom Bomb, Mu, Mythril Golem, Salamand Entite, Scythe Mantis, Topstalk (Feywood)",
+            Monograph: "",
+            Steal: "Cerberus, Deadly Nightshade, Diabolos, Dullahan, Fire Chaosjet, Fire Elemental, Grenade, King Bomb, Marilith, Mythril Golem, Overlord, Roblon, Salamand Entite, Scythe Mantis",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Stone Shot",
+        Contents: "Stone Shot",
+        Ingredients: [{
+            Ingrediente: "Mirror Scale [2]",
+            Drop: "",
+            Monograph: "Mirrorknight",
+            Steal: "Dreadguard",
+            Poach: "Mirrorknight",
+            Reward: ""
+        },
+        {
+            Ingrediente: "Tyrant Bone [2]",
+            Drop: "",
+            Monograph: "Wild Saurian",
+            Steal: "Earth Tyrant, Pylraster",
+            Poach: "Wild Saurian",
+            Reward: ""
+        },
+        {
+            Ingrediente: "Libra Gem [3]",
+            Drop: "Alpha Worgen, Bandercoeurl, Cerberus, Ose, Silver Lobo, Tartarus, Worgen",
+            Monograph: "",
+            Steal: "Coeurl (Golmore Jungle), Dire Rat, Exodus, Lab Rat, Panther, Silver Lobo, Tartarus",
+            Poach: "Hellhound, Lindbur Wolf",
+            Reward: "Hunt Club Owner"
+        }]
+    },
+    {
+        Item: "Marksman's Delight",
+        Contents: "Silent Shot, Capella",
+        Ingredients: [{
+            Ingrediente: "Fish Scale [2]",
+            Drop: "Apsara, Bull Danbania, Danbania, Ichthon, Rain Dancer, Razorfin",
+            Monograph: "",
+            Steal: "Bull Danbania, Danbania, Ichthon",
+            Poach: "Bull Danbania, Danbania, Ichthon",
+            Reward: "Fishing Midstream and Upstream"
+        },
+        {
+            Ingrediente: "Green Liquid [2]",
+            Drop: "Cubus, Etherian, Flan (Garamsythe Waterway), Slime, Tallow",
+            Monograph: "",
+            Steal: "Flan (Garamsythe Waterway), Slime, Tallow",
+            Poach: "Flan (Garamsythe Waterway), Tallow",
+            Reward: ""
+        },
+        {
+            Ingrediente: "Dark Stone [3]",
+            Drop: "Dark Skeleton, Ghost, Lich, Lost Soul , Skeleton, Skull Defender, Skull Warrior, Specter, Zombie (Male), Zombie (Female), Zombie Mage",
+            Monograph: "",
+            Steal: "Dark Elemental, Dark Skeleton, Hell Wyrm, Lich, Lost Soul, Oversoul, Skull Warrior, Specter, Zombie (Female), Zombie Mage",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Rain of Tears",
+        Contents: "Aqua Shot, Vega",
+        Ingredients: [{
+            Ingrediente: "Yensa Scale [1]",
+            Drop: "Bull Yensa, Yensa",
+            Monograph: "",
+            Steal: "Bull Yensa, Slyt, Wyvern Lord, Yensa",
+            Poach: "Bull Yensa, Yensa",
+            Reward: ""
+        },
+        {
+            Ingrediente: "Green Liquid [3]",
+            Drop: "Cubus, Etherian, Flan (Garamsythe Waterway), Slime, Tallow",
+            Monograph: "",
+            Steal: "Flan (Garamsythe Waterway), Slime, Tallow",
+            Poach: "Flan (Garamsythe Waterway), Tallow",
+            Reward: ""
+        },
+        {
+            Ingrediente: "Water Stone [4]",
+            Drop: "Adamantitan (Barheim Passage), Bull Danbania, Danbania, Flan (Garamsythe Waterway), Gigantoad, Giza Rabbit, Great Tortoise, Ichthon, Speartongue, Water Chaosjet, Water Elemental, Seeq Cateran",
+            Monograph: "",
+            Steal: "Adamantitan (Barheim Passage), Bull Danbania, Danbania, Flan (Garamsythe Waterway), Giza Rabbit, Great Tortoise, Speartongue",
+            Poach: "",
+            Reward: "Fishing in the Downstream"
+        }]
+    },
+    {
+        Item: "Armor-piercing Shot",
+        Contents: "Windslicer Shot, Spica",
+        Ingredients: [{
+            Ingrediente: "Ichthon Scale [4]",
+            Drop: "Focalor, Piranha, Rain Dancer",
+            Monograph: "",
+            Steal: "Focalor",
+            Poach: "Focalor, Piranha, Razorfin",
+            Reward: ""
+        },
+        {
+            Ingrediente: "Silver Liquid [5]",
+            Drop: "Foobar, Hecteyes",
+            Monograph: "",
+            Steal: "Cubus",
+            Poach: "Hecteyes, Oiling",
+            Reward: ""
+        },
+        {
+            Ingrediente: "Wind Crystal [7]",
+            Drop: "Air Chaosjet, Air Elemental, Ash Wyrm, Baritine Croc, Charybterix, High Reaver, Mirrorknight, Onion Queen (Feywood), Reaver, Sylphi Entite",
+            Monograph: "",
+            Steal: "Air Chaosjet, Air Elemental, Ash Wyrm, Greeden, Mirrorknight, Onion Queen (Feywood), Sylphi Entite",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Mudslinger",
+        Contents: "Mud Shot, Mithuna",
+        Ingredients: [{
+            Ingrediente: "Emperor Scale [2]",
+            Drop: "",
+            Monograph: "Archaeoaevis",
+            Steal: "Deathgaze, Elder Wyrm",
+            Poach: "Archaeoaevis",
+            Reward: ""
+        },
+        {
+            Ingrediente: "Silver Liquid [3]",
+            Drop: "Foobar, Hecteyes",
+            Monograph: "",
+            Steal: "Cubus",
+            Poach: "Hecteyes, Oiling",
+            Reward: ""
+        },
+        {
+            Ingrediente: "Earth Crystal [8]",
+            Drop: "Adamantitan (Cerobi Steppe), Alraune King (Feywood), Bug, Cassie, Earth Chaosjet, Earth Elemental, Elvoret, Emeralditan, Gnoma Entite, Golem, Headless, Killer Mantis, Malboro (Lhusu Mines), Mallicant, Shield Wyrm",
+            Monograph: "",
+            Steal: "Bug, Gnoma Entite, Headless, Killer Mantis, Malboro (Lhusu Mines)",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Bow & Bodkin",
+        Contents: "Parallel Arrows, Shortbow",
+        Ingredients: [{
+            Ingrediente: "Bat Fang [1]",
+            Drop: "Aerieel, Phyllo, Steeling",
+            Monograph: "",
+            Steal: "Bloodwing, Steeling",
+            Poach: "Steeling",
+            Reward: ""
+        },
+        {
+            Ingrediente: "Rat Pelt [2]",
+            Drop: "Dire Rat, Lab Rat",
+            Monograph: "",
+            Steal: "Dire Rat, Lab Rat",
+            Poach: "Dire Rat, Lab Rat",
+            Reward: ""
+        },
+        {
+            Ingrediente: "Dark Stone [2]",
+            Drop: "Dark Skeleton, Ghost, Lich, Lost Soul , Skeleton, Skull Defender, Skull Warrior, Specter, Zombie (Male), Zombie (Female), Zombie Mage",
+            Monograph: "",
+            Steal: "Dark Elemental, Dark Skeleton, Hell Wyrm, Lich, Lost Soul, Oversoul, Skull Warrior, Specter, Zombie (Female), Zombie Mage",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Arrows Alight",
+        Contents: "Fiery Arrows, Longbow",
+        Ingredients: [{
+            Ingrediente: "Crooked Fang [2]",
+            Drop: "Aeros, Bellwyvern (Cerobi Steppe), Redmaw, Seeker, Wyvern",
+            Monograph: "",
+            Steal: "Redmaw, Wyvern Lord",
+            Poach: "Bellwyvern (Cerobi Steppe), Redmaw, Seeker, Wyvern",
+            Reward: ""
+        },
+        {
+            Ingrediente: "Fire Stone [4]",
+            Drop: "Alpha Hyena, Axebeak, Bellwyvern (Cerobi Steppe), Bomb, Brown Chocobo (Estersand), Cockatrice, Dire Rat, Fire Chaosjet, Fire Elemental, Garchimacera, Hyena, Lesser Chimera, Tallow, Wyvern",
+            Monograph: "",
+            Steal: "Alpha Hyena, Axebeak, Bellwyvern, Bomb, Brown Chocobo (Estersand), Dire Rat, Hyena, Lesser Chimera, Marilith, Roblon, Rogue Tomato, Tallow, Wyvern",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Hollow-shaft Arrows",
+        Contents: "Bamboo Arrows, Loxley Bow",
+        Ingredients: [{
+            Ingrediente: "Bat Fang [5]",
+            Drop: "Aerieel, Phyllo, Steeling",
+            Monograph: "",
+            Steal: "Bloodwing, Steeling",
+            Poach: "Steeling",
+            Reward: ""
+        },{
+            Ingrediente: "Yellow Liquid [1]",
+            Drop: "Hecteyes, Jelly, Oiling",
+            Monograph: "",
+            Steal: "Jelly, Oiling",
+            Poach: "Jelly, Oiling, Slime, Tallow",
+            Reward: ""
+        },{
+            Ingrediente: "Water Magicite [3]",
+            Drop: "Adamantitan, Great Tortoise, Ichthon, Jelly, Mandragora, Ozmone Hare, Piranha, Water Chaosjet, Water Elemental, Wyrdhare",
+            Monograph: "",
+            Steal: "Jelly, Mandragora, Ozmone Hare, Ring Wyrm, Water Chaosjet, Water Elemental, Wyrdhare",
+            Poach: "",
+            Reward: "Fishing in Midstream"
+        }]
+    },
+    {
+        Item: "Arrows of the Moon Goddess",
+        Contents: "Artemis Arrows",
+        Ingredients: [{
+            Ingrediente: "Great Serpent's Fang [2]",
+            Drop: "",
+            Monograph: "Python",
+            Steal: "Midgardsormr",
+            Poach: "Python",
+            Reward: ""
+        },{
+            Ingrediente: "Dorsal Fin [2]",
+            Drop: "",
+            Monograph: "Focalor",
+            Steal: "",
+            Poach: "Apsara, Focalor, Rain Dancer",
+            Reward: ""
+        },{
+            Ingrediente: "Gemini Gem [3]",
+            Drop: "Behemoth, Blood Gigas, Bune, Dullahan, High Reaver, Reaver, Slaven Wilder, Wendigo",
+            Monograph: "",
+            Steal: "Atomos, Behemoth, Blood Gigas, Bune, Catoblepas, Humbaba, Overlord, Reaver, Slaven Warder, Slaven Wilder, Striker, Wendice, Werewolf, Zaghnal, Zalera",
+            Poach: "High Reaver, Reaver, Striker",
+            Reward: "Hunt Club Owner"
+        }]
+    },
+    {
+        Item: "Bow of the Moon Goddess",
+        Contents: "Artemis Bow",
+        Ingredients: [{
+            Ingrediente: "Solid Horn [5]",
+            Drop: "Abaddon, Bull Abaddon, Tarasque",
+            Monograph: "",
+            Steal: "Abaddon, Bull Abaddon, Wood Toad",
+            Poach: "Abaddon, Bull Abaddon, Suriander",
+            Reward: ""
+        },{
+            Ingrediente: "Moondust [2]",
+            Drop: "",
+            Monograph: "Mu",
+            Steal: "Fury",
+            Poach: "Mu",
+            Reward: ""
+        },{
+            Ingrediente: "Sylphi Halcyon [1]",
+            Drop: "Sylphi Entite",
+            Monograph: "",
+            Steal: "Sylphi Entite",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Permafrost Bow & Quiver",
+        Contents: "Icecloud Arrows, Perseus Bow",
+        Ingredients: [{
+            Ingrediente: "Spiral Incisor [4]",
+            Drop: "Abysteel, Bellwyvern (Tchita Uplands), Phyllo, Vampyr",
+            Monograph: "",
+            Steal: "Abysteel, Bellwyvern (Tchita Uplands), Bloodwing, Vampyr, Vyraal",
+            Poach: "Bellwyvern (Tchita Uplands)",
+            Reward: ""
+        },{
+            Ingrediente: "Antarctic Wind [2]",
+            Drop: "",
+            Monograph: "Feral Croc",
+            Steal: "Gavial",
+            Poach: "Feral Croc",
+            Reward: ""
+        },{
+            Ingrediente: "Ice Crystal [7]",
+            Drop: "Aeronite, Basilisk, Buer, Cataract Aevis, Ice Azer, Ice Elemental, Leshach Entite, Seeq Thief",
+            Monograph: "",
+            Steal: "Ice Azer, Ice Elemental, Leshach Entite",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Silver Bow",
+        Contents: "Dhanusha",
+        Ingredients: [{
+            Ingrediente: "Beastlord Horn [3]",
+            Drop: "",
+            Monograph: "Humbaba",
+            Steal: "Fenrir, Humbaba Mistant",
+            Poach: "",
+            Reward: ""
+        },{
+            Ingrediente: "Moon Ring [3]",
+            Drop: "",
+            Monograph: "Ash Wyrm",
+            Steal: "",
+            Poach: "",
+            Reward: "Ring Wyrm hunt"
+        },{
+            Ingrediente: "Sagittarius Gem [4]",
+            Drop: "Hecteyes",
+            Monograph: "",
+            Steal: "Flan, Foobar, Oiling, Shemhazai, Slime",
+            Poach: "",
+            Reward: "Hunt Club Owner"
+        }]
+    },
+    {
+        Item: "Ranger's Crossbow",
+        Contents: "Long Bolts, Crossbow",
+        Ingredients: [{
+            Ingrediente: "Crooked Fang [4]",
+            Drop: "Aeros, Bellwyvern (Cerobi Steppe), Redmaw, Seeker, Wyvern",
+            Monograph: "",
+            Steal: "Redmaw, Wyvern Lord",
+            Poach: "Bellwyvern (Cerobi Steppe), Redmaw, Seeker, Wyvern",
+            Reward: ""
+        },{
+            Ingrediente: "Yellow Liquid [2]",
+            Drop: "Hecteyes, Jelly, Oiling",
+            Monograph: "",
+            Steal: "Jelly, Oiling",
+            Poach: "Jelly, Oiling, Slime, Tallow",
+            Reward: ""
+        },{
+            Ingrediente: "Ice Stone [1]",
+            Drop: "Ice Azer, Ice Elemental",
+            Monograph: "",
+            Steal: "Buer, Emperor Aevis, Twintania, White Wolf",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Huntsman's Crossbow",
+        Contents: "Stone Bolts, Recurve Crossbow",
+        Ingredients: [{
+            Ingrediente: "Bundle of Needles [1]",
+            Drop: "",
+            Monograph: "Cactite, Cactoid",
+            Steal: "",
+            Poach: "Cactite, Cactoid",
+            Reward: "Patient in the Desert quest (give Dantro's wife the cactus flower)."
+        },{
+            Ingrediente: "Festering Flesh [2]",
+            Drop: "Anchag, Banshee, Blood Gigas, Ghast, Ghoul, Headless, Zombie Warrior",
+            Monograph: "",
+            Steal: "Banshee, Cerberus, Ghast, Hyena (The Rains)",
+            Poach: "Blood Gigas, Dullahan, Ghast, Ghoul, Headless, Hyena, Zombie (Male), Zombie (Female), Zombie Warrior",
+            Reward: ""
+        },{
+            Ingrediente: "Ice Magicite [5]",
+            Drop: "Emperor Aevis, Garif Adventurer, Ice Azer, Ice Elemental, Iguion, Twintania, Wendigo, White Chocobo, White Wolf, Yeti",
+            Monograph: "",
+            Steal: "Ice Azer, Ice Elemental, Wendigo",
+            Poach: "Twintania",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Scout's Crossbow",
+        Contents: "Time Bolts, Penetrator Crossbow",
+        Ingredients: [{
+            Ingrediente: "Wyvern Fang [4]",
+            Drop: "Aeronite, Aeros",
+            Monograph: "",
+            Steal: "Aeronite",
+            Poach: "Aeronite",
+            Reward: ""
+        },{
+            Ingrediente: "Ancient Bone [3]",
+            Drop: "Dead Bones",
+            Monograph: "Dead Bones",
+            Steal: "Dead Bones (Pharos and Subterra)",
+            Poach: "",
+            Reward: ""
+        },{
+            Ingrediente: "Holy Crystal [9]",
+            Drop: "Babil, Diakon Entite, Holy Elemental",
+            Monograph: "",
+            Steal: "Diakon Entite, Goliath, Holy Elemental, Yiazmat",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Blindflight Quarrels",
+        Contents: "Black Bolts, Hunting Crossbow",
+        Ingredients: [{
+            Ingrediente: "Spiral Incisor [3]",
+            Drop: "Abysteel, Bellwyvern (Tchita Uplands), Phyllo, Vampyr",
+            Monograph: "",
+            Steal: "Abysteel, Bellwyvern (Tchita Uplands), Bloodwing, Vampyr, Vyraal",
+            Poach: "Bellwyvern (Tchita Uplands)",
+            Reward: ""
+        },{
+            Ingrediente: "Silver Liquid [3]",
+            Drop: "Foobar, Hecteyes",
+            Monograph: "",
+            Steal: "Cubus",
+            Poach: "Hecteyes, Oiling",
+            Reward: ""
+        },{
+            Ingrediente: "Dark Crystal [3]",
+            Drop: "Abaddon, Abysteel, Banshee, Bogey, Brainpan, Chimera Brain, Crusader, Dark Elemental, Dark Lord, Dead Bones, Deidar, Dragon Lich, Etém, Foobar, Forbidden, Gargoyle Baron, Gazer, Gespenst, Giruveganus, Leamonde Entite, Malboro Overking, Mimeo, Necrofiend, Necrophobe, Nightwalker, Ose, Oversoul, Preying Mantis, Purobolos, Reaper, Shambling Corpse, Skulwyrm, Tartarus, Vampyr, Vivian, Zombie Warlock",
+            Monograph: "",
+            Steal: "Banshee, Brainpan, Carrot, Daedalus, Dark Elemental, Dead Bones, Deidar, Gargoyle Baron, Gazer, Gespenst, Hell Wyrm, Ixtab, Leamonde Entite, Nightwalker, Oversoul, Preying Mantis, Purobolos, Reaper, Shambling Corpse, Skulwyrm, Tartarus, Vampyr, Vivian, Zombie Warlock",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Piercing Bolts",
+        Contents: "Grand Bolts",
+        Ingredients: [{
+            Ingrediente: "Wrath of the Gods [2]",
+            Drop: "",
+            Monograph: "Pandora",
+            Steal: "Minibug",
+            Poach: "Pandora",
+            Reward: ""
+        },{
+            Ingrediente: "Ring Wyrm Liver [2]",
+            Drop: "",
+            Monograph: "Shield Wyrm",
+            Steal: "Lindwyrm",
+            Poach: "Shield Wyrm",
+            Reward: ""
+        },{
+            Ingrediente: "Capricorn Gem [3]",
+            Drop: "Crusader, Dark Lord, Forbidden, Gazer, Gespenst, Necrofiend, Necrophobe, Nightwalker, Reaper, Zombie Knight, Zombie Warlock",
+            Monograph: "",
+            Steal: "Adrammelech, Bogey, Crusader, Dark Skeleton, Deathscythe, Etém, Fideliant, Ghoul, Negalmuur, Nightwalker, Oversoul, Skull Knight, Velelu, Zombie Warlock, Zombie Warrior",
+            Poach: "Dustia, Zombie Knight",
+            Reward: "Hunt Club Owner"
+        }]
+    },
+    {
+        Item: "Wooden Pole",
+        Contents: "Cypress Pole",
+        Ingredients: [{
+            Ingrediente: "Bone Fragment [5]",
+            Drop: "Fideliant, Grave Lord, Lost Soul, Skeleton, Skull Defender, Skull Warrior",
+            Monograph: "",
+            Steal: "Skeleton, Skull Defender, Skull Warrior",
+            Poach: "Skeleton, Skull Defender, Skull Warrior",
+            Reward: ""
+        },{
+            Ingrediente: "Succulent Fruit [3]",
+            Drop: "Alraune, Deadly Nightshade, Mandragora, Pumpkin Head, Wild Onion",
+            Monograph: "",
+            Steal: "Alraune, Deadly Nightshade, Elder Wyrm, Mandragora, Wild Onion",
+            Poach: "Alraune, Deadly Nightshade, Mandragora, Pumpkin Head, Wild Onion",
+            Reward: ""
+        },{
+            Ingrediente: "Earth Stone [4]",
+            Drop: "Alraune, Bull Yensa, Cactite, Cactoid, Earth Chaosjet, Earth Elemental, Mimic, Ragoh, Slaven, Tiny Bug, Tiny Mimic, Urstrix, Urutan Exile, Urutan-Yensa, Werewolf, Yensa",
+            Monograph: "",
+            Steal: "Cactite, Cactoid, Flowering Cactoid, Ragoh, Slaven, Tiny Bug, Tiny Mimic, Urstrix",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Iron-forged Pole",
+        Contents: "Iron Pole",
+        Ingredients: [{
+            Ingrediente: "Sturdy Bone [5]",
+            Drop: "Crusader, Dark Skeleton, Skull Knight",
+            Monograph: "",
+            Steal: "Crusader, Dark Skeleton, Dead Bones, Skull Knight",
+            Poach: "Dark Skeleton, Skull Knight",
+            Reward: ""
+        },{
+            Ingrediente: "Demon Eyeball [3]",
+            Drop: "Elvoret, Garchimacera, Gargoyle, Larva Eater",
+            Monograph: "",
+            Steal: "Elvoret, Garchimacera, Gargoyle",
+            Poach: "Elvoret, Garchimacera, Gargoyle",
+            Reward: ""
+        },{
+            Ingrediente: "Fire Magicite [4]",
+            Drop: "Alpha Worgen, Balloon, Bangaa Pirate, Bomb, Dullahan, Fire Chaosjet, Fire Elemental, Garchimacera, Gorgimera, Hellhound, Hybrid Gator, Lizard, Red Chocobo, Slaven Warder, Sprinter, Worgen",
+            Monograph: "",
+            Steal: "Alpha Worgen, Bomb, Dullahan, Fire Chaosjet, Fire Element, Gorgimera, Lizard, Oiling, Red Chocobo, Worgen",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Elegant Pole",
+        Contents: "Ivory Pole",
+        Ingredients: [{
+            Ingrediente: "Blood-darkened Bone [8]",
+            Drop: "Crusader, Dark Lord, Dead Bones",
+            Monograph: "",
+            Steal: "",
+            Poach: "Grave Lord",
+            Reward: ""
+        },{
+            Ingrediente: "Demon Feather [6]",
+            Drop: "Garchimacera, Imp, Pit Fiend",
+            Monograph: "",
+            Steal: "Garchimacera",
+            Poach: "Imp, Pit Fiend",
+            Reward: ""
+        },{
+            Ingrediente: "Wind Crystal [7]",
+            Drop: "Air Chaosjet, Air Elemental, Ash Wyrm, Baritine Croc, Charybterix, High Reaver, Mirrorknight, Onion Queen (Feywood), Reaver, Sylphi Entite",
+            Monograph: "",
+            Steal: "Air Chaosjet, Air Elemental, Ash Wyrm, Greeden, Mirrorknight, Onion Queen (Feywood), Sylphi Entite",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Gilt Shield",
+        Contents: "Buckler",
+        Ingredients: [{
+            Ingrediente: "Molting [3]",
+            Drop: "Antares, Sleipnir",
+            Monograph: "",
+            Steal: "Sleipnir",
+            Poach: "Sleipnir",
+            Reward: ""
+        },{
+            Ingrediente: "Fire Stone [3]",
+            Drop: "Alpha Hyena, Axebeak, Bellwyvern (Cerobi Steppe), Bomb, Brown Chocobo (Estersand), Cockatrice, Dire Rat, Fire Chaosjet, Fire Elemental, Garchimacera, Hyena, Lesser Chimera, Tallow, Wyvern",
+            Monograph: "",
+            Steal: "Alpha Hyena, Axebeak, Bellwyvern, Bomb, Brown Chocobo (Estersand), Dire Rat, Hyena, Lesser Chimera, Marilith, Roblon, Rogue Tomato, Tallow, Wyvern",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Golden Garb",
+        Contents: "Golden Helm, Golden Armor, Golden Shield",
+        Ingredients: [{
+            Ingrediente: "Iron Carapace [3]",
+            Drop: "Leynir, Mesmenir, Scythe Mantis",
+            Monograph: "",
+            Steal: "Leynir, Mesmenir, Scythe Mantis",
+            Poach: "Leynir, Mesmenir, Scythe Mantis, Sleipnir",
+            Reward: ""
+        },{
+            Ingrediente: "Tanned Hide [2]",
+            Drop: "Basilisk, Behemoth, Giruveganus, Grey Molter",
+            Monograph: "",
+            Steal: "Giruveganus, Marilith",
+            Poach: "Archaeosaur, Basilisk, Behemoth, Midgardsormr",
+            Reward: ""
+        },{
+            Ingrediente: "Dark Magicite [3]",
+            Drop: "Black Chocobo, Dark Elemental, Dark Skeleton, Darkmare, Ghast, Ghost, Ghoul, Malboro King, Malboro Overking, Nightmare, Skull Knight, Specter, Viper, Zombie, Zombie Knight, Zombie Warrior",
+            Monograph: "",
+            Steal: "Black Chocobo, Dark Elemental, Dark Skeleton, Darkmare, Gazer, Ghoul, Hell Wyrm, Malboro Overking, Nightmare, Viper, Wraith, Zombie (Male)",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Burnished Protectives",
+        Contents: "Burgonet, Shielded Armor, Ice Shield",
+        Ingredients: [{
+            Ingrediente: "Wyrm Carapace [2]",
+            Drop: "Dragon Aevis, Emperor Aevis, Shield Wyrm (Nabreus Deadlands), Twintania",
+            Monograph: "",
+            Steal: "Emperor Aevis, Shield Wyrm (Nabreus Deadlands)",
+            Poach: "Dragon Aevis, Emperor Aevis, Shield Wyrm (Nabreus Deadlands), Twintania",
+            Reward: ""
+        },{
+            Ingrediente: "Quality Hide [2]",
+            Drop: "Python, Serpent, Viper, Werewolf, Zaghnal",
+            Monograph: "",
+            Steal: "Serpent, Werewolf",
+            Poach: "Serpent, Werewolf, Zaghnal",
+            Reward: ""
+        },{
+            Ingrediente: "Earth Magicite [4]",
+            Drop: "Antares, Blood Gigas, Brown Chocobo (Salikawood), Cactoid, Clay Golem, Diresaur, Earth Chaosjet, Earth Elemental, Facer, Great Malboro, Malboro (Golmore Jungle), Slaven Wilder, Striker, Treant, Tyranorox, Urutan-Yensa, Wild Saurian, Wu, Zaghnal",
+            Monograph: "",
+            Steal: "Antares, Blood Gigas, Bug, Cactoid, Clay Golem, Diresaur, Earth Chaosjet, Earth Elemental, Enkelados, Facer, Great Malboro, Malboro, Striker, Treant, Tyranorox, Zaghnal",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Platinum Gear",
+        Contents: "Platinum Helm, Platinum Armor, Platinum Shield",
+        Ingredients: [{
+            Ingrediente: "Insect Husk [2]",
+            Drop: "Antares, Killer Mantis, Preying Mantis, Scythe Mantis",
+            Monograph: "",
+            Steal: "Scythe Mantis",
+            Poach: "Antares, Killer Mantis, Preying Mantis, Scythe Mantis",
+            Reward: ""
+        },{
+            Ingrediente: "Tanned Giantskin [5]",
+            Drop: "Humbaba, Slaven Warder, Slaven Wilder, Yeti",
+            Monograph: "",
+            Steal: "Atomos, Slaven Wilder, Yeti",
+            Poach: "Humbaba, Slaven Warder, Slaven Wilder, Werewolf, Yeti, Zaghnal",
+            Reward: ""
+        },{
+            Ingrediente: "Storm Magicite [6]",
+            Drop: "Archaeosaur, Baknamy, Coeurl (Golmore Jungle), Dragon Aevis, Focalor, Gargoyle, Humbaba, Imp, Mesmenir, Panther, Pumpkin Head, Pyrolisk, Storm Elemental, Suriander, Thunderbug",
+            Monograph: "",
+            Steal: "Archaeosaur, Braegh, Coeurl (Golmore Jungle), Gargoyle, Humbaba, Mesmenir, Mimic Queen, Panther, Pumpkin Head, Storm Elemental, Suriander, Thunderbug",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Brilliant Shield",
+        Contents: "Venetian Shield",
+        Ingredients: [{
+            Ingrediente: "Ancient Turtle Shell [2]",
+            Drop: "Adamantitan (Cerobi Steppe)",
+            Monograph: "",
+            Steal: "Darksteel, Pandaemonium",
+            Poach: "Silicon Tortoise",
+            Reward: ""
+        },{
+            Ingrediente: "Ring Wyrm Liver [2]",
+            Drop: "",
+            Monograph: "Shield Wyrm",
+            Steal: "Lindwyrm",
+            Poach: "Shield Wyrm",
+            Reward: ""
+        },{
+            Ingrediente: "Undin Halcyon [1]",
+            Drop: "Undin Entite",
+            Monograph: "",
+            Steal: "Undin Entite",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Forbidding Shield",
+        Contents: "Demon Shield",
+        Ingredients: [{
+            Ingrediente: "Aged Turtle Shell [2]",
+            Drop: "Adamantitan (Cerobi Steppe), Emeralditan, Silicon Tortoise",
+            Monograph: "",
+            Steal: "Adamantitan (Cerobi Steppe), Darksteel, Emeralditan, Rocktoise, Silicon Tortoise",
+            Poach: "Adamantitan (Cerobi Steppe), Emeralditan, Silicon Tortoise",
+            Reward: ""
+        },{
+            Ingrediente: "Destrier Barding [8]",
+            Drop: "Leynir",
             Monograph: "",
             Steal: "",
             Poach: "",
             Reward: ""
+        },{
+            Ingrediente: "Leamonde Halcyon [1]",
+            Drop: "Leamonde Entite",
+            Monograph: "",
+            Steal: "Leamonde Entite",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Unassuming Surcoat",
+        Contents: "Chromed Leathers",
+        Ingredients: [{
+            Ingrediente: "Wolf Pelt [2]",
+            Drop: "Alpha Hyena, Alpha Wolf, Hyena, Lindbur Wolf, Wary Wolf, Wolf",
+            Monograph: "",
+            Steal: "Alpha Hyena, Alpha Wolf, Enkidu, Hyena, Thextera, Wolf",
+            Poach: "Alpha Hyena, Alpha Wolf, Hyena, Wolf",
+            Reward: ""
+        },{
+            Ingrediente: "Earth Stone [1]",
+            Drop: "Alraune, Bull Yensa, Cactite, Cactoid, Earth Chaosjet, Earth Elemental, Mimic, Ragoh, Slaven, Tiny Bug, Tiny Mimic, Urstrix, Urutan Exile, Urutan-Yensa, Werewolf, Yensa",
+            Monograph: "",
+            Steal: "Cactite, Cactoid, Flowering Cactoid, Ragoh, Slaven, Tiny Bug, Tiny Mimic, Urstrix",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Assorted Leathers",
+        Contents: "Leather Breastplate, Leather Headgear",
+        Ingredients: [{
+            Ingrediente: "Wolf Pelt [2]",
+            Drop: "Alpha Hyena, Alpha Wolf, Hyena, Lindbur Wolf, Wary Wolf, Wolf",
+            Monograph: "",
+            Steal: "Alpha Hyena, Alpha Wolf, Enkidu, Hyena, Thextera, Wolf",
+            Poach: "Alpha Hyena, Alpha Wolf, Hyena, Wolf",
+            Reward: ""
+        },{
+            Ingrediente: "Tanned Hide [1]",
+            Drop: "Basilisk, Behemoth, Giruveganus, Grey Molter",
+            Monograph: "",
+            Steal: "Giruveganus, Marilith",
+            Poach: "Archaeosaur, Basilisk, Behemoth, Midgardsormr",
+            Reward: ""
+        },{
+            Ingrediente: "Dark Stone [2]",
+            Drop: "Dark Skeleton, Ghost, Lich, Lost Soul , Skeleton, Skull Defender, Skull Warrior, Specter, Zombie (Male), Zombie (Female), Zombie Mage",
+            Monograph: "",
+            Steal: "Dark Elemental, Dark Skeleton, Hell Wyrm, Lich, Lost Soul, Oversoul, Skull Warrior, Specter, Zombie (Female), Zombie Mage",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Light Spear",
+        Contents: "Javelin",
+        Ingredients: [{
+            Ingrediente: "Horn [2]",
+            Drop: "Gigantoad, Lizard (Paramina Rift), Speartongue, Suriander, Tarasque, Wood Toad",
+            Monograph: "",
+            Steal: "Croakadile, Gigantoad, Lizard, Speartongue, Suriander",
+            Poach: "Gigantoad, Speartongue, Suriander",
+            Reward: ""
+        },{
+            Ingrediente: "Foul Flesh [2]",
+            Drop: "Drowned, Shambling Corpse, Velelu, Zombie (Male), Zombie (Female), Zombie Mage",
+            Monograph: "",
+            Steal: "Headless, Shadowseer, Shambling Corpse, Zombie (Male), Zombie Mage",
+            Poach: "Ghast, Ghoul, Zombie (Male), Zombie (Female), Zombie Mage, Zombie Warrior",
+            Reward: ""
+        },{
+            Ingrediente: "Wind Stone [3]",
+            Drop: "Air Chaosjet, Air Elemental, Alpha Wolf, Bagoly, Seeker, Slime, Steeling, Wildsnake, Wolf, Wooly Gator",
+            Monograph: "",
+            Steal: "Alpha Wolf, Cluckatrice, Seeker, Slime, Steeling, Wildsnake, Wolf",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Iron-forged Blade",
+        Contents: "Iron Sword",
+        Ingredients: [{
+            Ingrediente: "Iron Scraps [3]",
+            Drop: "Battery Mimic, Bug, Ithuno, Mimic, Thunderbug, Tiny Bug, Tiny Mimic",
+            Monograph: "",
+            Steal: "Mimic, Thunderbug",
+            Poach: "Battery Mimic, Bug, Mimic, Thunderbug, Tiny Bug, Tiny Mimic",
+            Reward: ""
+        },{
+            Ingrediente: "Foul Flesh [2]",
+            Drop: "Drowned, Shambling Corpse, Velelu, Zombie (Male), Zombie (Female), Zombie Mage",
+            Monograph: "",
+            Steal: "Headless, Shadowseer, Shambling Corpse, Zombie (Male), Zombie Mage",
+            Poach: "Ghast, Ghoul, Zombie (Male), Zombie (Female), Zombie Mage, Zombie Warrior",
+            Reward: ""
+        },{
+            Ingrediente: "Earth Stone [3]",
+            Drop: "Alraune, Bull Yensa, Cactite, Cactoid, Earth Chaosjet, Earth Elemental, Mimic, Ragoh, Slaven, Tiny Bug, Tiny Mimic, Urstrix, Urutan Exile, Urutan-Yensa, Werewolf, Yensa",
+            Monograph: "",
+            Steal: "Cactite, Cactoid, Flowering Cactoid, Ragoh, Slaven, Tiny Bug, Tiny Mimic, Urstrix",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Traveler's Garb",
+        Contents: "Feathered Cap, Traveler's Vestment",
+        Ingredients: [{
+            Ingrediente: "Braid Wool [2]",
+            Drop: "Bull Croc, Greeden, Hybrid Gator, Ozmone Hare, Wooly Gator",
+            Monograph: "",
+            Steal: "Bull Croc, Wooly Gator",
+            Poach: "Greeden, Hybrid Gator, Ozmone Hare, Wooly Gator",
+            Reward: ""
+        },{
+            Ingrediente: "Tanned Hide [2]",
+            Drop: "Basilisk, Behemoth, Giruveganus, Grey Molter",
+            Monograph: "",
+            Steal: "Giruveganus, Marilith",
+            Poach: "Archaeosaur, Basilisk, Behemoth, Midgardsormr",
+            Reward: ""
+        },{
+            Ingrediente: "Water Stone [5]",
+            Drop: "Adamantitan (Barheim Passage), Bull Danbania, Danbania, Flan (Garamsythe Waterway), Gigantoad, Giza Rabbit, Great Tortoise, Ichthon, Speartongue, Water Chaosjet, Water Elemental, Seeq Cateran",
+            Monograph: "",
+            Steal: "Adamantitan (Barheim Passage), Bull Danbania, Danbania, Flan (Garamsythe Waterway), Giza Rabbit, Great Tortoise, Speartongue",
+            Poach: "",
+            Reward: "Fishing in the Downstream"
+        }]
+    },
+    {
+        Item: "Matching Reds",
+        Contents: "Red Cap, Brigandine",
+        Ingredients: [{
+            Ingrediente: "Coeurl Pelt [3]",
+            Drop: "Coeurl, Panther",
+            Monograph: "",
+            Steal: "Panther",
+            Poach: "Coeurl, Panther",
+            Reward: ""
+        },{
+            Ingrediente: "Quality Hide [2]",
+            Drop: "Python, Serpent, Viper, Werewolf, Zaghnal",
+            Monograph: "",
+            Steal: "Serpent, Werewolf",
+            Poach: "Serpent, Werewolf, Zaghnal",
+            Reward: ""
+        },{
+            Ingrediente: "Dark Magicite [3]",
+            Drop: "Black Chocobo, Dark Elemental, Dark Skeleton, Darkmare, Ghast, Ghost, Ghoul, Malboro King, Malboro Overking, Nightmare, Skull Knight, Specter, Viper, Zombie, Zombie Knight, Zombie Warrior",
+            Monograph: "",
+            Steal: "Black Chocobo, Dark Elemental, Dark Skeleton, Darkmare, Gazer, Ghoul, Hell Wyrm, Malboro Overking, Nightmare, Viper, Wraith, Zombie (Male)",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Burning Blade",
+        Contents: "Flametongue",
+        Ingredients: [{
+            Ingrediente: "Lumber [2]",
+            Drop: "Juggernaut, Treant",
+            Monograph: "",
+            Steal: "Treant",
+            Poach: "Treant",
+            Reward: ""
+        },{
+            Ingrediente: "Malboro Vine [2]",
+            Drop: "Great Malboro, Malboro (Golmore Jungle)",
+            Monograph: "",
+            Steal: "Great Malboro, Malboro (Golmore Jungle)",
+            Poach: "Great Malboro, Malboro (Golmore Jungle)",
+            Reward: ""
+        },{
+            Ingrediente: "Fire Stone [6]",
+            Drop: "Alpha Hyena, Axebeak, Bellwyvern (Cerobi Steppe), Bomb, Brown Chocobo (Estersand), Cockatrice, Dire Rat, Fire Chaosjet, Fire Elemental, Garchimacera, Hyena, Lesser Chimera, Tallow, Wyvern",
+            Monograph: "",
+            Steal: "Alpha Hyena, Axebeak, Bellwyvern, Bomb, Brown Chocobo (Estersand), Dire Rat, Hyena, Lesser Chimera, Marilith, Roblon, Rogue Tomato, Tallow, Wyvern",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Alluring Finery",
+        Contents: "Lamia's Tiara, Enchanter's Habit",
+        Ingredients: [{
+            Ingrediente: "Fine Wool [3]",
+            Drop: "Baritine Croc (Paramina Rift), Hybrid Gator, Wyrdhare",
+            Monograph: "",
+            Steal: "",
+            Poach: "Baritine Croc (Paramina Rift), Hybrid Gator, Wooly Gator, Wyrdhare",
+            Reward: ""
+        },{
+            Ingrediente: "Tyrant Hide [1]",
+            Drop: "Diresaur, Tyranorox",
+            Monograph: "",
+            Steal: "Diresaur, Earth Tyrant, Pylraster",
+            Poach: "Diresaur, Tyranorox",
+            Reward: ""
+        },{
+            Ingrediente: "Ice Magicite [4]",
+            Drop: "Emperor Aevis, Garif Adventurer, Ice Azer, Ice Elemental, Iguion, Twintania, Wendigo, White Chocobo, White Wolf, Yeti",
+            Monograph: "",
+            Steal: "Ice Azer, Ice Elemental, Wendigo",
+            Poach: "Twintania",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Monk's Garb",
+        Contents: "Headband, Jujitsu Gi",
+        Ingredients: [{
+            Ingrediente: "Coeurl Pelt [4]",
+            Drop: "Coeurl, Panther",
+            Monograph: "",
+            Steal: "Panther",
+            Poach: "Coeurl, Panther",
+            Reward: ""
+        },{
+            Ingrediente: "Tyrant Hide [2]",
+            Drop: "Diresaur, Tyranorox",
+            Monograph: "",
+            Steal: "Diresaur, Earth Tyrant, Pylraster",
+            Poach: "Diresaur, Tyranorox",
+            Reward: ""
+        },{
+            Ingrediente: "Ice Magicite [4]",
+            Drop: "Emperor Aevis, Garif Adventurer, Ice Azer, Ice Elemental, Iguion, Twintania, Wendigo, White Chocobo, White Wolf, Yeti",
+            Monograph: "",
+            Steal: "Ice Azer, Ice Elemental, Wendigo",
+            Poach: "Twintania",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Light & Sturdy Garb",
+        Contents: "Adamant Hat, Adamant Vest",
+        Ingredients: [{
+            Ingrediente: "Coeurl Pelt [6]",
+            Drop: "Coeurl, Panther",
+            Monograph: "",
+            Steal: "Panther",
+            Poach: "Coeurl, Panther",
+            Reward: ""
+        },{
+            Ingrediente: "Tanned Tyrant Hide [2]",
+            Drop: "Archaeosaur",
+            Monograph: "",
+            Steal: "Archaeosaur",
+            Poach: "Archaeosaur, Tyranorox",
+            Reward: ""
+        },{
+            Ingrediente: "Storm Magicite [5]",
+            Drop: "Archaeosaur, Baknamy, Coeurl (Golmore Jungle), Dragon Aevis, Focalor, Gargoyle, Humbaba, Imp, Mesmenir, Panther, Pumpkin Head, Pyrolisk, Storm Elemental, Suriander, Thunderbug",
+            Monograph: "",
+            Steal: "Archaeosaur, Braegh, Coeurl (Golmore Jungle), Gargoyle, Humbaba, Mesmenir, Mimic Queen, Panther, Pumpkin Head, Storm Elemental, Suriander, Thunderbug",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Ninja Garb",
+        Contents: "Black Cowl, Black Garb",
+        Ingredients: [{
+            Ingrediente: "Fine Wool [4]",
+            Drop: "Baritine Croc (Paramina Rift), Hybrid Gator, Wyrdhare",
+            Monograph: "",
+            Steal: "",
+            Poach: "Baritine Croc (Paramina Rift), Hybrid Gator, Wooly Gator, Wyrdhare",
+            Reward: ""
+        },{
+            Ingrediente: "Tanned Tyrant Hide [2]",
+            Drop: "Archaeosaur",
+            Monograph: "",
+            Steal: "Archaeosaur",
+            Poach: "Archaeosaur, Tyranorox",
+            Reward: ""
+        },{
+            Ingrediente: "Fire Magicite [5]",
+            Drop: "Alpha Worgen, Balloon, Bangaa Pirate, Bomb, Dullahan, Fire Chaosjet, Fire Elemental, Garchimacera, Gorgimera, Hellhound, Hybrid Gator, Lizard, Red Chocobo, Slaven Warder, Sprinter, Worgen",
+            Monograph: "",
+            Steal: "Alpha Worgen, Bomb, Dullahan, Fire Chaosjet, Fire Element, Gorgimera, Lizard, Oiling, Red Chocobo, Worgen",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Jag-tooth Ninja Sword",
+        Contents: "Kagenui",
+        Ingredients: [{
+            Ingrediente: "Giant Feather [5]",
+            Drop: "Dive Talon, Vulture",
+            Monograph: "",
+            Steal: "Garuda",
+            Poach: "Dive Talon, Vulture, Zu",
+            Reward: ""
+        },{
+            Ingrediente: "Festering Flesh [4]",
+            Drop: "Anchag, Banshee, Blood Gigas, Ghast, Ghoul, Headless, Zombie Warrior",
+            Monograph: "",
+            Steal: "Banshee, Cerberus, Ghast, Hyena (The Rains)",
+            Poach: "Blood Gigas, Dullahan, Ghast, Ghoul, Headless, Hyena, Zombie (Male), Zombie (Female), Zombie Warrior",
+            Reward: ""
+        },{
+            Ingrediente: "Dark Magicite [5]",
+            Drop: "Black Chocobo, Dark Elemental, Dark Skeleton, Darkmare, Ghast, Ghost, Ghoul, Malboro King, Malboro Overking, Nightmare, Skull Knight, Specter, Viper, Zombie, Zombie Knight, Zombie Warrior",
+            Monograph: "",
+            Steal: "Black Chocobo, Dark Elemental, Dark Skeleton, Darkmare, Gazer, Ghoul, Hell Wyrm, Malboro Overking, Nightmare, Viper, Wraith, Zombie (Male)",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Emboldening Arms",
+        Contents: "Chakra Band, Power Vest",
+        Ingredients: [{
+            Ingrediente: "Quality Pelt [6]",
+            Drop: "Alpha Worgen, Bandercoeurl, Coeurl, Panther, Silver Lobo, White Wolf, Worgen",
+            Monograph: "",
+            Steal: "Feral Retriever, Coeurl (Tchita Uplands), White Wolf",
+            Poach: "Alpha Worgen, Bandercoeurl, Coeurl, Panther, Silver Lobo, White Wolf, Worgen",
+            Reward: ""
+        },{
+            Ingrediente: "Tanned Giantskin [4]",
+            Drop: "Humbaba, Slaven Warder, Slaven Wilder, Yeti",
+            Monograph: "",
+            Steal: "Atomos, Slaven Wilder, Yeti",
+            Poach: "Humbaba, Slaven Warder, Slaven Wilder, Werewolf, Yeti, Zaghnal",
+            Reward: ""
+        },{
+            Ingrediente: "Fire Crystal [3]",
+            Drop: "Bangaa Thief, Bellwyvern (Tchita Uplands), Bune, Cerberus, Deadly Nightshade, Dullahan, Fire Chaosjet, Fire Elemental, Garchimacera, Grenade, Lizard (Garamsythe/Tchita), Mom Bomb, Mu, Mythril Golem, Salamand Entite, Scythe Mantis, Topstalk (Feywood)",
+            Monograph: "",
+            Steal: "Cerberus, Deadly Nightshade, Diabolos, Dullahan, Fire Chaosjet, Fire Elemental, Grenade, King Bomb, Marilith, Mythril Golem, Overlord, Roblon, Salamand Entite, Scythe Mantis",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "War Axe",
+        Contents: "Francisca",
+        Ingredients: [{
+            Ingrediente: "Pointed Horn [2]",
+            Drop: "Iguion, Lizard, Suriander",
+            Monograph: "",
+            Steal: "Croakadile, Lizard (Garamsythe/Tchita), Suriander",
+            Poach: "Iguion, Lizard, Suriander",
+            Reward: ""
+        },{
+            Ingrediente: "Malboro Fruit [4]",
+            Drop: "Malboro (Lhusu Mines), Malboro King, Malboro Overking",
+            Monograph: "",
+            Steal: "Malboro King, Malboro Overking",
+            Poach: "Malboro (Lhusu Mines), Malboro King, Malboro Overking",
+            Reward: ""
+        },{
+            Ingrediente: "Wind Magicite [6]",
+            Drop: "Air Chaosjet, Air Elemental, Bagoly, Baritine Croc, Dive Talon, Feral Croc, Green Chocobo, Pit Fiend, Python, Redmaw, Serpent, Silver Lobo, Vulture, Wild Onion, Zu",
+            Monograph: "",
+            Steal: "Air Chaosjet, Air Elemental, Baritine Croc, Green Chocobo, Python, Serpent, Vulture, Wild Onion, Zu",
+            Poach: "Bagoly",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Warped Blade",
+        Contents: "Diamond Sword",
+        Ingredients: [{
+            Ingrediente: "Bundle of Feathers [6]",
+            Drop: "Bagoly, Gorgimera, Pyrolisk, Sprinter, Vulture",
+            Monograph: "",
+            Steal: "Bagoly, Pyrolisk, Sprinter, Vulture",
+            Poach: "Bagoly, Dive Talon, Gorgimera, Pyrolisk, Sprinter, Vulture",
+            Reward: ""
+        },{
+            Ingrediente: "Maggoty Flesh [4]",
+            Drop: "Striker, Wendigo, Zombie Knight",
+            Monograph: "",
+            Steal: "Hydro, Shadowseer, Striker, Zombie Knight",
+            Poach: "Striker, Wendigo, Zombie Knight, Zombie Warlock",
+            Reward: ""
+        },{
+            Ingrediente: "Fire Magicite [6]",
+            Drop: "Alpha Worgen, Balloon, Bangaa Pirate, Bomb, Dullahan, Fire Chaosjet, Fire Elemental, Garchimacera, Gorgimera, Hellhound, Hybrid Gator, Lizard, Red Chocobo, Slaven Warder, Sprinter, Worgen",
+            Monograph: "",
+            Steal: "Alpha Worgen, Bomb, Dullahan, Fire Chaosjet, Fire Element, Gorgimera, Lizard, Oiling, Red Chocobo, Worgen",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Forked Spear",
+        Contents: "Trident",
+        Ingredients: [{
+            Ingrediente: "Pointed Horn [4]",
+            Drop: "Iguion, Lizard, Suriander",
+            Monograph: "",
+            Steal: "Croakadile, Lizard (Garamsythe/Tchita), Suriander",
+            Poach: "Iguion, Lizard, Suriander",
+            Reward: ""
+        },{
+            Ingrediente: "Maggoty Flesh [5]",
+            Drop: "Striker, Wendigo, Zombie Knight",
+            Monograph: "",
+            Steal: "Hydro, Shadowseer, Striker, Zombie Knight",
+            Poach: "Striker, Wendigo, Zombie Knight, Zombie Warlock",
+            Reward: ""
+        },{
+            Ingrediente: "Wind Magicite [6]",
+            Drop: "Air Chaosjet, Air Elemental, Bagoly, Baritine Croc, Dive Talon, Feral Croc, Green Chocobo, Pit Fiend, Python, Redmaw, Serpent, Silver Lobo, Vulture, Wild Onion, Zu",
+            Monograph: "",
+            Steal: "Air Chaosjet, Air Elemental, Baritine Croc, Green Chocobo, Python, Serpent, Vulture, Wild Onion, Zu",
+            Poach: "Bagoly",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Gigas Gear",
+        Contents: "Gigas Hat, Gigas Chestplate",
+        Ingredients: [{
+            Ingrediente: "Prime Pelt [8]",
+            Drop: "Cerberus, Lindbur Wolf, Ose, Tartarus",
+            Monograph: "",
+            Steal: "Bandercoeurl, Cerberus, Feral Retriever, Ose, Wary Wolf",
+            Poach: "Cerberus, Ose",
+            Reward: ""
+        },{
+            Ingrediente: "Prime Tanned Hide [7]",
+            Drop: "Basilisk, Behemoth, Giruveganus, Grey Molter",
+            Monograph: "",
+            Steal: "Giruveganus, Marilith",
+            Poach: "Archaeosaur, Basilisk, Behemoth, Midgardsormr",
+            Reward: ""
+        },{
+            Ingrediente: "Dark Crystal [7]",
+            Drop: "Abaddon, Abysteel, Banshee, Bogey, Brainpan, Chimera Brain, Crusader, Dark Elemental, Dark Lord, Dead Bones, Deidar, Dragon Lich, Etém, Foobar, Forbidden, Gargoyle Baron, Gazer, Gespenst, Giruveganus, Leamonde Entite, Malboro Overking, Mimeo, Necrofiend, Necrophobe, Nightwalker, Ose, Oversoul, Preying Mantis, Purobolos, Reaper, Shambling Corpse, Skulwyrm, Tartarus, Vampyr, Vivian, Zombie Warlock",
+            Monograph: "",
+            Steal: "Banshee, Brainpan, Carrot, Daedalus, Dark Elemental, Dead Bones, Deidar, Gargoyle Baron, Gazer, Gespenst, Hell Wyrm, Ixtab, Leamonde Entite, Nightwalker, Oversoul, Preying Mantis, Purobolos, Reaper, Shambling Corpse, Skulwyrm, Tartarus, Vampyr, Vivian, Zombie Warlock",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Mystic Staff",
+        Contents: "Cloud Staff",
+        Ingredients: [{
+            Ingrediente: "Quality Lumber [4]",
+            Drop: "Golem",
+            Monograph: "",
+            Steal: "Golem",
+            Poach: "Clay Golem, Golem",
+            Reward: ""
+        },{
+            Ingrediente: "Demon Feather [6]",
+            Drop: "Garchimacera, Imp, Pit Fiend",
+            Monograph: "",
+            Steal: "Garchimacera",
+            Poach: "Imp, Pit Fiend",
+            Reward: ""
+        },{
+            Ingrediente: "Storm Crystal [7]",
+            Drop: "Archaeoaevis, Baknamy, Bandercoeurl, Behemoth, Coeurl, Deathclaw, Focalor (Nabreus Deadlands/Echoes of the Past area), Gizamaluk, Leynir, Mardu Entite, Pandora, Pumpkin Star (Feywood), Shadonir, Storm Elemental",
+            Monograph: "",
+            Steal: "Bandercoeurl, Behemoth, Braegh, Coeurl[note 3], Imp, Ixion, Mardu Entite, Shadonir, Storm Elemental",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Black Vestments",
+        Contents: "Black Mask, Black Robes",
+        Ingredients: [{
+            Ingrediente: "Blood Wool [9]",
+            Drop: "Baritine Croc, Feral Croc, Greeden, Mu, Spee",
+            Monograph: "",
+            Steal: "Bull Croc, Fury, Vorpal Bunny",
+            Poach: "",
+            Reward: ""
+        },{
+            Ingrediente: "Prime Tanned Hide [7]",
+            Drop: "Basilisk, Behemoth, Giruveganus, Grey Molter",
+            Monograph: "",
+            Steal: "Giruveganus, Marilith",
+            Poach: "Archaeosaur, Basilisk, Behemoth, Midgardsormr",
+            Reward: ""
+        },{
+            Ingrediente: "Dark Crystal [8]",
+            Drop: "Abaddon, Abysteel, Banshee, Bogey, Brainpan, Chimera Brain, Crusader, Dark Elemental, Dark Lord, Dead Bones, Deidar, Dragon Lich, Etém, Foobar, Forbidden, Gargoyle Baron, Gazer, Gespenst, Giruveganus, Leamonde Entite, Malboro Overking, Mimeo, Necrofiend, Necrophobe, Nightwalker, Ose, Oversoul, Preying Mantis, Purobolos, Reaper, Shambling Corpse, Skulwyrm, Tartarus, Vampyr, Vivian, Zombie Warlock",
+            Monograph: "",
+            Steal: "Banshee, Brainpan, Carrot, Daedalus, Dark Elemental, Dead Bones, Deidar, Gargoyle Baron, Gazer, Gespenst, Hell Wyrm, Ixtab, Leamonde Entite, Nightwalker, Oversoul, Preying Mantis, Purobolos, Reaper, Shambling Corpse, Skulwyrm, Tartarus, Vampyr, Vivian, Zombie Warlock",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "White Vestments",
+        Contents: "White Mask, White Robes",
+        Ingredients: [{
+            Ingrediente: "Blood Wool [9]",
+            Drop: "Baritine Croc, Feral Croc, Greeden, Mu, Spee",
+            Monograph: "",
+            Steal: "Bull Croc, Fury, Vorpal Bunny",
+            Poach: "",
+            Reward: ""
+        },{
+            Ingrediente: "Beastlord Hide [7]",
+            Drop: "High Reaver, Reaver",
+            Monograph: "",
+            Steal: "Enkidu, Fenrir, High Reaver, Humbaba Mistant, Reaver",
+            Poach: "High Reaver, Reaver",
+            Reward: ""
+        },{
+            Ingrediente: "Holy Crystal [8]",
+            Drop: "Babil, Diakon Entite, Holy Elemental",
+            Monograph: "",
+            Steal: "Diakon Entite, Goliath, Holy Elemental, Yiazmat",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Nature's Armory",
+        Contents: "Crown of Laurels, Rubber Suit",
+        Ingredients: [{
+            Ingrediente: "Prime Pelt [9]",
+            Drop: "Cerberus, Lindbur Wolf, Ose, Tartarus",
+            Monograph: "",
+            Steal: "Bandercoeurl, Cerberus, Feral Retriever, Ose, Wary Wolf",
+            Poach: "Cerberus, Ose",
+            Reward: ""
+        },{
+            Ingrediente: "Forbidden Flesh [7]",
+            Drop: "Bune, Dullahan, Forbidden, Headless, Zombie Warlock",
+            Monograph: "",
+            Steal: "Ancbolder, Bune, Daedalus, Drowned, Overlord, Shadowseer, Wendigo",
+            Poach: "Anchag, Bune, Dullahan, Headless, Zombie Warlock",
+            Reward: ""
+        },{
+            Ingrediente: "Fire Crystal [8]",
+            Drop: "Bangaa Thief, Bellwyvern (Tchita Uplands), Bune, Cerberus, Deadly Nightshade, Dullahan, Fire Chaosjet, Fire Elemental, Garchimacera, Grenade, Lizard (Garamsythe/Tchita), Mom Bomb, Mu, Mythril Golem, Salamand Entite, Scythe Mantis, Topstalk (Feywood)",
+            Monograph: "",
+            Steal: "Cerberus, Deadly Nightshade, Diabolos, Dullahan, Fire Chaosjet, Fire Elemental, Grenade, King Bomb, Marilith, Mythril Golem, Overlord, Roblon, Salamand Entite, Scythe Mantis",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Sturdy Battle Gear",
+        Contents: "Maximillian",
+        Ingredients: [{
+            Ingrediente: "Charger Barding [4]",
+            Drop: "Cataract Aevis, Deathclaw, Dragon Lich, Gizamaluk, Leynir, Shadonir, Skulwyrm",
+            Monograph: "",
+            Steal: "Antlion, Cataract Aevis, Deathclaw, Deathgaze, Dragon Lich, Gizamaluk, Shadonir, Skullash, Skulwyrm, Vyraal",
+            Poach: "Cataract Aevis, Death Claw, Gizamaluk, Killer Mantis, Shadonir",
+            Reward: ""
+        },{
+            Ingrediente: "Split Armor [2]",
+            Drop: "",
+            Monograph: "Charybterix",
+            Steal: "Phoenix",
+            Poach: "Charybterix",
+            Reward: ""
+        },{
+            Ingrediente: "Pisces Gem [3]",
+            Drop: "Apsara, Focalor, Piranha",
+            Monograph: "",
+            Steal: "Bull Yensa, Focalor, Mateus, Slyt, Yensa",
+            Poach: "Piranha",
+            Reward: "Hunt Club Owner"
+        }]
+    },
+    {
+        Item: "Magepower Helm",
+        Contents: "Magepower Shishak",
+        Ingredients: [{
+            Ingrediente: "Charger Barding [5]",
+            Drop: "Cataract Aevis, Deathclaw, Dragon Lich, Gizamaluk, Leynir, Shadonir, Skulwyrm",
+            Monograph: "",
+            Steal: "Antlion, Cataract Aevis, Deathclaw, Deathgaze, Dragon Lich, Gizamaluk, Shadonir, Skullash, Skulwyrm, Vyraal",
+            Poach: "Cataract Aevis, Death Claw, Gizamaluk, Killer Mantis, Shadonir",
+            Reward: ""
+        },{
+            Ingrediente: "Chimera Head [2]",
+            Drop: "",
+            Monograph: "Chimera Brain",
+            Steal: "",
+            Poach: "Chimera Brain",
+            Reward: ""
+        },{
+            Ingrediente: "Feystone [1]",
+            Drop: "Air Chaosjet, Air Elemental, Bangaa Thief, Dark Elemental, Diakon Entite, Earth Chaosjet, Earth Elemental, Fire Chaosjet, Fire Elemental, Gnoma Entite, Holy Elemental, Ice Elemental, Leamonde Entite, Leshach Entite, Mardu Entite, Salamand Entite, Storm Elemental, Sylphi Entite, Undin Entite, Water Chaosjet, Water Elemental",
+            Monograph: "",
+            Steal: "Air Chaosjet, Air Elemental, Crystalbug (red), Crystalbug (green), Crystalbug (blue), Dark Elemental, Diakon Entite, Earth Chaosjet, Earth Elemental, Elder Wyrm, Fire Chaosjet, Fire Elemental, Gnoma Entite, Holy Elemental, Ice Azer, Ice Element, Leamonde Entite, Leshach Entite, Mardu Entite, Salamand Entite, Storm Elemental, Sylphi Entite, Undin Entite, Water Chaosjet, Water Elemental",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Samurai's Katana",
+        Contents: "Ame-no-Murakumo",
+        Ingredients: [{
+            Ingrediente: "Iron Ore [5]",
+            Drop: "Bug, Ithuno, Mimeo, Molen, Mythril Golem, Pandora",
+            Monograph: "",
+            Steal: "Bug, Mimeo, Mythril Golem, Goliath, Pandora, Roblon",
+            Poach: "Bug, Mimeo, Pandora",
+            Reward: ""
+        },{
+            Ingrediente: "Screamroot [7]",
+            Drop: "Alraune King (Feywood), Mandragora Prince (Feywood), Onion Queen (Feywood), Pumpkin Star (Feywood), Topstalk (Feywood)",
+            Monograph: "",
+            Steal: "Alraune King (Feywood), Deadly Nightshade, Onion Queen (Feywood), Pumpkin Head, Pumpkin Star (Feywood), Rafflesia, Ripe Rampager, Topstalk (Feywood)",
+            Poach: "Alraune King (Feywood), Mandragora Prince (Feywood), Onion Queen (Feywood), Pumpkin Star (Feywood), Topstalk (Feywood)",
+            Reward: ""
+        },{
+            Ingrediente: "Water Crystal [9]",
+            Drop: "Mandragora Prince (Feywood), Mistmare, Silicon Tortoise, Undin Entite, Water Chaosjet, Water Elemental, Seeq Explorer",
+            Monograph: "",
+            Steal: "Mandragora Prince (Feywood), Mistmare, Razorfin, Undin Entite, Water Chaosjet, Water Elemental",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Double-bladed Knife",
+        Contents: "Zwill Crossblade",
+        Ingredients: [{
+            Ingrediente: "Windslicer Pinion [5]",
+            Drop: "Charybterix, Chimera Brain, Imdugud, Mirrorknight",
+            Monograph: "",
+            Steal: "Charybterix, Phoenix",
+            Poach: "Charybterix, Chimera Brain, Mirrorknight",
+            Reward: ""
+        },{
+            Ingrediente: "Malboro Flower [7]",
+            Drop: "Cassie, Vivian",
+            Monograph: "",
+            Steal: "Cassie, Malboro Overking, Wild Malboro",
+            Poach: "Cassie, Malboro (Lhusu Mines), Vivian",
+            Reward: ""
+        },{
+            Ingrediente: "Wind Crystal [9]",
+            Drop: "Air Chaosjet, Air Elemental, Ash Wyrm, Baritine Croc, Charybterix, High Reaver, Mirrorknight, Onion Queen (Feywood), Reaver, Sylphi Entite",
+            Monograph: "",
+            Steal: "Air Chaosjet, Air Elemental, Ash Wyrm, Greeden, Mirrorknight, Onion Queen (Feywood), Sylphi Entite",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "The Leering Blade",
+        Contents: "Deathbringer",
+        Ingredients: [{
+            Ingrediente: "Broken Sword [3]",
+            Drop: "",
+            Monograph: "Baritine Croc",
+            Steal: "",
+            Poach: "Baritine Croc, Bull Croc",
+            Reward: ""
+        },{
+            Ingrediente: "Demon Tail [7]",
+            Drop: "Buer, Gargoyle Baron",
+            Monograph: "",
+            Steal: "Gargoyle Baron",
+            Poach: "Buer, Garchimacera, Gargoyle Baron, Pit Fiend",
+            Reward: ""
+        },{
+            Ingrediente: "Dark Crystal [10]",
+            Drop: "Abaddon, Abysteel, Banshee, Bogey, Brainpan, Chimera Brain, Crusader, Dark Elemental, Dark Lord, Dead Bones, Deidar, Dragon Lich, Etém, Foobar, Forbidden, Gargoyle Baron, Gazer, Gespenst, Giruveganus, Leamonde Entite, Malboro Overking, Mimeo, Necrofiend, Necrophobe, Nightwalker, Ose, Oversoul, Preying Mantis, Purobolos, Reaper, Shambling Corpse, Skulwyrm, Tartarus, Vampyr, Vivian, Zombie Warlock",
+            Monograph: "",
+            Steal: "Banshee, Brainpan, Carrot, Daedalus, Dark Elemental, Dead Bones, Deidar, Gargoyle Baron, Gazer, Gespenst, Hell Wyrm, Ixtab, Leamonde Entite, Nightwalker, Oversoul, Preying Mantis, Purobolos, Reaper, Shambling Corpse, Skulwyrm, Tartarus, Vampyr, Vivian, Zombie Warlock",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Attenuated Greatsword",
+        Contents: "Save the Queen",
+        Ingredients: [{
+            Ingrediente: "Quality Stone [4]",
+            Drop: "Babil, Brainpan, Deidar",
+            Monograph: "",
+            Steal: "Deidar, Demon Wall",
+            Poach: "Barmuu, Brainpan, Deidar",
+            Reward: ""
+        },{
+            Ingrediente: "Sky Jewel [7]",
+            Drop: "Bogey, Cultsworn Lich, Ghost, Necrofiend, Necrophobe, Specter",
+            Monograph: "",
+            Steal: "Ahriman, Necrofiend, Necrophobe, Specter",
+            Poach: "Bogey, Ghost, Necrophobe, Specter",
+            Reward: ""
+        },{
+            Ingrediente: "Holy Crystal [10]",
+            Drop: "Babil, Diakon Entite, Holy Elemental",
+            Monograph: "",
+            Steal: "Diakon Entite, Goliath, Holy Elemental, Yiazmat",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Devastating Incendiaries",
+        Contents: "Castellanos",
+        Ingredients: [{
+            Ingrediente: "Bomb Fragment [3]",
+            Drop: "",
+            Monograph: "Bomb (Lv. 38-40), Grenade",
+            Steal: "Bomb (Salikawood), King Bomb, Megabomb",
+            Poach: "Grenade, Matriarch Bomb, Pineapple",
+            Reward: ""
+        },{
+            Ingrediente: "Frog Oil [2]",
+            Drop: "",
+            Monograph: "Speartongue",
+            Steal: "",
+            Poach: "Speartongue, Tarasque",
+            Reward: ""
+        },{
+            Ingrediente: "Aries Gem [3]",
+            Drop: "Abaddon, Adamantitan, Bagoly, Emeralditan, Feral Croc, Iguion, Mirrorknight, Mu, Serpent, Shadonir, Silicon Tortoise, Speartongue, Wyrdhare",
+            Monograph: "",
+            Steal: "Abaddon, Basilisk, Belias, Croakadile, Feral Croc, Fury, Great Tortoise, Grey Molter, Hybrid Gator, Iguion, Leynir, Mesmenir, Mirrorknight, Mu, Nidhogg, Pandaemonium, Serpent, Shadonir, Silicon Tortoise, Viper, Wu, Wyrdhare",
+            Poach: "",
+            Reward: "Hunt Club Owner"
+        }]
+    },
+    {
+        Item: "Darksteel Blade",
+        Contents: "Stoneblade",
+        Ingredients: [{
+            Ingrediente: "Orichalcum [2]",
+            Drop: "",
+            Monograph: "Deidar",
+            Steal: "Vishno",
+            Poach: "Deidar",
+            Reward: ""
+        },{
+            Ingrediente: "Chimera Head [2]",
+            Drop: "",
+            Monograph: "Chimera Brain",
+            Steal: "",
+            Poach: "Chimera Brain",
+            Reward: ""
+        },{
+            Ingrediente: "Taurus Gem [3]",
+            Drop: "Brown Chocobo (Estersand), Charybterix, Chimera Brain, Gorgimera (Sochen Cave Palace), Pyrolisk, Red Chocobo",
+            Monograph: "",
+            Steal: "Brown Chocobo (Estersand), Chaos, Charybterix, Chimera Brain, Cluckatrice, Dive Talon, Garuda-Egi, Gorgimera (Zertinan Caverns), Green Chocobo, Lesser Chimera, Phyllo, Red Chocobo, Redmaw, Seeker, Sprinter, Vampyr, White Chocobo",
+            Poach: "Aerieel, Gorgimera, Lizard",
+            Reward: "Hunt Club Owner"
+        }]
+    },
+    {
+        Item: "Late-model Rifle",
+        Contents: "Arcturus",
+        Ingredients: [{
+            Ingrediente: "Wyvern Wing [2]",
+            Drop: "",
+            Monograph: "Aeronite",
+            Steal: "Aeros, Wyvern Lord",
+            Poach: "Aeronite",
+            Reward: ""
+        },{
+            Ingrediente: "Yensa Fin [2]",
+            Drop: "",
+            Monograph: "Bull Yensa, Yensa",
+            Steal: "Slyt, Urutan-Yensa",
+            Poach: "Bull Yensa, Yensa",
+            Reward: ""
+        },{
+            Ingrediente: "Salamand Halcyon [1]",
+            Drop: "Salamand Entite",
+            Monograph: "",
+            Steal: "Salamand Entite",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Ultimate Blade",
+        Contents: "Ultima Blade",
+        Ingredients: [{
+            Ingrediente: "Adamantite [2]",
+            Drop: "",
+            Monograph: "Adamantitan (Cerobi Steppe)",
+            Steal: "Thalassinon",
+            Poach: "Adamantitan (Cerobi Steppe)",
+            Reward: "Darksteel Hunt Fishing in Hidden Shoals and Den of the River Lord"
+        },{
+            Ingrediente: "Death Powder [2]",
+            Drop: "",
+            Monograph: "Bogey",
+            Steal: "Ahriman",
+            Poach: "Bogey, Cultsworn Lich",
+            Reward: ""
+        },{
+            Ingrediente: "Gnoma Halcyon [1]",
+            Drop: "Gnoma Entite",
+            Monograph: "",
+            Steal: "Gnoma Entite",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Engraved Spear",
+        Contents: "Gungnir",
+        Ingredients: [{
+            Ingrediente: "Ketu Board [2]",
+            Drop: "",
+            Monograph: "Cassie",
+            Steal: "Doctor Cid (Second Encounter)",
+            Poach: "Cassie",
+            Reward: ""
+        },{
+            Ingrediente: "Broken Spear [2]",
+            Drop: "",
+            Monograph: "Skull Warrior",
+            Steal: "",
+            Poach: "Fideliant, Skull Warrior",
+            Reward: ""
+        },{
+            Ingrediente: "Mystletainn [2]",
+            Drop: "",
+            Monograph: "Golem",
+            Steal: "Juggernaut",
+            Poach: "Golem",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Golden Battle Axe",
+        Contents: "Golden Axe",
+        Ingredients: [{
+            Ingrediente: "Electrum [2]",
+            Drop: "",
+            Monograph: "Diakon Entite, Gnoma Entite, Leamonde Entite, Leshach Entite, Luxollid, Mardu Entite, Salamand Entite, Sylphi Entite, Undin Entite, Vagrant Soul",
+            Steal: "",
+            Poach: "",
+            Reward: "Clan Reward from Montblanc for slaying the optional Demon Wall"
+        },{
+            Ingrediente: "Broken Greataxe [2]",
+            Drop: "",
+            Monograph: "Giruveganus",
+            Steal: "Giruveganus",
+            Poach: "",
+            Reward: ""
+        },{
+            Ingrediente: "Mardu Halcyon [1]",
+            Drop: "Mardu Entite",
+            Monograph: "",
+            Steal: "Mardu Entite",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Crimson Blade",
+        Contents: "Karkata",
+        Ingredients: [{
+            Ingrediente: "Solid Stone [2]",
+            Drop: "Barmuu, Clay Golem, Facer, Ragoh, Tower, Vishno",
+            Monograph: "",
+            Steal: "Demon Wall",
+            Poach: "Clay Golem, Facer, Ragoh",
+            Reward: ""
+        },{
+            Ingrediente: "Vampyr Fang [3]",
+            Drop: "Abysteel (Lhusu Mines/Sochen Cave Palace)",
+            Monograph: "Abysteel",
+            Steal: "Abysteel (Henne Mines), Anubys",
+            Poach: "",
+            Reward: "Bloodwing Hunt"
+        },{
+            Ingrediente: "Dark Crystal [15]",
+            Drop: "Abaddon, Abysteel, Banshee, Bogey, Brainpan, Chimera Brain, Crusader, Dark Elemental, Dark Lord, Dead Bones, Deidar, Dragon Lich, Etém, Foobar, Forbidden, Gargoyle Baron, Gazer, Gespenst, Giruveganus, Leamonde Entite, Malboro Overking, Mimeo, Necrofiend, Necrophobe, Nightwalker, Ose, Oversoul, Preying Mantis, Purobolos, Reaper, Shambling Corpse, Skulwyrm, Tartarus, Vampyr, Vivian, Zombie Warlock",
+            Monograph: "",
+            Steal: "Banshee, Brainpan, Carrot, Daedalus, Dark Elemental, Dead Bones, Deidar, Gargoyle Baron, Gazer, Gespenst, Hell Wyrm, Ixtab, Leamonde Entite, Nightwalker, Oversoul, Preying Mantis, Purobolos, Reaper, Shambling Corpse, Skulwyrm, Tartarus, Vampyr, Vivian, Zombie Warlock",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Whisker of the Beast",
+        Contents: "Kanya",
+        Ingredients: [{
+            Ingrediente: "Mythril [3]",
+            Drop: "",
+            Monograph: "Mythril Golem",
+            Steal: "Molen, Mythril Golem",
+            Poach: "",
+            Reward: "Roblon Hunt"
+        },{
+            Ingrediente: "Corpse Fly [3]",
+            Drop: "",
+            Monograph: "Dragon Lich",
+            Steal: "Dragon Lich, Hydro",
+            Poach: "",
+            Reward: ""
+        },{
+            Ingrediente: "Aquarius Gem [4]",
+            Drop: "Brainpan, Deidar, Golem, Mythril Golem",
+            Monograph: "",
+            Steal: "Deidar, Facer, Famfrit, Golem, Treant",
+            Poach: "Facer",
+            Reward: "Hunt Club Owner"
+        }]
+    },
+    {
+        Item: "Dragon Crest",
+        Contents: "Wyrmhero Blade",
+        Ingredients: [{
+            Ingrediente: "Omega Badge [1]",
+            Drop: "Omega Mark XII",
+            Monograph: "",
+            Steal: "",
+            Poach: "",
+            Reward: ""
+        },{
+            Ingrediente: "Godslayer's Badge [1]",
+            Drop: "",
+            Monograph: "",
+            Steal: "",
+            Poach: "",
+            Reward: "Yiazmat Hunt"
+        },{
+            Ingrediente: "Lu Shang's Badge [1]",
+            Drop: "",
+            Monograph: "",
+            Steal: "",
+            Poach: "",
+            Reward: "Fishing"
+        }]
+    },
+    {
+        Item: "The Scorpion",
+        Contents: "Vrscika",
+        Ingredients: [{
+            Ingrediente: "Charged Gizzard [3]",
+            Drop: "",
+            Monograph: "Thunderbug",
+            Steal: "",
+            Poach: "Thunderbug",
+            Reward: ""
+        },{
+            Ingrediente: "Wyrm Bone [3]",
+            Drop: "",
+            Monograph: "Skulwyrm",
+            Steal: "Hydro, Skulwyrm",
+            Poach: "",
+            Reward: ""
+        },{
+            Ingrediente: "Scorpio Gem [4]",
+            Drop: "Balloon, Gargoyle Baron, Grenade, Imp, Mistmare, Mom Bomb, Pallicant, Pit Fiend, Purobolos",
+            Monograph: "",
+            Steal: "Buer, Cúchulainn, Darkmare, Diabolos, Grenade, Larva Eater, Mallicant, Matriarch Bomb, Mom Bomb, Pit Fiend",
+            Poach: "Gargoyle Baron, Megabomb, Mom Bomb",
+            Reward: "Hunt Club Owner"
+        }]
+    },
+    {
+        Item: "Well-forged Blade",
+        Contents: "Simha",
+        Ingredients: [{
+            Ingrediente: "Lifewick [3]",
+            Drop: "",
+            Monograph: "Necrofiend",
+            Steal: "Necrofiend, Evil Spirit",
+            Poach: "",
+            Reward: ""
+        },{
+            Ingrediente: "Ring Wyrm Scale [4]",
+            Drop: "Ash Wyrm, Shield Wyrm",
+            Monograph: "",
+            Steal: "Behemoth King, Fafnir, Lindwyrm, Shield Wyrm, Tiamat",
+            Poach: "Shield Wyrm",
+            Reward: ""
+        },{
+            Ingrediente: "Leshach Halcyon [1]",
+            Drop: "Leshach Entite",
+            Monograph: "",
+            Steal: "Leshach Entite",
+            Poach: "",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Serpent Blade",
+        Contents: "Mesa",
+        Ingredients: [{
+            Ingrediente: "Coeurl Whisker [2]",
+            Drop: "",
+            Monograph: "Ose",
+            Steal: "Grimalkin",
+            Poach: "Ose",
+            Reward: ""
+        },{
+            Ingrediente: "Sickle-Blade [2]",
+            Drop: "",
+            Monograph: "Preying Mantis",
+            Steal: "Rageclaw",
+            Poach: "Preying Mantis",
+            Reward: "Antlion Hunt"
+        },{
+            Ingrediente: "Cancer Gem [3]",
+            Drop: "Deathclaw, Killer Mantis, Mimeo, Pandora, Preying Mantis",
+            Monograph: "",
+            Steal: "Antlion, Mimeo, Preying Mantis, Scythe Mantis, Thunderbug, Zeromus",
+            Poach: "Deathclaw",
+            Reward: "Hunt Club Owner"
+        }]
+    },
+    {
+        Item: "Master-crafted Blade",
+        Contents: "Kumbha",
+        Ingredients: [{
+            Ingrediente: "Gemsteel [2]",
+            Drop: "",
+            Monograph: "Lv.99 Red Chocobo",
+            Steal: "",
+            Poach: "",
+            Reward: "Clan Reward from Montblanc for acquiring eight Espers"
+        },{
+            Ingrediente: "Orichalcum [3]",
+            Drop: "",
+            Monograph: "Deidar",
+            Steal: "Vishno",
+            Poach: "Deidar",
+            Reward: ""
+        },{
+            Ingrediente: "Mallet [2]",
+            Drop: "",
+            Monograph: "Purobolos",
+            Steal: "Bombshell",
+            Poach: "Purobolos",
+            Reward: "From Montblanc after defeating King Bomb."
+        }]
+    },
+    {
+        Item: "Ninja Footgear",
+        Contents: "Gillie Boots",
+        Ingredients: [{
+            Ingrediente: "Slaven Harness [2]",
+            Drop: "",
+            Monograph: "Slaven Warder",
+            Steal: "Enkelados, Gemhorn",
+            Poach: "Slaven Warder",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Brawler's Fetish",
+        Contents: "Amber Armlet",
+        Ingredients: [{
+            Ingrediente: "Gimble Stalk [2]",
+            Drop: "",
+            Monograph: "Alraune King",
+            Steal: "Alraune King (Sochen Cave Palace)",
+            Poach: "Alraune King (Feywood)",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Blush of Light",
+        Contents: "Firefly",
+        Ingredients: [{
+            Ingrediente: "Magick Lamp [1]",
+            Drop: "",
+            Monograph: "Mallicant",
+            Steal: "Helvinek, Ixion",
+            Poach: "Mallicant",
+            Reward: ""
+        },{
+            Ingrediente: "Tomato Stalk [2]",
+            Drop: "",
+            Monograph: "Topstalk",
+            Steal: "Topstalk (Sochen Cave Palace)",
+            Poach: "Topstalk (Feywood)",
+            Reward: ""
+        },{
+            Ingrediente: "Snowfly [1]",
+            Drop: "",
+            Monograph: "Nightmare",
+            Steal: "",
+            Poach: "Nightmare, Pallicant",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Shoes of the Dead",
+        Contents: "Quasimodo Boots",
+        Ingredients: [{
+            Ingrediente: "Zombie Powder [1]",
+            Drop: "",
+            Monograph: "Banshee",
+            Steal: "Banshee",
+            Poach: "",
+            Reward: ""
+        },{
+            Ingrediente: "Destrier Mane [1]",
+            Drop: "",
+            Monograph: "Mesmenir",
+            Steal: "Nazarnir",
+            Poach: "Mesmenir",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Back Harness",
+        Contents: "Battle Harness",
+        Ingredients: [{
+            Ingrediente: "Throat Wolf Blood [1]",
+            Drop: "",
+            Monograph: "Alpha Worgen, Worgen",
+            Steal: "Enkidu (First Encounter), Kaiser Wolf",
+            Poach: "Alpha Worgen, Worgen",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Large Gloves",
+        Contents: "Blazer Gloves",
+        Ingredients: [{
+            Ingrediente: "Bent Staff [3]",
+            Drop: "",
+            Monograph: "Bagoly",
+            Steal: "",
+            Poach: "Bagoly (Phon Coast)",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Wing Cord",
+        Contents: "Pheasant Netsuke",
+        Ingredients: [{
+            Ingrediente: "Stardust [2]",
+            Drop: "",
+            Monograph: "Wyrdhare",
+            Steal: "Spee",
+            Poach: "Wyrdhare",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Gilt Phylactery",
+        Contents: "Golden Amulet",
+        Ingredients: [{
+            Ingrediente: "Tattered Garment [1]",
+            Drop: "",
+            Monograph: "Scythe Mantis",
+            Steal: "Biding Mantis",
+            Poach: "Scythe Mantis",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Feathered Boots",
+        Contents: "Winged Boots",
+        Ingredients: [{
+            Ingrediente: "Arctic Wind [1]",
+            Drop: "",
+            Monograph: "Yeti",
+            Steal: "",
+            Poach: "Yeti",
+            Reward: "Catoblepas Hunt"
+        }]
+    },
+    {
+        Item: "Shell-worked Collar",
+        Contents: "Turtleshell Choker",
+        Ingredients: [{
+            Ingrediente: "Bomb Shell [2]",
+            Drop: "Bomb (Lv. 38–40), Grenade, Mom Bomb, Purobolos, Matriarch Bomb, Megabomb",
+            Monograph: "",
+            Steal: "King Bomb, Mom Bomb, Purobolos, Pineapple",
+            Poach: "Grenade, Mom Bomb, Purobolos",
+            Reward: ""
+        },{
+            Ingrediente: "Four-leaf Clover [2]",
+            Drop: "",
+            Monograph: "Mandragora Prince",
+            Steal: "",
+            Poach: "Mandragora Prince, Ripe Rampager",
+            Reward: ""
+        }]
+    },
+    {
+        Item: "Exquisite Ring",
+        Contents: "Opal Ring",
+        Ingredients: [{
+            Ingrediente: "Frogspawn [2]",
+            Drop: "",
+            Monograph: "Iguion",
+            Steal: "",
+            Poach: "Iguion, Wood Toad",
+            Reward: "Fishing in Upstream"
+        }]
+    },
+    {
+        Item: "Wind Walkers",
+        Contents: "Hermes Sandals",
+        Ingredients: [{
+            Ingrediente: "Gysahl Greens [33]",
+            Drop: "Black Chocobo, Brown Chocobo, Green Chocobo, Red Chocobo, White Chocobo",
+            Monograph: "",
+            Steal: "Trickster",
+            Poach: "Black Chocobo, Brown Chocobo, Green Chocobo, Red Chocobo, White Chocobo",
+            Reward: ""
+        },{
+            Ingrediente: "Arcana [15]",
+            Drop: "Monograph drop for many Rare Game. Most enemies drop it after obtaining the Canopic Jar.",
+            Monograph: "",
+            Steal: "",
+            Poach: "",
+            Reward: "2x from Montblanc after defeating first Esper."
+        }]
+    },
+    {
+        Item: "Chain-link Belt",
+        Contents: "Bubble Belt",
+        Ingredients: [{
+            Ingrediente: "Battlewyrm Carapace [2]",
+            Drop: "Archaeoaevis, Skulwyrm",
+            Monograph: "",
+            Steal: "Archaeoaevis",
+            Poach: "Archaeoaevis, Dragon Aevis, Emperor Aevis",
+            Reward: ""
+        },{
+            Ingrediente: "Adamantite [1]",
+            Drop: "",
+            Monograph: "Adamantitan (Cerobi Steppe)",
+            Steal: "Thalassinon",
+            Poach: "Adamantitan (Cerobi Steppe)",
+            Reward: "Darksteel Hunt Fishing in Hidden Shoals and Den of the River Lord"
+        }]
+    },
+    {
+        Item: "Comfy Headgear",
+        Contents: "Cat-ear Hood",
+        Ingredients: [{
+            Ingrediente: "White Incense [2]",
+            Drop: "",
+            Monograph: "Garuda-Egi",
+            Steal: "",
+            Poach: "Garuda-Egi, Imdugud",
+            Reward: ""
+        },{
+            Ingrediente: "Einherjarium [2]",
+            Drop: "",
+            Monograph: "Babil",
+            Steal: "Babil, Tower",
+            Poach: "",
+            Reward: "Goliath Hunt"
+        },{
+            Ingrediente: "Virgo Gem [7]",
+            Drop: "Alraune King (Feywood), Cactite, Cactoid, Cassie, Deadly Nightshade, Malboro King, Malboro Overking, Mandragora Prince (Feywood), Onion Queen (Feywood), Pumpkin Star (Feywood), Topstalk (Feywood), Vivian",
+            Monograph: "",
+            Steal: "Alraune King (Feywood), Cassie, Great Malboro, Malboro King, Malboro Overking, Pumpkin Star (Feywood), Topstalk (Feywood), Ultima, Vivian, Wild Malboro",
+            Poach: "Mandragora",
+            Reward: "Hunt Club Owner"
+        }]
+    },
+    {
+        Item: "Cursed Necklace",
+        Contents: "Nihopalaoa",
+        Ingredients: [{
+            Ingrediente: "Blood-stained Necklace [3]",
+            Drop: "",
+            Monograph: "Shambling Corpse",
+            Steal: "Shambling Corpse",
+            Poach: "",
+            Reward: ""
+        },{
+            Ingrediente: "Death's-Head [2]",
+            Drop: "",
+            Monograph: "Dark Skeleton",
+            Steal: "Grave Lord",
+            Poach: "Dark Skeleton",
+            Reward: ""
+        },{
+            Ingrediente: "Leo Gem [3]",
+            Drop: "Aeronite, Archaeoaevis, Archaeosaur, Ash Wyrm, Giruveganus, Gizamaluk, Shield Wyrm",
+            Monograph: "",
+            Steal: "Aeronite, Archaeoaevis, Ash Wyrm, Bellwyvern (Tchita Uplands), Cataract Aevis, Diresaur, Dragon Aevis, Emperor Aevis, Hashmal, Myath, Tiamat, Tyranorox, Vyraal, Wild Saurian",
+            Poach: "Bellwyvern (Tchita Uplands), Cataract Aevis",
+            Reward: "Hunt Club Owner"
+        }]
+    },
+    {
+        Item: "Morbid Urn",
+        Contents: "Canopic Jar",
+        Ingredients: [{
+            Ingrediente: "Horakhty's Flame [1]",
+            Drop: "",
+            Monograph: "",
+            Steal: "",
+            Poach: "",
+            Reward: "Orthros Hunt"
+        },{
+            Ingrediente: "Phobos Glaze [1]",
+            Drop: "",
+            Monograph: "",
+            Steal: "",
+            Poach: "",
+            Reward: "Gil Snapper Hunt"
+        },{
+            Ingrediente: "Deimos Clay [1]",
+            Drop: "",
+            Monograph: "",
+            Steal: "",
+            Poach: "",
+            Reward: "Trickster Hunt"
         }]
     }
+];
+
+export const monographs = [
+    {
+        Nome: "Hunter's Monograph (Beasts and Avions)",
+        Tarefa: "Complete the Thextera Hunt, then speak to the merchant Gatsly at Muthru Bazaar. (Possession of this text enables the acquisition of superior loot from beasts and avions.)"
+    },
+    {
+        Nome: "Knight's Monograph (Giants and Insects)",
+        Tarefa: " Talk to the owner of a weapons shop 30 times. (Possession of this text enables the acquisition of superior loot from giants and insects.)"
+    },
+    {
+        Nome: "Mage's Monograph (Fiends, including Ichthians)",
+        Tarefa: "Talk to the owner of a magick shop 25 times. (Possession of this text enables the acquisition of superior loot from fiends.)"
+    },
+    {
+        Nome: "Dragoon's Monograph (Dragons and Plants)",
+        Tarefa: "Check the Hunt board 40 times. (Possession of this text enables the acquisition of superior loot from dragons and plants.)"
+    },
+    {
+        Nome: "Sage's Monograph (Elementals)",
+        Tarefa: "Talk to the owner of any shop 100 times. (Possession of this text enables the acquisition of superior loot from elementals.)"
+    },
+    {
+        Nome: "Warmage's Monograph (Amorphs and Undead)",
+        Tarefa: "Check the Hunt board 20 times. (Possession of this text enables the acquisition of superior loot from amorphs and undead.)"
+    },
+    {
+        Nome: "Scholar's Monograph (Constructs)",
+        Tarefa: "Talk to the owner of an armor shop 15 times. (Possession of this text enables the acquisition of superior loot from constructs.)"
+    }
+];
+
+export const bestiary = [
+    {
+        "The Dalmasca Sands: ": "Cactoid, Ichthon, Wolf, Wild Saurian, Cockatrice, Gnoma Entite, Dive Talon"
+    },
+    {
+        "Giza Plains": "Hyena, Wooly Gator, Happy Bunny, Great Tortoise, Sleipnir, Silicon Tortoise, Wildsnake, Werewolf, Urstrix, Storm Elemental, Slaven, Mardu Entite"
+    },
+    {
+        "Garamsythe Waterway": "Dire Rat, Baritine Croc, Gigantoad, Malboro Overking, Garchimacera, Gespenst, Ghost, Water Elemental"
+    },
+    {
+        "Barheim Passage": "Steeling, Suriander, Mimic, Zombie, Tiny Mimic, Skeleton, Battery Mimic, Specter, Tiny Battery, Mimeo, Flan, Skull Defender, Bomb, Dead Bones"
+    },
+    {
+        "Lhusu Mines": "Vampyr, Headless, Killer Mantis, Dullahan, Bug, Dark Lord, Pandora, Gazer"
+    },
+    {
+        "Yensan Sandsea": "Alraune, Danbania, Axebeak, Yensa, Wyvern, Salamand Entite"
+    },
+    {
+        "Tomb of Raithwall": "Seeker, Lost Soul, Lesser Chimera, Zombie Mage, Skull Warrior, Lich, Ragoh, Tallow"
+    },
+    {
+        "Ozmone Plains": "Mesmenir, Chocobo, Wu, Zu, Viper, Zaghnal, Hybrid Gator, Sylphi Entite"
+    },
+    {
+        "Golmore Jungle": "Panther, Treant, Hellhound, Diresaur, Malboro, Gargoyle, Great Malboro"
+    },
+    {
+        "Henne Mines": "Thunderbug, Jelly, Tyranorox, Hecteyes, Gizamaluk, Etém, Nightmare, Necrofiend"
+    },
+    {
+        "Paramina Rift": "White Wolf, Twintania, Lizard, Emperor Aevis, Garuda-Egi, Dark Skeleton, Slaven Warder, Skull Knight, Yeti, Ice Elemental, Wild Onion, Leshach Entite"
+    },
+    {
+        "Stilshrine of Miriam": "Redmaw, Zombie Warrior, Blood Gigas, Nightwalker, Dragon Aevis, Ghoul, Darkmare, Facer, Balloon, Miriam Guardian, Oiling, Miriam Facer, Ghast, Crystalbug"
+    },
+    {
+        "Mosphoran Highwaste": "Worgen, Humbaba, Python, Ash Wyrm, Vulture, Clay Golem, Slaven Wilder, Fire Elemental"
+    },
+    {
+        "Salikawood": "Wyrdhare, Pumpkin Head, Sprinter, Malboro King, Antares"
+    },
+    {
+        "Phon Coast": "Silver Lobo, Mandragora, Iguion, Archaeosaur, Pyrolisk, Piranha, Bagoly, Air Elemental"
+    },
+    {
+        "Tchita Uplands": "Coeurl, Feral Croc, Serpent, Earth Elemental"
+    },
+    {
+        "Sochen Cave Palace": "Abysteel, Imp, Striker, Pit Fiend, Wendigo, Zombie Knight, Gorgimera, Focalor"
+    },
+    {
+        "The Feywood": "Cerberus, Deadly Nightshade, Mu, Mandragora Prince, Basilisk, Alraune King, Behemoth, Onion Queen, Preying Mantis, Pumpkin Star, Golem, Topstalk, Mirrorknight, Holy Elemental, Tartarus"
+    },
+    {
+        "Giruvegan": "Ose, Shadonir, Giruveganus, Skulwyrm, Vivian, Forbidden, Gargoyle Baron, Reaper, Mom Bomb, Mythril Golem, Necrophobe, Diakon Entite"
+    },
+    {
+        "Ridorana Cataract": "Deathclaw, Cassie"
+    },
+    {
+        "The Pharos": "Abaddon, Chimera Brain, Bune, Magick Pot, Reaver, Crusader, Aeronite, Dragon Lich, Cataract Aevis, Brainpan, Purobolos, Deidar, Mistmare, Undin Entite"
+    },
+    {
+        "Zertinan Caverns": "Speartongue, Grenade, Scythe Mantis, Slime, Archaeoaevis, Bogey, Mallicant, Shambling Corpse, Buer"
+    },
+    {
+        "Cerobi Steppe": "Adamantitan, Charybterix, Bandercoeurl, Shield Wyrm"
+    },
+    {
+        "Nabreus Deadlands": "Emeralditan, Leynir, Banshee, Leamonde Entite, Foobar"
+    },
+    {
+        "Necrohol of Nabudis": "Oversoul, Babil, Elvoret, Dark Elemental, Zombie Warlock"
+    }
+];
+
+export const marks = [
+    {
+        "Rogue Tomato": "Dalmasca Estersand"
+    },
+    {
+        "Atomos": "Mosphoran Highwaste"
+    },
+    {
+        "Thextera": "Dalmasca Westersand"
+    },
+    {
+        "Roblon": "Nabreus Deadlands"
+    },
+    {
+        "Flowering Cactoid": "Dalmasca Estersand"
+    },
+    {
+        "Braegh": "Salikawood"
+    },
+    {
+        "Wraith": "Garamsythe Waterway"
+    },
+    {
+        "Darksteel": "Sochen Cave Palace"
+    },
+    {
+        "Nidhogg": ""
+    },
+    {
+        "Vyraal": ""
+    },
+    {
+        "White Mousse": ""
+    },
+    {
+        "Lindwyrm": ""
+    },
+    {
+        "Ring Wyrm": ""
+    },
+    {
+        "Overlord": ""
+    },
+    {
+        "Wyvern Lord": ""
+    },
+    {
+        "Goliath": ""
+    },
+    {
+        "Marilith": ""
+    },
+    {
+        "Deathscythe": ""
+    },
+    {
+        "Enkelados": ""
+    },
+    {
+        "Deathgaze": ""
+    },
+    {
+        "Croakadile": ""
+    },
+    {
+        "Diabolos": ""
+    },
+    {
+        "Ixtab": ""
+    },
+    {
+        "Piscodaemon": ""
+    },
+    {
+        "Feral Retriever": ""
+    },
+    {
+        "Wild Malboro": ""
+    },
+    {
+        "Vorpal Bunny": ""
+    },
+    {
+        "Catoblepas": ""
+    },
+    {
+        "Mindflayer": ""
+    },
+    {
+        "Fafnir": ""
+    },
+    {
+        "Bloodwing": ""
+    },
+    {
+        "Pylraster": ""
+    }
+];
+
+export const eliteMarks = [
+    {
+        Chickatrice
+Cluckatrice
+Rocktoise
+Orthros
+Gil Snapper
+Trickster
+Antlion
+Carrot
+Gilgamesh
+Enkidu
+Behemoth King
+Ixion
+Pandaemonium
+Slyt
+Fenrir
+Phoenix
+Shadowseer
+Yiazmat
+    }
+];
+
+export const espers = [
+    {
+        Belias
+Exodus
+Chaos
+Cúchulainn
+Zalera
+Shemhazai
+Zeromus
+Adrammelech
+Hashmal
+Famfrit
+Ultima
+Mateus
+Zodiark
+    }
+];
+
+export const bosses = [
+    Firemane
+Rafflesia
+Mimic Queen
+Daedalus
+Ba'Gamnan b c d
+Tyrant
+Demon Wall
+Hydro
+Tiamat
+Earth Tyrant
+Elder Wyrm
+Fury
+Vinuskar
+Humbaba Mistant
+King Bomb
+Hell Wyrm
+Ahriman
+Omega Mark XII
+];
+
+export const rareGames = [
+    Aspidochelon
+Aerieel
+Thalassinon
+Anubys
+Greeden
+Barmuu
+Bull Croc
+Vishno
+Gavial
+Etherian
+Wary Wolf
+Melt
+Kaiser Wolf
+Cubus
+Lindbur Wolf
+Pineapple
+Dreadguard
+Bombshell
+Crypt Bunny
+Megabomb
+Spee
+Matriarch Bomb
+Rain Dancer
+Ripe Rampager
+Razorfin
+Killbug
+Apsara
+Minibug
+Rageclaw
+Ithuno
+Biding Mantis
+Kris
+Wood Toad
+Dheed
+Tarasque
+Aeros
+Grimalkin
+Terror Tyrant
+Nekhbet
+Abelisk
+Glaring Eye
+Dustia
+Cultsworn Lich
+Ishteen
+Evil Spirit
+Vorres
+Juggernaut
+Negalmuur
+Molen
+Larva Eater
+Tower
+Arioch
+Grey Molter
+Fideliant
+Midgardsormr
+Crystal Knight
+Nazarnir
+Grave Lord
+Victanir
+Zombie Lord
+Gemhorn
+Drowned
+Luxollid
+Velelu
+Vagrant Soul
+Disma
+Imdugud
+Ancbolder
+Bull Chocobo
+Wendice
+Skullash
+Anchag
+Myath
+Bluesang
+Helvinek
+Avenger
+Pallicant
+Alteci
+Phyllo
+Urutan Exile
+];
+
+export const humanoids = [
+    Seeq
+Urutan-Yensa
+Garif
+Baknamy
+Bangaa
+];
+
+export const archadianEmpires = [
+    Imperial
+Judge Ghis
+Imperial Elite
+Judge Bergan
+Imperial Armament
+Judge Gabranth
+Doctor Cid
 ];

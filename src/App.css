@@ -57,6 +57,7 @@ section .col {
 
 .nomeador {
   color: cornflowerblue;
+  font-weight: bolder;
 }
 
 .botaoSwitch {
@@ -121,12 +122,13 @@ section .col {
   color: gray;
 }
 
+/*Estilização do Layout*/
 .containerMenu {
   width: 600px;
   margin: 10px auto;
   display: grid;
   align-content: center;
-  grid-template-columns: 20% 20% 20% 20% 20%;
+  grid-template-columns: 15% 16% 16% 16.6% 16% 20%;
   height: 50px;
   justify-items: center;
   background-color: #282c34;

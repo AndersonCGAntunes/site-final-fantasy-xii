@@ -8,6 +8,7 @@ import Armor from "./Armor";
 import NoPage from "./NoPage";
 import Accessories from './Accessories';
 import Bazaar from './Bazaar';
+import Monograph from './Monographs';
 
 export default function App() {
   return (
@@ -22,6 +23,7 @@ export default function App() {
             <Route path="armor" element={<Armor />} />
             <Route path='accessories' element={<Accessories />} />
             <Route path='bazaar' element={<Bazaar />} />
+            <Route path='monographs' element={<Monograph />} />
             <Route path="*" element={<NoPage />} />
           </Route>
         </Routes>

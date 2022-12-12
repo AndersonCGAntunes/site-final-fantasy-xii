@@ -1,11 +1,10 @@
-import { useId } from 'react';
 import './App.css';
 
 function MetodoUniversal(conjunto, tipo) {
-    let idTipoArma = useId();
+    
     return(
         <div className="Container-equipamento">
-        <h1 id={'arma' + idTipoArma} className='titulo'>{tipo}</h1>
+        <h1 className='titulo'>{tipo}</h1>
         <section>
             <header className='cabecalho'>
                 <div className='col'>Equipamento</div>
