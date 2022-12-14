@@ -11,6 +11,12 @@ import Bazaar from './Bazaar';
 import Monograph from './Monographs';
 import Comuns from './Comuns';
 import Marks from './Marks';
+import Elite from './Elite';
+import Espers from './Espers';
+import Bosses from './Bosses';
+import Rare from './Rare';
+import Humanoids from './Humanoids';
+import Archadians from './Archadians';
 
 export default function App() {
   return (
@@ -28,6 +34,12 @@ export default function App() {
             <Route path='monographs' element={<Monograph />} />
             <Route path='comuns' element={<Comuns />} />
             <Route path='marks' element={<Marks />} />
+            <Route path='elite' element={<Elite />} />
+            <Route path='espers' element={<Espers />} />
+            <Route path='bosses' element={<Bosses />} />
+            <Route path='rare' element={<Rare />} />
+            <Route path='humanoids' element={<Humanoids />} />
+            <Route path='archadians' element={<Archadians />} />
             <Route path="*" element={<NoPage />} />
           </Route>
         </Routes>

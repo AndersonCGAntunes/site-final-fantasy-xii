@@ -2986,441 +2986,582 @@ export const marks = [
 
 export const eliteMarks = [
     {
-        "Chickatrice": ""
+        DadoUm: "Chickatrice",
+        DadoDois: "Giza Plains, Gizas North Bank"
     },
     {
-        "Cluckatrice": ""
+        DadoUm: "Cluckatrice",
+        DadoDois: "Giza Plains, Gizas North Bank"
     },
     {
-        "Rocktoise": ""
+        DadoUm: "Rocktoise",
+        DadoDois: "Lhusu Mines, Site 2"
     },
     {
-        "Orthros": ""
+        DadoUm: "Orthros",
+        DadoDois: "Garamsythe Waterway, Southern Sluiceway"
     },
     {
-        "Gil Snapper": ""
+        DadoUm: "Gil Snapper",
+        DadoDois: "Giza Plains, Tracks of the Beast"
     },
     {
-        "Trickster": ""
+        DadoUm: "Trickster",
+        DadoDois: "Paramina Rift, Frozen Brook"
     },
     {
-        "Antlion": ""
+        DadoUm: "Antlion",
+        DadoDois: "Lhusu Mines, Site 9"
     },
     {
-        "Carrot": ""
+        DadoUm: "Carrot",
+        DadoDois: "The Salikawood, Sun-dappled Path"
     },
     {
-        "Gilgamesh": ""
+        DadoUm: "Gilgamesh",
+        DadoDois: "Lhusu Mines, Tasche Span - Site 7"
     },
     {
-        "Enkidu": ""
+        DadoUm: "Enkidu",
+        DadoDois: "Lhusu Mines"
     },
     {
-        "Behemoth King": ""
+        DadoUm: "Behemoth King",
+        DadoDois: "The Feywood, The Edge of Reason"
     },
     {
-        "Ixion": ""
+        DadoUm: "Ixion",
+        DadoDois: "Pharos-Subterra, Penumbra-Interior"
     },
     {
-        "Pandaemonium": ""
+        DadoUm: "Pandaemonium",
+        DadoDois: "The Pharos"
     },
     {
-        "Slyt": ""
+        DadoUm: "Slyt",
+        DadoDois: "The Pharos"
     },
     {
-        "Fenrir": ""
+        DadoUm: "Fenrir",
+        DadoDois: "The Pharos"
     },
     {
-        "Phoenix": ""
+        DadoUm: "Phoenix",
+        DadoDois: "The Pharos"
     },
     {
-        "Shadowseer": ""
+        DadoUm: "Shadowseer",
+        DadoDois: "The Pharos-Subterra, Abyssal"
     },
     {
-        "Yiazmat": ""
+        DadoUm: "Yiazmat",
+        DadoDois: "The Ridorana Cataract, Colosseum"
     }
 ];
 
 export const espers = [
     {
-        "Belias": ""
+        DadoUm: "Belias, the Gigas",
+        DadoDois: "Tomb of Raithwall"
     },
     {
-        "Exodus": ""
+        DadoUm: "Exodus, the Judge-Sal",
+        DadoDois: "Mosphoran Highwaste, Empyrean Seat"
     },
     {
-        "Chaos": ""
+        DadoUm: "Chaos, Walker of the Wheel",
+        DadoDois: "Necrochol of Nabudis (Cloister of the Highborn)"
     },
     {
-        "Cúchulainn": ""
+        DadoUm: "Cúchulainn, the Impure",
+        DadoDois: "Garamsythe Waterway, No. 1 Cloaca"
     },
     {
-        "Zalera": ""
+        DadoUm: "Zalera, the Death Seraph",
+        DadoDois: "Barheim Passage, Terminus No.7"
     },
     {
-        "Shemhazai": ""
+        DadoUm: "Shemhazai, the Whisperer",
+        DadoDois: "Giruvegan"
     },
     {
-        "Zeromus": ""
+        DadoUm: "Zeromus, the Condemner",
+        DadoDois: "Stilshrine of Miriam, Throne of Veiled Gods"
     },
     {
-        "Adrammelech": ""
+        DadoUm: "Adrammelech, the Wroth",
+        DadoDois: "Zertinan Caverns, Athroza Quicksands"
     },
     {
-        "Hashmal": ""
+        DadoUm: "Hashmal, Bringer of Order",
+        DadoDois: "Pharos of Ridorana"
     },
     {
-        "Famfrit": ""
+        DadoUm: "Famfrit, the Darkening Cloud",
+        DadoDois: "Pharos of Ridorana"
     },
     {
-        "Ultima": ""
+        DadoUm: "Ultima, the High Seraph",
+        DadoDois: "The Great Crystal, Crystal Peak"
     },
     {
-        "Mateus": ""
+        DadoUm: "Mateus, the Corrupt",
+        DadoDois: "Stilshrine of Miriam"
     },
     {
-        "Zodiark": ""
+        DadoUm: "Zodiark, Keeper of Precepts",
+        DadoDois: "Henne Mines, Special Charter Dig"
     }
 ];
 
 export const bosses = [
     {
-        "Firemane": ""
+        DadoUm: "Firemane",
+        DadoDois: "Garamsythe Waterway"
     },
     {
-        "Rafflesia": ""
+        DadoUm: "Rafflesia",
+        DadoDois: "Feywood"
     },
     {
-        "Mimic Queen": ""
+        DadoUm: "Mimic Queen",
+        DadoDois: "Barheim Passage"
     },
     {
-        "Daedalus": ""
+        DadoUm: "Daedalus",
+        DadoDois: "Giruvegan"
     },
     {
-        "Ba'Gamnan": ""
+        DadoUm: "Ba'Gamnan",
+        DadoDois: "Lhusu Mines - Nam-Yensa Sandsea"
     },
     {
-        "Tyrant": ""
+        DadoUm: "Tyrant",
+        DadoDois: "Giruvegan"
     },
     {
-        "Demon Wall": ""
+        DadoUm: "Demon Wall",
+        DadoDois: "Tomb of Raithwall"
     },
     {
-        "Hydro": ""
+        DadoUm: "Hydro",
+        DadoDois: "Pharos at Ridorana"
     },
     {
-        "Tiamat": ""
+        DadoUm: "Tiamat",
+        DadoDois: "Henne Mines"
     },
     {
-        "Earth Tyrant": ""
+        DadoUm: "Earth Tyrant",
+        DadoDois: "Dalmasca Westersand"
     },
     {
-        "Elder Wyrm": ""
+        DadoUm: "Elder Wyrm",
+        DadoDois: "Golmore Jungle"
     },
     {
-        "Fury": ""
+        DadoUm: "Fury",
+        DadoDois: "Necrohol of Nabudis"
     },
     {
-        "Vinuskar": ""
+        DadoUm: "Vinuskar",
+        DadoDois: "Stilshrine of Miriam"
     },
     {
-        "Humbaba Mistant": ""
+        DadoUm: "Humbaba Mistant",
+        DadoDois: "Necrohol of Nabudis"
     },
     {
-        "King Bomb": ""
+        DadoUm: "King Bomb",
+        DadoDois: "Salikawood"
     },
     {
-        "Hell Wyrm": ""
+        DadoUm: "Hell Wyrm",
+        DadoDois: "Sochen Cave Palace"
     },
     {
-        "Ahriman": ""
+        DadoUm: "Ahriman",
+        DadoDois: "Sochen Cave Palace"
     },
     {
-        "Omega Mark XII": ""
+        DadoUm: "Omega Mark XII",
+        DadoDois: "Great Crystal"
     }
 ];
 
 export const rareGames = [
     {
-        "Aspidochelon": ""
+        DadoUm: "Aspidochelon",
+        DadoDois: "Cerobi Steppe, Feddik River"
     },
     {
-        "Aerieel": ""
+        DadoUm: "Aerieel",
+        DadoDois: "Lhusu Mines, Oltam Spam"
     },
     {
-        "Thalassinon": ""
+        DadoUm: "Thalassinon",
+        DadoDois: "Phon Coast, The Vaddu Strand"
     },
     {
-        "Anubys": ""
+        DadoUm: "Anubys",
+        DadoDois: "Sochen Cave Palace, Mirror of the Soul"
     },
     {
-        "Greeden": ""
+        DadoUm: "Greeden",
+        DadoDois: "Dalmasca Estersand, Banks of the Nebra"
     },
     {
-        "Barmuu": ""
+        DadoUm: "Barmuu",
+        DadoDois: "The Tomb of Raithwall, Royal Passage"
     },
     {
-        "Bull Croc": ""
+        DadoUm: "Bull Croc",
+        DadoDois: "Osmone Plain, The Shred"
     },
     {
-        "Vishno": ""
+        DadoUm: "Vishno",
+        DadoDois: "The Pharos"
     },
     {
-        "Gavial": ""
+        DadoUm: "Gavial",
+        DadoDois: "Garamsythe Waterway, No. 10 Channel"
     },
     {
-        "Etherian": ""
+        DadoUm: "Etherian",
+        DadoDois: "Cerobi Steppe, The Northsward"
     },
     {
-        "Wary Wolf": ""
+        DadoUm: "Wary Wolf",
+        DadoDois: "Mosphoran Highwaste, Summit Path"
     },
     {
-        "Melt": ""
+        DadoUm: "Melt",
+        DadoDois: "Henne Mines, Pithead Junction B"
     },
     {
-        "Kaiser Wolf": ""
+        DadoUm: "Kaiser Wolf",
+        DadoDois: "Dalmasca Westersand, Corridor of Sand"
     },
     {
-        "Cubus": ""
+        DadoUm: "Cubus",
+        DadoDois: "Sochen Cave Palace, Temptation Eluded"
     },
     {
-        "Lindbur Wolf": ""
+        DadoUm: "Lindbur Wolf",
+        DadoDois: "Dalmasca Westersand, Shimmering Horizons"
     },
     {
-        "Pineapple": ""
+        DadoUm: "Pineapple",
+        DadoDois: "Ogir-Yensa Sandsea, Platform 1 - Refinery"
     },
     {
-        "Dreadguard": ""
+        DadoUm: "Dreadguard",
+        DadoDois: "The Feywood, Wall of Dancing Shadow"
     },
     {
-        "Bombshell": ""
+        DadoUm: "Bombshell",
+        DadoDois: "Lhusu Mines, Lasche Span (south segment)"
     },
     {
-        "Crypt Bunny": ""
+        DadoUm: "Crypt Bunny",
+        DadoDois: "The Feywood, Walk of Stolen Truths"
     },
     {
-        "Megabomb": ""
+        DadoUm: "Megabomb",
+        DadoDois: "Nam-Yensa Sandsea, Demesne of the Sandqueen"
     },
     {
-        "Spee": ""
+        DadoUm: "Spee",
+        DadoDois: "The Salikawood, Sun-dappled Path"
     },
     {
-        "Matriarch Bomb": ""
+        DadoUm: "Matriarch Bomb",
+        DadoDois: "Stilshrine of Miriam, Cold Distance"
     },
     {
-        "Rain Dancer": ""
+        DadoUm: "Rain Dancer",
+        DadoDois: "Giza Plains"
     },
     {
-        "Ripe Rampager": ""
+        DadoUm: "Ripe Rampager",
+        DadoDois: "Dalmasca Estersand, Yardang Labyrinth"
     },
     {
-        "Razorfin": ""
+        DadoUm: "Razorfin",
+        DadoDois: "Garamsythe Waterway, North Spur Sluiceway"
     },
     {
-        "Killbug": ""
+        DadoUm: "Killbug",
+        DadoDois: "Ozmone Plains, The Switchback"
     },
     {
-        "Apsara": ""
+        DadoUm: "Apsara",
+        DadoDois: "Phon Coast, The Mauleia Strand"
     },
     {
-        "Minibug": ""
+        DadoUm: "Minibug",
+        DadoDois: "Barheim Passage, East-West Bypass"
     },
     {
-        "Rageclaw": ""
+        DadoUm: "Rageclaw",
+        DadoDois: "The Salikawood, Piebald Path"
     },
     {
-        "Ithuno": ""
+        DadoUm: "Ithuno",
+        DadoDois: "Barheim Passage, Special Op Sector 5"
     },
     {
-        "Biding Mantis": ""
+        DadoUm: "Biding Mantis",
+        DadoDois: "Golmore Jungle, The Needlebrake"
     },
     {
-        "Kris": ""
+        DadoUm: "Kris",
+        DadoDois: "Tchita Uplands, The Highlands"
     },
     {
-        "Wood Toad": ""
+        DadoUm: "Wood Toad",
+        DadoDois: "The Salikawood, Corridor of Ages"
     },
     {
-        "Dheed": ""
+        DadoUm: "Dheed",
+        DadoDois: "Mosphoran Highwaste, Skyreach Ridge"
     },
     {
-        "Tarasque": ""
+        DadoUm: "Tarasque",
+        DadoDois: "Tchita Uplands, Garden of Life's Circle"
     },
     {
-        "Aeros": ""
+        DadoUm: "Aeros",
+        DadoDois: "Ozmone Plains, The Shred"
     },
     {
-        "Grimalkin": ""
+        DadoUm: "Grimalkin",
+        DadoDois: "Tchita Uplands, Uazcuff Hills"
     },
     {
-        "Terror Tyrant": ""
+        DadoUm: "Terror Tyrant",
+        DadoDois: "Dalmasca Eastersand, Broken Sands"
     },
     {
-        "Nekhbet": ""
+        DadoUm: "Nekhbet",
+        DadoDois: "Dalmasca Estersand, Sand-swept Naze"
     },
     {
-        "Abelisk": ""
+        DadoUm: "Abelisk",
+        DadoDois: "Ridorana Cataract, Echoes from Time's Garden"
     },
     {
-        "Glaring Eye": ""
+        DadoUm: "Glaring Eye",
+        DadoDois: "Henne Mines, Crossover C"
     },
     {
-        "Dustia": ""
+        DadoUm: "Dustia",
+        DadoDois: "Dalmasca Westersand, Corridor of Sand"
     },
     {
-        "Cultsworn Lich": ""
+        DadoUm: "Cultsworn Lich",
+        DadoDois: "The Tomb of Raithwall, Southfall Passage"
     },
     {
-        "Ishteen": ""
+        DadoUm: "Ishteen",
+        DadoDois: "Barheim Passage, The Zeviah Span"
     },
     {
-        "Evil Spirit": ""
+        DadoUm: "Evil Spirit",
+        DadoDois: "The Great Crystal, XIX Teleporter"
     },
     {
-        "Vorres": ""
+        DadoUm: "Vorres",
+        DadoDois: "Necrohol of Nabudis, Hall of the Ivory Covenant"
     },
     {
-        "Juggernaut": ""
+        DadoUm: "Juggernaut",
+        DadoDois: "The Feywood, White Magick's Embrace"
     },
     {
-        "Negalmuur": ""
+        DadoUm: "Negalmuur",
+        DadoDois: "Stilshrine of Miriam, Ward of the Sword-King"
     },
     {
-        "Molen": ""
+        DadoUm: "Molen",
+        DadoDois: "Zertinan Cavern, Hourglass Basin"
     },
     {
-        "Larva Eater": ""
+        DadoUm: "Larva Eater",
+        DadoDois: "The Great Crystal, XIII and XIV Teleporters"
     },
     {
-        "Tower": ""
+        DadoUm: "Tower",
+        DadoDois: "Pharos-Third Ascent"
     },
     {
-        "Arioch": ""
+        DadoUm: "Arioch",
+        DadoDois: "Nabreus Deadlands, The Slumbermead"
     },
     {
-        "Grey Molter": ""
+        DadoUm: "Grey Molter",
+        DadoDois: "Mosphoran Highwaste, Empyrean Way"
     },
     {
-        "Fideliant": ""
+        DadoUm: "Fideliant",
+        DadoDois: "Dalmasca Westesand, The Midfault"
     },
     {
-        "Midgardsormr": ""
+        DadoUm: "Midgardsormr",
+        DadoDois: "Golmore Jungle, Paths of Chained Light"
     },
     {
-        "Crystal Knight": ""
+        DadoUm: "Crystal Knight",
+        DadoDois: "The Great Crystal, XX Teleporter"
     },
     {
-        "Nazarnir": ""
+        DadoUm: "Nazarnir",
+        DadoDois: "Giza Plains, Starfall Field"
     },
     {
-        "Grave Lord": ""
+        DadoUm: "Grave Lord",
+        DadoDois: "Golmore Jungle, The Rustling Chapel"
     },
     {
-        "Victanir": ""
+        DadoUm: "Victanir",
+        DadoDois: "Nam-Yensa Sandsea, Yellow Sands"
     },
     {
-        "Zombie Lord": ""
+        DadoUm: "Zombie Lord",
+        DadoDois: "The Tomb of Raithwall, Northfall Passage"
     },
     {
-        "Gemhorn": ""
+        DadoUm: "Gemhorn",
+        DadoDois: "Lhusu Mines, Site 11"
     },
     {
-        "Drowned": ""
+        DadoUm: "Drowned",
+        DadoDois: "Garamsythe Waterway, No. 4 Cloaca Spur"
     },
     {
-        "Luxollid": ""
+        DadoUm: "Luxollid",
+        DadoDois: "Pharos-Subterra, Umbra-South"
     },
     {
-        "Velelu": ""
+        DadoUm: "Velelu",
+        DadoDois: "Nabreus Deadlands, The Fog Mutters"
     },
     {
-        "Vagrant Soul": ""
+        DadoUm: "Vagrant Soul",
+        DadoDois: "Pharos-Subterra, Abyssal-North"
     },
     {
-        "Disma": ""
+        DadoUm: "Disma",
+        DadoDois: "Lhusu Mines, Site 5 and Site 6 South"
     },
     {
-        "Imdugud": ""
+        DadoUm: "Imdugud",
+        DadoDois: "Nam-Yensa Sandsea, Withering Shores"
     },
     {
-        "Ancbolder": ""
+        DadoUm: "Ancbolder",
+        DadoDois: "Paramina Rift, Karydine Glacier"
     },
     {
-        "Bull Chocobo": ""
+        DadoUm: "Bull Chocobo",
+        DadoDois: "Ogir-Yensa Sandsea, South Tank Approach"
     },
     {
-        "Wendice": ""
+        DadoUm: "Wendice",
+        DadoDois: "Sochen Cave Palace, Destiny's March"
     },
     {
-        "Skullash": ""
+        DadoUm: "Skullash",
+        DadoDois: "Phon Coast, Cape Tialan"
     },
     {
-        "Anchag": ""
+        DadoUm: "Anchag",
+        DadoDois: "Paramina Rift, Karydine Glacier"
     },
     {
-        "Myath": ""
+        DadoUm: "Myath",
+        DadoDois: "Stilshrine of Miriam, Ward of Velitation"
     },
     {
-        "Bluesang": ""
+        DadoUm: "Bluesang",
+        DadoDois: "Cerobi Steppe, Crossfield"
     },
     {
-        "Helvinek": ""
+        DadoUm: "Helvinek",
+        DadoDois: "Necrohol of Nabudis"
     },
     {
-        "Avenger": ""
+        DadoUm: "Avenger",
+        DadoDois: "Pharos-Second Ascent, Station of Ascension"
     },
     {
-        "Pallicant": ""
+        DadoUm: "Pallicant",
+        DadoDois: "Ridorana Cataract, City of Other Days"
     },
     {
-        "Alteci": ""
+        DadoUm: "Alteci",
+        DadoDois: "Zertinan Cavern, The Undershore"
     },
     {
-        "Phyllo": ""
+        DadoUm: "Phyllo",
+        DadoDois: "Golmore Jungle, The Branchway"
     },
     {
-        "Urutan Exile": ""
+        DadoUm: "Urutan Exile",
+        DadoDois: "Ogir-Yensa Sandsea, Platform 2-Refinery"
     }
 ];
 
 export const humanoids = [
     {
-        "Seeq": ""
+        DadoUm: "Seeq",
+        DadoDois: "Mosphoran Highwaste (Empyrean Way, Trail of Sky-flung Stone), Tchita Uplands (The Skytrail, Sundered Earth), Cerobi Steppe (The Terraced Bank), Nalbina Dungeons (Arena)"
     },
     {
-        "Urutan-Yensa": ""
+        DadoUm: "Urutan-Yensa",
+        DadoDois: "Ogir-Yensa Sandsea, Nam-Yensa Sandsea"
     },
     {
-        "Garif": ""
+        DadoUm: "Garif",
+        DadoDois: "Ozmone Plain (The Greensnake)"
     },
     {
-        "Baknamy": ""
+        DadoUm: "Baknamy",
+        DadoDois: "Salikawood (Corridor of Ages, Piebald Path); Nabreus Deadlands (Greencrag, Hope's Reach, Lifeless Strand, Field of the Fallen Lord); Necrohol of Nabudis (Hall of Slumbering Might, Hall of the Ivory Covenant, Cloister of Distant Song, Hall of Effulgent Light)"
     },
     {
-        "Bangaa": ""
+        DadoUm: "Bangaa",
+        DadoDois: "Cerobi Steppe (Old Elanise Road), Phon Coast (The Mauleia Strand), Dalmasca Estersand (Broken Sands)"
     }
 ];
 
 export const archadianEmpires = [
     {
-        "Imperial": ""
+        DadoUm: "Imperial",
+        DadoDois: "Nalbina Fortress (Inner Ward, Lower Apartmens, The Highhall), Garamsythe Waterway (East Sluice Control), Nalbina Dungeons (The Black Watch), Dreadnought Leviathan (Port Launch, Port Section, Large Freight Stores, Starboard Section, Sub-control Room, Airship Berth Access, Central Brig Access), Light Cruiser Shiva (Vossler boss battle), Draklor Laboratory (66th, 67th and 68th Floor), Sky Fortress Bahamut (Periphery - Southeast, Antechamber - South, Periphery - Southwest, Antechamber - West, Periphery - Northwest, Antechamber - North, Periphery - Northeast, Catwalk)"
     },
     {
-        "Judge Ghis": ""
+        DadoUm: "Judge Ghis",
+        DadoDois: "Dreadnought Leviathan (Port Launch)"
     },
     {
-        "Imperial Elite": ""
+        DadoUm: "Imperial Elite",
+        DadoDois: "Dreadnought Leviathan (Central Brig Access); Mt Bur-Omisace (Hall of the Light); Draklor Laboratory (68th Floor; hallways and Room 6813 West); Sky Fortress Bahamut (Periphery - Southeast, Antechamber - South, Periphery - Southwest, Antechamber - West, Periphery - Northwest, Antechamber - North, Periphery - Northeast, Catwalk)"
     },
     {
-        "Judge Bergan": ""
+        DadoUm: "Judge Bergan",
+        DadoDois: "Mt Bur-Omisace (Hall of the Light)"
     },
     {
-        "Imperial Armament": ""
+        DadoUm: "Imperial Armament",
+        DadoDois: "Nalbina Fortress (Inner Ward), Sky Fortress Bahamut (Catwalk), Sky Fortress Bahamut (Catwalk), Sky Fortress Bahamut (Catwalk), Draklor Laboratory (Energy Transitarium)"
     },
     {
-        "Judge Gabranth": ""
+        DadoUm: "Judge Gabranth",
+        DadoDois: "Pharos (Third Ascent - Womb of the Sun-Cryst); Sky Fortress Bahamut (Central Lift)"
     },
     {
-        "Doctor Cid": ""
+        DadoUm: "Doctor Cid",
+        DadoDois: "Draklor Laboratory (Energy Transitarium); Pharos (Womb of the Sun-Cryst)"
     }
 ];

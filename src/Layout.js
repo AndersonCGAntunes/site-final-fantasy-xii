@@ -5,6 +5,7 @@ const Layout = () => {
   return (
     <>
       <nav>
+      <h3 className="subtitulo">Equipamentos</h3>
         <div className="containerMenu">
           <div className="listaMenu">
             <Link to="/">Home</Link>
@@ -35,22 +36,22 @@ const Layout = () => {
           <Link to="/Marks">Marks</Link>
         </div>
         <div className="listaMenu">
-          Elite
+          <Link to="/Elite">Elite</Link>
         </div>
         <div className="listaMenu">
-          Espers
+          <Link to="/Espers">Espers</Link>
         </div>
         <div className="listaMenu">
-          Bosses
+          <Link to="/Bosses">Bosses</Link>
         </div>
         <div className="listaMenu">
-          Rare
+          <Link to="/Rare">Rare</Link>
         </div>
         <div className="listaMenu">
-          Humanoids
+          <Link to="/Humanoids">Humanoids</Link>
         </div>
         <div className="listaMenu">
-          Archadians
+          <Link to="/Archadians">Archadians</Link>
         </div>
       </section>
       <Outlet />
