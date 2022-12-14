@@ -133,6 +133,16 @@ section .col {
   justify-items: center;
   background-color: #282c34;
 }
+.containerSubMenu {
+  width: 600px;
+  margin: 10px auto;
+  display: grid;
+  align-content: center;
+  grid-template-columns: 12% 12% 10% 12% 12% 10% 16% 16%;
+  height: 50px;
+  justify-items: center;
+  background-color: #282c34;
+}
 
 .listaMenu {
   color: cornflowerblue;
@@ -158,4 +168,12 @@ a:visited {
 
 .negrito {
   font-weight: bolder;
+}
+
+.subtitulo {
+  width: 600px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #282c34;
+  color: white;
 }

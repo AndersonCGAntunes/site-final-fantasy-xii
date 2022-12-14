@@ -2750,342 +2750,677 @@ export const monographs = [
     }
 ];
 
-export const bestiary = [
+export const comuns = [
     {
-        "The Dalmasca Sands: ": "Cactoid, Ichthon, Wolf, Wild Saurian, Cockatrice, Gnoma Entite, Dive Talon"
+        DadoUm: "The Dalmasca Sands",
+        DadoDois: "Cactoid, Ichthon, Wolf, Wild Saurian, Cockatrice, Gnoma Entite, Dive Talon"
     },
     {
-        "Giza Plains": "Hyena, Wooly Gator, Happy Bunny, Great Tortoise, Sleipnir, Silicon Tortoise, Wildsnake, Werewolf, Urstrix, Storm Elemental, Slaven, Mardu Entite"
+        DadoUm: "Giza Plains",
+        DadoDois: "Hyena, Wooly Gator, Happy Bunny, Great Tortoise, Sleipnir, Silicon Tortoise, Wildsnake, Werewolf, Urstrix, Storm Elemental, Slaven, Mardu Entite"
     },
     {
-        "Garamsythe Waterway": "Dire Rat, Baritine Croc, Gigantoad, Malboro Overking, Garchimacera, Gespenst, Ghost, Water Elemental"
+        DadoUm: "Garamsythe Waterway",
+        DadoDois: "Dire Rat, Baritine Croc, Gigantoad, Malboro Overking, Garchimacera, Gespenst, Ghost, Water Elemental"
     },
     {
-        "Barheim Passage": "Steeling, Suriander, Mimic, Zombie, Tiny Mimic, Skeleton, Battery Mimic, Specter, Tiny Battery, Mimeo, Flan, Skull Defender, Bomb, Dead Bones"
+        DadoUm: "Barheim Passage",
+        DadoDois: "Steeling, Suriander, Mimic, Zombie, Tiny Mimic, Skeleton, Battery Mimic, Specter, Tiny Battery, Mimeo, Flan, Skull Defender, Bomb, Dead Bones"
     },
     {
-        "Lhusu Mines": "Vampyr, Headless, Killer Mantis, Dullahan, Bug, Dark Lord, Pandora, Gazer"
+        DadoUm: "Lhusu Mines",
+        DadoDois: "Vampyr, Headless, Killer Mantis, Dullahan, Bug, Dark Lord, Pandora, Gazer"
     },
     {
-        "Yensan Sandsea": "Alraune, Danbania, Axebeak, Yensa, Wyvern, Salamand Entite"
+        DadoUm: "Yensan Sandsea",
+        DadoDois: "Alraune, Danbania, Axebeak, Yensa, Wyvern, Salamand Entite"
     },
     {
-        "Tomb of Raithwall": "Seeker, Lost Soul, Lesser Chimera, Zombie Mage, Skull Warrior, Lich, Ragoh, Tallow"
+        DadoUm: "Tomb of Raithwall",
+        DadoDois: "Seeker, Lost Soul, Lesser Chimera, Zombie Mage, Skull Warrior, Lich, Ragoh, Tallow"
     },
     {
-        "Ozmone Plains": "Mesmenir, Chocobo, Wu, Zu, Viper, Zaghnal, Hybrid Gator, Sylphi Entite"
+        DadoUm: "Ozmone Plains",
+        DadoDois: "Mesmenir, Chocobo, Wu, Zu, Viper, Zaghnal, Hybrid Gator, Sylphi Entite"
     },
     {
-        "Golmore Jungle": "Panther, Treant, Hellhound, Diresaur, Malboro, Gargoyle, Great Malboro"
+        DadoUm: "Golmore Jungle",
+        DadoDois: "Panther, Treant, Hellhound, Diresaur, Malboro, Gargoyle, Great Malboro"
     },
     {
-        "Henne Mines": "Thunderbug, Jelly, Tyranorox, Hecteyes, Gizamaluk, Etém, Nightmare, Necrofiend"
+        DadoUm: "Henne Mines",
+        DadoDois: "Thunderbug, Jelly, Tyranorox, Hecteyes, Gizamaluk, Etém, Nightmare, Necrofiend"
     },
     {
-        "Paramina Rift": "White Wolf, Twintania, Lizard, Emperor Aevis, Garuda-Egi, Dark Skeleton, Slaven Warder, Skull Knight, Yeti, Ice Elemental, Wild Onion, Leshach Entite"
+        DadoUm: "Paramina Rift",
+        DadoDois: "White Wolf, Twintania, Lizard, Emperor Aevis, Garuda-Egi, Dark Skeleton, Slaven Warder, Skull Knight, Yeti, Ice Elemental, Wild Onion, Leshach Entite"
     },
     {
-        "Stilshrine of Miriam": "Redmaw, Zombie Warrior, Blood Gigas, Nightwalker, Dragon Aevis, Ghoul, Darkmare, Facer, Balloon, Miriam Guardian, Oiling, Miriam Facer, Ghast, Crystalbug"
+        DadoUm: "Stilshrine of Miriam",
+        DadoDois: "Redmaw, Zombie Warrior, Blood Gigas, Nightwalker, Dragon Aevis, Ghoul, Darkmare, Facer, Balloon, Miriam Guardian, Oiling, Miriam Facer, Ghast, Crystalbug"
     },
     {
-        "Mosphoran Highwaste": "Worgen, Humbaba, Python, Ash Wyrm, Vulture, Clay Golem, Slaven Wilder, Fire Elemental"
+        DadoUm: "Mosphoran Highwaste",
+        DadoDois: "Worgen, Humbaba, Python, Ash Wyrm, Vulture, Clay Golem, Slaven Wilder, Fire Elemental"
     },
     {
-        "Salikawood": "Wyrdhare, Pumpkin Head, Sprinter, Malboro King, Antares"
+        DadoUm: "Salikawood",
+        DadoDois: "Wyrdhare, Pumpkin Head, Sprinter, Malboro King, Antares"
     },
     {
-        "Phon Coast": "Silver Lobo, Mandragora, Iguion, Archaeosaur, Pyrolisk, Piranha, Bagoly, Air Elemental"
+        DadoUm: "Phon Coast",
+        DadoDois: "Silver Lobo, Mandragora, Iguion, Archaeosaur, Pyrolisk, Piranha, Bagoly, Air Elemental"
     },
     {
-        "Tchita Uplands": "Coeurl, Feral Croc, Serpent, Earth Elemental"
+        DadoUm: "Tchita Uplands",
+        DadoDois: "Coeurl, Feral Croc, Serpent, Earth Elemental"
     },
     {
-        "Sochen Cave Palace": "Abysteel, Imp, Striker, Pit Fiend, Wendigo, Zombie Knight, Gorgimera, Focalor"
+        DadoUm: "Sochen Cave Palace",
+        DadoDois: "Abysteel, Imp, Striker, Pit Fiend, Wendigo, Zombie Knight, Gorgimera, Focalor"
     },
     {
-        "The Feywood": "Cerberus, Deadly Nightshade, Mu, Mandragora Prince, Basilisk, Alraune King, Behemoth, Onion Queen, Preying Mantis, Pumpkin Star, Golem, Topstalk, Mirrorknight, Holy Elemental, Tartarus"
+        DadoUm: "The Feywood",
+        DadoDois: "Cerberus, Deadly Nightshade, Mu, Mandragora Prince, Basilisk, Alraune King, Behemoth, Onion Queen, Preying Mantis, Pumpkin Star, Golem, Topstalk, Mirrorknight, Holy Elemental, Tartarus"
     },
     {
-        "Giruvegan": "Ose, Shadonir, Giruveganus, Skulwyrm, Vivian, Forbidden, Gargoyle Baron, Reaper, Mom Bomb, Mythril Golem, Necrophobe, Diakon Entite"
+        DadoUm: "Giruvegan",
+        DadoDois: "Ose, Shadonir, Giruveganus, Skulwyrm, Vivian, Forbidden, Gargoyle Baron, Reaper, Mom Bomb, Mythril Golem, Necrophobe, Diakon Entite"
     },
     {
-        "Ridorana Cataract": "Deathclaw, Cassie"
+        DadoUm: "Ridorana Cataract",
+        DadoDois: "Deathclaw, Cassie"
     },
     {
-        "The Pharos": "Abaddon, Chimera Brain, Bune, Magick Pot, Reaver, Crusader, Aeronite, Dragon Lich, Cataract Aevis, Brainpan, Purobolos, Deidar, Mistmare, Undin Entite"
+        DadoUm: "The Pharos",
+        DadoDois: "Abaddon, Chimera Brain, Bune, Magick Pot, Reaver, Crusader, Aeronite, Dragon Lich, Cataract Aevis, Brainpan, Purobolos, Deidar, Mistmare, Undin Entite"
     },
     {
-        "Zertinan Caverns": "Speartongue, Grenade, Scythe Mantis, Slime, Archaeoaevis, Bogey, Mallicant, Shambling Corpse, Buer"
+        DadoUm: "Zertinan Caverns",
+        DadoDois: "Speartongue, Grenade, Scythe Mantis, Slime, Archaeoaevis, Bogey, Mallicant, Shambling Corpse, Buer"
     },
     {
-        "Cerobi Steppe": "Adamantitan, Charybterix, Bandercoeurl, Shield Wyrm"
+        DadoUm: "Cerobi Steppe",
+        DadoDois: "Adamantitan, Charybterix, Bandercoeurl, Shield Wyrm"
     },
     {
-        "Nabreus Deadlands": "Emeralditan, Leynir, Banshee, Leamonde Entite, Foobar"
+        DadoUm: "Nabreus Deadlands",
+        DadoDois: "Emeralditan, Leynir, Banshee, Leamonde Entite, Foobar"
     },
     {
-        "Necrohol of Nabudis": "Oversoul, Babil, Elvoret, Dark Elemental, Zombie Warlock"
+        DadoUm: "Necrohol of Nabudis",
+        DadoDois: "Oversoul, Babil, Elvoret, Dark Elemental, Zombie Warlock"
     }
 ];
 
 export const marks = [
     {
-        "Rogue Tomato": "Dalmasca Estersand"
+        DadoUm: "Rogue Tomato",
+        DadoDois: "Dalmasca Estersand, The Stepping"
     },
     {
-        "Atomos": "Mosphoran Highwaste"
+        DadoUm: "Atomos",
+        DadoDois: "Mosphoran Highwaste, Northern Skirts"
     },
     {
-        "Thextera": "Dalmasca Westersand"
+        DadoUm: "Thextera",
+        DadoDois: "Dalmasca Westersand, Galtea Downs"
     },
     {
-        "Roblon": "Nabreus Deadlands"
+        DadoUm: "Roblon",
+        DadoDois: "Nabreus Deadlands, Overlooking Eternity"
     },
     {
-        "Flowering Cactoid": "Dalmasca Estersand"
+        DadoUm: "Flowering Cactoid",
+        DadoDois: "Dalmasca Estersand, Yardang Labyrinth"
     },
     {
-        "Braegh": "Salikawood"
+        DadoUm: "Braegh",
+        DadoDois: "Salikawood, Corridor of Ages"
     },
     {
-        "Wraith": "Garamsythe Waterway"
+        DadoUm: "Wraith",
+        DadoDois: "Garamsythe Waterway, Overflow Cloaca"
     },
     {
-        "Darksteel": "Sochen Cave Palace"
+        DadoUm: "Darksteel",
+        DadoDois: "Sochen Cave Palace, Temptation Eluded"
     },
     {
-        "Nidhogg": ""
+        DadoUm: "Nidhogg",
+        DadoDois: "Lhusu Mines, Transitway 1"
     },
     {
-        "Vyraal": ""
+        DadoUm: "Vyraal",
+        DadoDois: "Cerobi Steppe, The Northsward"
     },
     {
-        "White Mousse": ""
+        DadoUm: "White Mousse",
+        DadoDois: "Garamsythe Waterway, West Sluice Control"
     },
     {
-        "Lindwyrm": ""
+        DadoUm: "Lindwyrm",
+        DadoDois: "Tchita Uplands, Garden of Life's Circle"
     },
     {
-        "Ring Wyrm": ""
+        DadoUm: "Ring Wyrm",
+        DadoDois: "Dalmasca Westersand, Windtrace Dunes"
     },
     {
-        "Overlord": ""
+        DadoUm: "Overlord",
+        DadoDois: "Sochen Cave Palace, Doubt Abandoned"
     },
     {
-        "Wyvern Lord": ""
+        DadoUm: "Wyvern Lord",
+        DadoDois: "Nam-Yensa Sandsea, Simoon Bluff"
     },
     {
-        "Goliath": ""
+        DadoUm: "Goliath",
+        DadoDois: "Necrohol of Nabudis, Hall of Slumbering Might"
     },
     {
-        "Marilith": ""
+        DadoUm: "Marilith",
+        DadoDois: "Zertinan Caverns, Invitation to Heresy"
     },
     {
-        "Deathscythe": ""
+        DadoUm: "Deathscythe",
+        DadoDois: "Necrohol of Nabudis, Cloister of the Highborn"
     },
     {
-        "Enkelados": ""
+        DadoUm: "Enkelados",
+        DadoDois: "Ozmone Plain, The Shred"
     },
     {
-        "Deathgaze": ""
+        DadoUm: "Deathgaze",
+        DadoDois: "Airship"
     },
     {
-        "Croakadile": ""
+        DadoUm: "Croakadile",
+        DadoDois: "Giza Plains, Starfall Field"
     },
     {
-        "Diabolos": ""
+        DadoUm: "Diabolos",
+        DadoDois: "Lhusu Mines, Site 11"
     },
     {
-        "Ixtab": ""
+        DadoUm: "Ixtab",
+        DadoDois: "Henne Mines, Phase 1 - Shaft"
     },
     {
-        "Piscodaemon": ""
+        DadoUm: "Piscodaemon",
+        DadoDois: "Giruvegan, Gate of Fire"
     },
     {
-        "Feral Retriever": ""
+        DadoUm: "Feral Retriever",
+        DadoDois: "Paramina Rift, Spine of the Icewyrm"
     },
     {
-        "Wild Malboro": ""
+        DadoUm: "Wild Malboro",
+        DadoDois: "The Feywood, Redolent Glade"
     },
     {
-        "Vorpal Bunny": ""
+        DadoUm: "Vorpal Bunny",
+        DadoDois: "Golmore Jungle, The Rustling Chapel"
     },
     {
-        "Catoblepas": ""
+        DadoUm: "Catoblepas",
+        DadoDois: "Zertinan Caverns, Hourglass Basin"
     },
     {
-        "Mindflayer": ""
+        DadoUm: "Mindflayer",
+        DadoDois: "Henne Mines, Phase 1 - Dig"
     },
     {
-        "Fafnir": ""
+        DadoUm: "Fafnir",
+        DadoDois: "Paramina Rift, Silverflow's End"
     },
     {
-        "Bloodwing": ""
+        DadoUm: "Bloodwing",
+        DadoDois: "Barheim Passage, West Annex"
     },
     {
-        "Pylraster": ""
+        DadoUm: "Pylraster",
+        DadoDois: "Pharos - First Ascent, They Who Thirst Not"
     }
 ];
 
 export const eliteMarks = [
     {
-        Chickatrice
-Cluckatrice
-Rocktoise
-Orthros
-Gil Snapper
-Trickster
-Antlion
-Carrot
-Gilgamesh
-Enkidu
-Behemoth King
-Ixion
-Pandaemonium
-Slyt
-Fenrir
-Phoenix
-Shadowseer
-Yiazmat
+        "Chickatrice": ""
+    },
+    {
+        "Cluckatrice": ""
+    },
+    {
+        "Rocktoise": ""
+    },
+    {
+        "Orthros": ""
+    },
+    {
+        "Gil Snapper": ""
+    },
+    {
+        "Trickster": ""
+    },
+    {
+        "Antlion": ""
+    },
+    {
+        "Carrot": ""
+    },
+    {
+        "Gilgamesh": ""
+    },
+    {
+        "Enkidu": ""
+    },
+    {
+        "Behemoth King": ""
+    },
+    {
+        "Ixion": ""
+    },
+    {
+        "Pandaemonium": ""
+    },
+    {
+        "Slyt": ""
+    },
+    {
+        "Fenrir": ""
+    },
+    {
+        "Phoenix": ""
+    },
+    {
+        "Shadowseer": ""
+    },
+    {
+        "Yiazmat": ""
     }
 ];
 
 export const espers = [
     {
-        Belias
-Exodus
-Chaos
-Cúchulainn
-Zalera
-Shemhazai
-Zeromus
-Adrammelech
-Hashmal
-Famfrit
-Ultima
-Mateus
-Zodiark
+        "Belias": ""
+    },
+    {
+        "Exodus": ""
+    },
+    {
+        "Chaos": ""
+    },
+    {
+        "Cúchulainn": ""
+    },
+    {
+        "Zalera": ""
+    },
+    {
+        "Shemhazai": ""
+    },
+    {
+        "Zeromus": ""
+    },
+    {
+        "Adrammelech": ""
+    },
+    {
+        "Hashmal": ""
+    },
+    {
+        "Famfrit": ""
+    },
+    {
+        "Ultima": ""
+    },
+    {
+        "Mateus": ""
+    },
+    {
+        "Zodiark": ""
     }
 ];
 
 export const bosses = [
-    Firemane
-Rafflesia
-Mimic Queen
-Daedalus
-Ba'Gamnan b c d
-Tyrant
-Demon Wall
-Hydro
-Tiamat
-Earth Tyrant
-Elder Wyrm
-Fury
-Vinuskar
-Humbaba Mistant
-King Bomb
-Hell Wyrm
-Ahriman
-Omega Mark XII
+    {
+        "Firemane": ""
+    },
+    {
+        "Rafflesia": ""
+    },
+    {
+        "Mimic Queen": ""
+    },
+    {
+        "Daedalus": ""
+    },
+    {
+        "Ba'Gamnan": ""
+    },
+    {
+        "Tyrant": ""
+    },
+    {
+        "Demon Wall": ""
+    },
+    {
+        "Hydro": ""
+    },
+    {
+        "Tiamat": ""
+    },
+    {
+        "Earth Tyrant": ""
+    },
+    {
+        "Elder Wyrm": ""
+    },
+    {
+        "Fury": ""
+    },
+    {
+        "Vinuskar": ""
+    },
+    {
+        "Humbaba Mistant": ""
+    },
+    {
+        "King Bomb": ""
+    },
+    {
+        "Hell Wyrm": ""
+    },
+    {
+        "Ahriman": ""
+    },
+    {
+        "Omega Mark XII": ""
+    }
 ];
 
 export const rareGames = [
-    Aspidochelon
-Aerieel
-Thalassinon
-Anubys
-Greeden
-Barmuu
-Bull Croc
-Vishno
-Gavial
-Etherian
-Wary Wolf
-Melt
-Kaiser Wolf
-Cubus
-Lindbur Wolf
-Pineapple
-Dreadguard
-Bombshell
-Crypt Bunny
-Megabomb
-Spee
-Matriarch Bomb
-Rain Dancer
-Ripe Rampager
-Razorfin
-Killbug
-Apsara
-Minibug
-Rageclaw
-Ithuno
-Biding Mantis
-Kris
-Wood Toad
-Dheed
-Tarasque
-Aeros
-Grimalkin
-Terror Tyrant
-Nekhbet
-Abelisk
-Glaring Eye
-Dustia
-Cultsworn Lich
-Ishteen
-Evil Spirit
-Vorres
-Juggernaut
-Negalmuur
-Molen
-Larva Eater
-Tower
-Arioch
-Grey Molter
-Fideliant
-Midgardsormr
-Crystal Knight
-Nazarnir
-Grave Lord
-Victanir
-Zombie Lord
-Gemhorn
-Drowned
-Luxollid
-Velelu
-Vagrant Soul
-Disma
-Imdugud
-Ancbolder
-Bull Chocobo
-Wendice
-Skullash
-Anchag
-Myath
-Bluesang
-Helvinek
-Avenger
-Pallicant
-Alteci
-Phyllo
-Urutan Exile
+    {
+        "Aspidochelon": ""
+    },
+    {
+        "Aerieel": ""
+    },
+    {
+        "Thalassinon": ""
+    },
+    {
+        "Anubys": ""
+    },
+    {
+        "Greeden": ""
+    },
+    {
+        "Barmuu": ""
+    },
+    {
+        "Bull Croc": ""
+    },
+    {
+        "Vishno": ""
+    },
+    {
+        "Gavial": ""
+    },
+    {
+        "Etherian": ""
+    },
+    {
+        "Wary Wolf": ""
+    },
+    {
+        "Melt": ""
+    },
+    {
+        "Kaiser Wolf": ""
+    },
+    {
+        "Cubus": ""
+    },
+    {
+        "Lindbur Wolf": ""
+    },
+    {
+        "Pineapple": ""
+    },
+    {
+        "Dreadguard": ""
+    },
+    {
+        "Bombshell": ""
+    },
+    {
+        "Crypt Bunny": ""
+    },
+    {
+        "Megabomb": ""
+    },
+    {
+        "Spee": ""
+    },
+    {
+        "Matriarch Bomb": ""
+    },
+    {
+        "Rain Dancer": ""
+    },
+    {
+        "Ripe Rampager": ""
+    },
+    {
+        "Razorfin": ""
+    },
+    {
+        "Killbug": ""
+    },
+    {
+        "Apsara": ""
+    },
+    {
+        "Minibug": ""
+    },
+    {
+        "Rageclaw": ""
+    },
+    {
+        "Ithuno": ""
+    },
+    {
+        "Biding Mantis": ""
+    },
+    {
+        "Kris": ""
+    },
+    {
+        "Wood Toad": ""
+    },
+    {
+        "Dheed": ""
+    },
+    {
+        "Tarasque": ""
+    },
+    {
+        "Aeros": ""
+    },
+    {
+        "Grimalkin": ""
+    },
+    {
+        "Terror Tyrant": ""
+    },
+    {
+        "Nekhbet": ""
+    },
+    {
+        "Abelisk": ""
+    },
+    {
+        "Glaring Eye": ""
+    },
+    {
+        "Dustia": ""
+    },
+    {
+        "Cultsworn Lich": ""
+    },
+    {
+        "Ishteen": ""
+    },
+    {
+        "Evil Spirit": ""
+    },
+    {
+        "Vorres": ""
+    },
+    {
+        "Juggernaut": ""
+    },
+    {
+        "Negalmuur": ""
+    },
+    {
+        "Molen": ""
+    },
+    {
+        "Larva Eater": ""
+    },
+    {
+        "Tower": ""
+    },
+    {
+        "Arioch": ""
+    },
+    {
+        "Grey Molter": ""
+    },
+    {
+        "Fideliant": ""
+    },
+    {
+        "Midgardsormr": ""
+    },
+    {
+        "Crystal Knight": ""
+    },
+    {
+        "Nazarnir": ""
+    },
+    {
+        "Grave Lord": ""
+    },
+    {
+        "Victanir": ""
+    },
+    {
+        "Zombie Lord": ""
+    },
+    {
+        "Gemhorn": ""
+    },
+    {
+        "Drowned": ""
+    },
+    {
+        "Luxollid": ""
+    },
+    {
+        "Velelu": ""
+    },
+    {
+        "Vagrant Soul": ""
+    },
+    {
+        "Disma": ""
+    },
+    {
+        "Imdugud": ""
+    },
+    {
+        "Ancbolder": ""
+    },
+    {
+        "Bull Chocobo": ""
+    },
+    {
+        "Wendice": ""
+    },
+    {
+        "Skullash": ""
+    },
+    {
+        "Anchag": ""
+    },
+    {
+        "Myath": ""
+    },
+    {
+        "Bluesang": ""
+    },
+    {
+        "Helvinek": ""
+    },
+    {
+        "Avenger": ""
+    },
+    {
+        "Pallicant": ""
+    },
+    {
+        "Alteci": ""
+    },
+    {
+        "Phyllo": ""
+    },
+    {
+        "Urutan Exile": ""
+    }
 ];
 
 export const humanoids = [
-    Seeq
-Urutan-Yensa
-Garif
-Baknamy
-Bangaa
+    {
+        "Seeq": ""
+    },
+    {
+        "Urutan-Yensa": ""
+    },
+    {
+        "Garif": ""
+    },
+    {
+        "Baknamy": ""
+    },
+    {
+        "Bangaa": ""
+    }
 ];
 
 export const archadianEmpires = [
-    Imperial
-Judge Ghis
-Imperial Elite
-Judge Bergan
-Imperial Armament
-Judge Gabranth
-Doctor Cid
+    {
+        "Imperial": ""
+    },
+    {
+        "Judge Ghis": ""
+    },
+    {
+        "Imperial Elite": ""
+    },
+    {
+        "Judge Bergan": ""
+    },
+    {
+        "Imperial Armament": ""
+    },
+    {
+        "Judge Gabranth": ""
+    },
+    {
+        "Doctor Cid": ""
+    }
 ];

@@ -26,6 +26,33 @@ const Layout = () => {
           </div>
         </div>
       </nav>
+      <h3 className="subtitulo">Bestiário</h3>
+      <section className="containerSubMenu">
+        <div className="listaMenu">
+          <Link to="/Comuns">Comuns</Link>
+        </div>
+        <div className="listaMenu">
+          <Link to="/Marks">Marks</Link>
+        </div>
+        <div className="listaMenu">
+          Elite
+        </div>
+        <div className="listaMenu">
+          Espers
+        </div>
+        <div className="listaMenu">
+          Bosses
+        </div>
+        <div className="listaMenu">
+          Rare
+        </div>
+        <div className="listaMenu">
+          Humanoids
+        </div>
+        <div className="listaMenu">
+          Archadians
+        </div>
+      </section>
       <Outlet />
     </>
   )

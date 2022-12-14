@@ -9,6 +9,8 @@ import NoPage from "./NoPage";
 import Accessories from './Accessories';
 import Bazaar from './Bazaar';
 import Monograph from './Monographs';
+import Comuns from './Comuns';
+import Marks from './Marks';
 
 export default function App() {
   return (
@@ -24,6 +26,8 @@ export default function App() {
             <Route path='accessories' element={<Accessories />} />
             <Route path='bazaar' element={<Bazaar />} />
             <Route path='monographs' element={<Monograph />} />
+            <Route path='comuns' element={<Comuns />} />
+            <Route path='marks' element={<Marks />} />
             <Route path="*" element={<NoPage />} />
           </Route>
         </Routes>
